@@ -1,0 +1,937 @@
+lccn,title,name,place,city,state,how,events,lat,lon,match,qid,pop,region
+sn00062053,"Katalikas. (Chicago, Ill.) 1899-19??",Katalikas,"Chicago, Ill.",Chicago,Illinois,title,titanic1912,41.85003,-87.65005,Chicago,geonames:4887398,2664452.0,Midwest
+sn00063676,"St. Johns review. (Saint Johns, Or.) 1904-current",St. Johns review,"Saint Johns, Or.",Saint Johns,Oregon,title,titanic1912,45.515,-122.679167,Portland,wikidata:Q6106,652503.0,West
+sn00065127,"Dakota farmers&#39; leader. (Canton, S.D.) 1890-19??",Dakota farmers&#39; leader,"Canton, S.D.",Canton,South Dakota,title,titanic1912,43.30081,-96.59282,Canton,geonames:5226716,3331.0,Midwest
+sn00065154,"The herald-advance. (Milbank, S.D.) 1890-1922",The herald-advance,"Milbank, S.D.",Milbank,South Dakota,title,titanic1912,45.218611,-96.633611,Milbank,wikidata:Q1815489,3544.0,Midwest
+sn2001063112,"The Mitchell capital. (Mitchell, Dakota [S.D.]) 1879-1918",The Mitchell capital,"Mitchell, Dakota [S.D.]",Mitchell,South Dakota,title,titanic1912,43.70943,-98.0298,Mitchell,geonames:5229794,15669.0,Midwest
+sn2001063133,"Turner County herald. (Hurley, Dakota [S.D.]) 1883-19??",Turner County herald,"Hurley, Dakota [S.D.]",Hurley,South Dakota,title,titanic1912,43.2825,-97.088333,Hurley,wikidata:Q3239880,379.0,Midwest
+sn2001063175,"Sisseton Posten. [volume] (Effington, Sud Dakota [S.D.]) 1902-19??",Sisseton Posten,"Effington, Sud Dakota [S.D.]",Sisseton,South Dakota,name,titanic1912,45.663333,-97.049167,Sisseton,wikidata:Q1026188,2479.0,Midwest
+sn2001063549,"Saturday news. (Watertown, S.D.) 19??-19??",Saturday news,"Watertown, S.D.",Watertown,South Dakota,title,titanic1912,44.903333,-97.120555,Watertown,wikidata:Q1065503,22655.0,Midwest
+sn2008060406,"The American issue. [volume] (Westerville, Ohio) 1912-19??",The American issue,"Westerville, Ohio",Westerville,Ohio,title,titanic1912,40.12617,-82.92907,Westerville,geonames:5176472,38384.0,Midwest
+sn78000090,"The Southern Jewish weekly. [volume] (Jacksonville, Fla.) 1939-1992",The Southern Jewish weekly,"Jacksonville, Fla.",Jacksonville,Florida,title,pearl1941,30.33218,-81.65565,Jacksonville,geonames:4160021,1009833.0,South
+sn78000395,"The labor world. [volume] (Duluth, Minn.) 1896-current",The labor world,"Duluth, Minn.",Duluth,Minnesota,title,titanic1912,46.784444,-92.105278,Duluth,wikidata:Q485708,86697.0,Midwest
+sn78000533,"The potters herald. [volume] (East Liverpool, Ohio) 1899-1982",The potters herald,"East Liverpool, Ohio",East Liverpool,Ohio,title,pearl1941,40.61868,-80.57729,East Liverpool,geonames:5152709,10846.0,Midwest
+sn78000873,"The Republican journal. [volume] (Belfast, Me.) 1829-current",The Republican journal,"Belfast, Me.",Belfast,Maine,title,custer1876 titanic1912,44.426111,-69.008333,Belfast,wikidata:Q2075675,6938.0,Northeast
+sn79000083,"Jackson advocate. [volume] (Jackson, Miss.) 1939-current",Jackson advocate,"Jackson, Miss.",Jackson,Mississippi,title,pearl1941,32.298889,-90.184722,Jackson,wikidata:Q28198,153701.0,South
+sn79007943,"G\u00c5\u201aos polek. [volume] (Chicago, Ill.) 1902-current",G\u00c5\u201aos polek,"Chicago, Ill.",Chicago,Illinois,title,titanic1912,41.85003,-87.65005,Chicago,geonames:4887398,2664452.0,Midwest
+sn81004351,La opinio\u0301n.,La opinio\u0301n,,,California,none,pearl1941,,,,,,West
+sn82003389,"The Louisiana Democrat. [volume] (Alexandria, La.) 1845-1918",The Louisiana Democrat,"Alexandria, La.",Alexandria,Louisiana,title,lincoln1865 custer1876,31.31129,-92.44514,Alexandria,geonames:4314550,47889.0,South
+sn82005159,"The Bedford gazette. [volume] (Bedford, Pa.) 1805-current",The Bedford gazette,"Bedford, Pa.",Bedford,Pennsylvania,title,lincoln1865,40.0164,-78.5042,Bedford,wikidata:Q1133571,2865.0,Northeast
+sn82006551,"The Western news. [volume] (Libby, Mont.) 1933-current",The Western news,"Libby, Mont.",Libby,Montana,title,pearl1941,48.388286,-115.555999,Libby,wikidata:Q957370,2775.0,West
+sn82006687,"Saint Mary&#39;s beacon. [volume] (Leonard Town, Md.) 1867-1983",Saint Mary&#39;s beacon,"Leonard Town, Md.",Leonard Town,Maryland,title,custer1876 titanic1912,38.29124,-76.63579,Leonardtown,geonames:4360551,3633.0,South
+sn82007642,"Watauga Democrat. [volume] (Boone, Watauga County, N.C.) 1888-current",Watauga Democrat,"Boone, Watauga County, N.C.",Boone,North Carolina,title,titanic1912,36.21679,-81.67455,Boone,wikidata:Q893055,19092.0,South
+sn82014085,The Waterbury Democrat.,The Waterbury Democrat,,Waterbury,Connecticut,name,pearl1941,41.558333,-73.036944,Waterbury,wikidata:Q49178,114403.0,Northeast
+sn82014086,"Norwich bulletin. [volume] (Norwich, Conn.) 1895-2011",Norwich bulletin,"Norwich, Conn.",Norwich,Connecticut,title,titanic1912,41.550278,-72.0875,Norwich,wikidata:Q631402,40125.0,Northeast
+sn82014129,"Council Bluffs bugle. [volume] (Council Bluffs, Iowa) 1860-1868",Council Bluffs bugle,"Council Bluffs, Iowa",Council Bluffs,Iowa,title,lincoln1865,41.253,-95.862,Council Bluffs,wikidata:Q695565,62799.0,Midwest
+sn82014189,The daily Alaskan.,The daily Alaskan,,,Alaska,none,titanic1912,,,,,,West
+sn82014248,"Daily Kennebec journal. [microfilm reel] (Augusta, Me.) 1870-1975",Daily Kennebec journal,"Augusta, Me.",Augusta,Maine,title,custer1876 titanic1912,44.310556,-69.779444,Augusta,wikidata:Q28206,18899.0,Northeast
+sn82014371,"The daily Chattanooga rebel. [volume] (Griffin, Ga.) 1864-1865",The daily Chattanooga rebel,"Griffin, Ga.",Griffin,Georgia,title,lincoln1865,33.2475,-84.2708,Griffin,wikidata:Q1012372,23478.0,South
+sn82014487,"The mountain Democrat. [volume] (Placerville, El Dorado County, Calif.) 1863-1943",The mountain Democrat,"Placerville, El Dorado County, Calif.",Placerville,California,title,lincoln1865,38.729722,-120.798611,Placerville,wikidata:Q927485,10747.0,West
+sn82014546,"The Jeffersonian. [volume] (Atlanta, Ga.) 1907-1917",The Jeffersonian,"Atlanta, Ga.",Atlanta,Georgia,title,titanic1912,33.749,-84.38798,Atlanta,geonames:4180439,510823.0,South
+sn82014689,"The Maui news. [volume] (Wailuku, Maui, H.I.) 1900-current",The Maui news,"Wailuku, Maui, H.I.",Wailuku,Hawaii,title,titanic1912,20.89167,-156.50194,Wailuku,wikidata:Q2087831,17697.0,West
+sn82014726,Washington Journal.,Washington Journal,,Washington,District of Columbia,name,titanic1912 pearl1941,38.89511,-77.03637,Washington,geonames:4140963,689545.0,South
+sn82014751,Washington telegraph.,Washington telegraph,,,Arkansas,none,lincoln1865,,,,,,South
+sn82014761,Columbia.,Columbia,,,District of Columbia,none,lincoln1865,,,,,,South
+sn82014805,The daily gazette.,The daily gazette,,,Delaware,none,custer1876,,,,,,South
+sn82014896,"Arizona citizen. [volume] (Tucson, Pima County, A.T. [i.e. Ariz.]) 1870-1880",Arizona citizen,"Tucson, Pima County, A.T. [i.e. Ariz.]",Tucson,Arizona,title,custer1876,32.22174,-110.92648,Tucson,geonames:5318313,542629.0,West
+sn82014898,Arizona weekly miner.,Arizona weekly miner,,,Arizona,none,custer1876,,,,,,West
+sn82014998,The Placer herald.,The Placer herald,,,California,none,lincoln1865,,,,,,West
+sn82015038,"Le Louisianais. [volume] (Convent, La.) 1865-1883",Le Louisianais,"Convent, La.",Convent,Louisiana,title,custer1876,30.02076,-90.82982,Convent,geonames:4320643,711.0,South
+sn82015099,The Shasta courier.,The Shasta courier,,Shasta,California,name,lincoln1865,40.59932,-122.49196,Shasta,geonames:5571092,1771.0,West
+sn82015387,"St. Tammany farmer. [volume] (Covington, La.) 1874-current",St. Tammany farmer,"Covington, La.",Covington,Louisiana,title,titanic1912,30.4789,-90.1042,Covington,wikidata:Q1014171,11564.0,South
+sn82015407,"The Idaho world. [volume] (Idaho City, Idaho Territory) 1864-1918",The Idaho world,"Idaho City, Idaho Territory",Idaho City,Idaho,title,lincoln1865,43.8285,-115.83455,Idaho City,geonames:5596462,474.0,West
+sn82015411,"The Garden Island. [volume] (Lihue, Kauai, H.T.) 1902-current",The Garden Island,"Lihue, Kauai, H.T.",Lihue,Hawaii,title,titanic1912,21.974722,-159.365555,Līhuʻe,wikidata:Q588881,8004.0,West
+sn82015415,The Hawaiian star. [volume] (Honolulu [Oahu]) 1893-1912,The Hawaiian star,Honolulu [Oahu],Honolulu,Hawaii,title,titanic1912,21.30694,-157.85833,Honolulu,geonames:5856195,350964.0,West
+sn82015418,"The Pacific commercial advertiser. [volume] (Honolulu, Hawaiian Islands) 1856-1888",The Pacific commercial advertiser,"Honolulu, Hawaiian Islands",Honolulu,Hawaii,title,lincoln1865 custer1876,21.30694,-157.85833,Honolulu,geonames:5856195,350964.0,West
+sn82015484,"The Weekly Kansas chief. [volume] (Troy, Kan.) 1872-1918",The Weekly Kansas chief,"Troy, Kan.",Troy,Kansas,title,custer1876,39.78305,-95.08997,Troy,geonames:4280660,988.0,Midwest
+sn82015485,"Western Kansas world. [volume] (WaKeeney, Kan.) 1885-current",Western Kansas world,"WaKeeney, Kan.",WaKeeney,Kansas,title,titanic1912,39.02501,-99.87957,WaKeeney,geonames:4281083,1811.0,Midwest
+sn82015486,"White Cloud Kansas chief. [volume] (White Cloud, Kan.) 1857-1872",White Cloud Kansas chief,"White Cloud, Kan.",White Cloud,Kansas,title,lincoln1865,39.9772,-95.3,White Cloud,wikidata:Q2597098,115.0,Midwest
+sn82015683,"Daily State sentinel. [volume] (Indianapolis, Ind.) 1861-1865",Daily State sentinel,"Indianapolis, Ind.",Indianapolis,Indiana,title,lincoln1865,39.768611,-86.158056,Indianapolis,wikidata:Q6346,887642.0,Midwest
+sn82015761,Williams news.,Williams news,,Williams,Arizona,name,titanic1912,35.249444,-112.19,Williams,wikidata:Q79864,3202.0,West
+sn82015854,"Knoxville journal. [volume] (Knoxville, Iowa) 1874-1986",Knoxville journal,"Knoxville, Iowa",Knoxville,Iowa,title,custer1876,41.319167,-93.101389,Knoxville,wikidata:Q986176,7595.0,Midwest
+sn82016014,"The Topeka state journal. [volume] (Topeka, Kansas) 1892-1980",The Topeka state journal,"Topeka, Kansas",Topeka,Kansas,title,titanic1912,39.04833,-95.67804,Topeka,wikidata:Q41057,126587.0,Midwest
+sn82016413,"Evening bulletin. [volume] (Honolulu [Oahu, Hawaii]) 1895-1912",Evening bulletin,"Honolulu [Oahu, Hawaii]",Honolulu,Hawaii,title,titanic1912,21.30694,-157.85833,Honolulu,geonames:5856195,350964.0,West
+sn82016419,"The Emporia news. [volume] (Emporia, Kan.) 1859-1881",The Emporia news,"Emporia, Kan.",Emporia,Kansas,title,lincoln1865 custer1876,38.4039,-96.18166,Emporia,geonames:4271086,24649.0,Midwest
+sn83002748,,,,,,none,titanic1912,,,,,,
+sn83004226,"The Big Sandy news. [volume] (Louisa, Ky.) 1885-1929",The Big Sandy news,"Louisa, Ky.",Louisa,Kentucky,title,titanic1912,38.11425,-82.60321,Louisa,geonames:4299275,2455.0,South
+sn83009571,"The Union and journal. [volume] (Biddeford, Me.) 1858-1882",The Union and journal,"Biddeford, Me.",Biddeford,Maine,title,lincoln1865,43.474167,-70.446111,Biddeford,wikidata:Q856938,22552.0,Northeast
+sn83009653,"Oxford Democrat. [volume] (Paris, Me.) 1833-1933",Oxford Democrat,"Paris, Me.",Paris,Maine,title,lincoln1865 custer1876 titanic1912,44.259722,-70.500556,Paris,wikidata:Q934294,5179.0,Northeast
+sn83016025,"The Portland daily press. [volume] (Portland, Me.) 1862-1921",The Portland daily press,"Portland, Me.",Portland,Maine,title,lincoln1865 custer1876,43.66,-70.255,Portland,wikidata:Q49201,68408.0,Northeast
+sn83016107,"The aegis &amp; intelligencer. [volume] (Bel Air, Md.) 1864-1923",The aegis &amp; intelligencer,"Bel Air, Md.",Bel Air,Maryland,title,lincoln1865 custer1876,39.535506,-76.34904,Bel Air,wikidata:Q754583,10661.0,South
+sn83016118,"Der Deutsche correspondent. [volume] (Baltimore, Md.) 1848-1918",Der Deutsche correspondent,"Baltimore, Md.",Baltimore,Maryland,title,custer1876,39.29038,-76.61219,Baltimore,geonames:4347778,585708.0,South
+sn83016179,"Civilian &amp; telegraph. [volume] (Cumberland, Md.) 1859-1875",Civilian &amp; telegraph,"Cumberland, Md.",Cumberland,Maryland,title,lincoln1865,39.65287,-78.76252,Cumberland,geonames:4352681,20130.0,South
+sn83016209,"Montgomery County sentinel. [volume] (Rockville, Md.) 1855-1974",Montgomery County sentinel,"Rockville, Md.",Rockville,Maryland,title,custer1876 titanic1912 pearl1941,39.084,-77.15276,Rockville,wikidata:Q327022,67117.0,South
+sn83016244,"The Key West citizen. [volume] (Key West, Fla.) 1879-current",The Key West citizen,"Key West, Fla.",Key West,Florida,title,pearl1941,24.559722,-81.783611,Key West,wikidata:Q485186,26444.0,South
+sn83016318,"The Lansing state Republican. [volume] (Lansing, Mich.) 1855-1874",The Lansing state Republican,"Lansing, Mich.",Lansing,Michigan,title,lincoln1865,42.73253,-84.55553,Lansing,geonames:4998830,112644.0,Midwest
+sn83016348,"The Cecil Whig. [volume] (Elkton, Md.) 1841-current",The Cecil Whig,"Elkton, Md.",Elkton,Maryland,title,lincoln1865 custer1876 titanic1912,39.607778,-75.829722,Elkton,wikidata:Q754338,15807.0,South
+sn83016368,"The Baltimore County union. [volume] (Towsontown, Md.) 1865-1909",The Baltimore County union,"Towsontown, Md.",Towsontown,Maryland,title,lincoln1865 custer1876,39.393056,-76.609445,Towson,wikidata:Q755615,59553.0,South
+sn83016483,"The south-western. [volume] (Shreveport, La.) 1852-1870",The south-western,"Shreveport, La.",Shreveport,Louisiana,title,lincoln1865,32.508056,-93.762778,Shreveport,wikidata:Q80517,187593.0,South
+sn83016484,"Shreveport semi-weekly news. [volume] (Shreveport, La.) 1865-18??",Shreveport semi-weekly news,"Shreveport, La.",Shreveport,Louisiana,title,lincoln1865,32.508056,-93.762778,Shreveport,wikidata:Q80517,187593.0,South
+sn83016485,Shreveport news. [volume] (Shreveport [La.]) 1864-1865,Shreveport news,Shreveport [La.],Shreveport,Louisiana,title,lincoln1865,32.508056,-93.762778,Shreveport,wikidata:Q80517,187593.0,South
+sn83016555,"New Orleans Republican. [volume] (New Orleans, La) 1867-1878",New Orleans Republican,"New Orleans, La",New Orleans,Louisiana,title,custer1876,29.976111,-90.078333,New Orleans,wikidata:Q34404,383997.0,South
+sn83016563,The Black Republican.,The Black Republican,,,Louisiana,none,lincoln1865,,,,,,South
+sn83016589,"The Mankato free press. [volume] (Mankato, Blue Earth County, Minn.) 1879-1924",The Mankato free press,"Mankato, Blue Earth County, Minn.",Mankato,Minnesota,title,titanic1912,44.167667,-94.0034,Mankato,wikidata:Q913243,44488.0,Midwest
+sn83016689,"The Detroit times. [volume] (Detroit, Mich.) 1903-1920",The Detroit times,"Detroit, Mich.",Detroit,Michigan,title,titanic1912,42.33143,-83.04575,Detroit,geonames:4990729,645705.0,Midwest
+sn83016739,"American citizen. [volume] (Canton, Miss.) 1864-1890",American citizen,"Canton, Miss.",Canton,Mississippi,title,custer1876,32.61264,-90.03675,Canton,geonames:4420617,13676.0,South
+sn83016751,"The weekly pioneer and Democrat. [volume] (Saint Paul, Minn. Territory) 1855-1865",The weekly pioneer and Democrat,"Saint Paul, Minn. Territory",Saint Paul,Minnesota,title,lincoln1865,44.944167,-93.093611,Saint Paul,wikidata:Q28848,311527.0,Midwest
+sn83016758,"The Princeton union. [volume] (Princeton, Minn.) 1876-1976",The Princeton union,"Princeton, Minn.",Princeton,Minnesota,title,titanic1912,45.57,-93.581667,Princeton,wikidata:Q2228008,4819.0,Midwest
+sn83016804,"St. Paul recorder. [volume] (St. Paul, Minn.) 1934-2000",St. Paul recorder,"St. Paul, Minn.",St. Paul,Minnesota,title,pearl1941,44.944167,-93.093611,Saint Paul,wikidata:Q28848,311527.0,Midwest
+sn83016810,"The Appeal. [volume] (Saint Paul, Minn. ;) 1889-19??",The Appeal,"Saint Paul, Minn. ;",Saint Paul,Minnesota,title,titanic1912,44.944167,-93.093611,Saint Paul,wikidata:Q28848,311527.0,Midwest
+sn83016836,"St. Cloud Democrat. [volume] (Saint Cloud, Stearns County, Minn.) 1858-1866",St. Cloud Democrat,"Saint Cloud, Stearns County, Minn.",Saint Cloud,Minnesota,title,lincoln1865,45.553889,-94.170278,St. Cloud,wikidata:Q736834,68881.0,Midwest
+sn83016892,"The daily clarion. [volume] (Meridian, Miss.) 1863-1866",The daily clarion,"Meridian, Miss.",Meridian,Mississippi,title,lincoln1865,32.36431,-88.70366,Meridian,geonames:4435764,39661.0,South
+sn83016926,"The weekly clarion. [volume] (Jackson, Miss.) 1863-1882",The weekly clarion,"Jackson, Miss.",Jackson,Mississippi,title,custer1876,32.298889,-90.184722,Jackson,wikidata:Q28198,153701.0,South
+sn83016943,"Macon beacon. [volume] (Macon, Miss.) 1859-1995",Macon beacon,"Macon, Miss.",Macon,Mississippi,title,titanic1912,33.1054,-88.56088,Macon,geonames:4434645,2616.0,South
+sn83021327,"The weekly democratic statesman. [volume] (Austin, Tex.) 1871-1883",The weekly democratic statesman,"Austin, Tex.",Austin,Texas,title,custer1876,30.26715,-97.74306,Austin,geonames:4671654,974447.0,South
+sn83025020,"The Vinita daily chieftain. [volume] (Vinita, Indian Territory [Okla.]) 1902-1913",The Vinita daily chieftain,"Vinita, Indian Territory [Okla.]",Vinita,Oklahoma,title,titanic1912,36.63869,-95.15413,Vinita,geonames:4554496,5643.0,South
+sn83025121,"The Hawaiian gazette. [volume] (Honolulu [Oahu, Hawaii]) 1865-1918",The Hawaiian gazette,"Honolulu [Oahu, Hawaii]",Honolulu,Hawaii,title,custer1876 titanic1912,21.30694,-157.85833,Honolulu,geonames:5856195,350964.0,West
+sn83025146,"Pioneer press. [volume] (Martinsburg, W. Va.) 1882-19??",Pioneer press,"Martinsburg, W. Va.",Martinsburg,West Virginia,title,titanic1912,39.456389,-77.967778,Martinsburg,wikidata:Q1010194,18777.0,South
+sn83025161,"Cedar Falls gazette. [volume] (Cedar Falls, Iowa) 1860-1895",Cedar Falls gazette,"Cedar Falls, Iowa",Cedar Falls,Iowa,title,lincoln1865,42.52776,-92.44547,Cedar Falls,geonames:4850699,41255.0,Midwest
+sn83025167,"The Iowa plain dealer. [volume] (New Oregon, Howard County, Iowa) 1867-1895",The Iowa plain dealer,"New Oregon, Howard County, Iowa",New Oregon,Iowa,title,custer1876,43.374445,-92.115,Cresco,wikidata:Q1914623,3888.0,Midwest
+sn83025182,"The daily Gate City. [volume] (Keokuk, Iowa) 1855-1916",The daily Gate City,"Keokuk, Iowa",Keokuk,Iowa,title,lincoln1865 titanic1912,40.39727,-91.38487,Keokuk,geonames:4863349,10609.0,Midwest
+sn83025186,"Iowa state bystander. [volume] (Des Moines, Iowa) 1894-1916",Iowa state bystander,"Des Moines, Iowa",Des Moines,Iowa,title,titanic1912,41.60054,-93.60911,Des Moines,geonames:4853828,214133.0,Midwest
+sn83025227,Fergus Falls ugeblad.,Fergus Falls ugeblad,,Fergus Falls,Minnesota,name,titanic1912,46.283015,-96.077558,Fergus Falls,wikidata:Q1975464,14119.0,Midwest
+sn83025247,"Minneapolis spokesman. [volume] (Minneapolis, Minn.) 1934-2000",Minneapolis spokesman,"Minneapolis, Minn.",Minneapolis,Minnesota,title,pearl1941,44.981945,-93.269167,Minneapolis,wikidata:Q36091,429954.0,Midwest
+sn83025293,"The Montana post. [volume] (Virginia City, Montana Territory [i.e. Mont.]) 1864-1869",The Montana post,"Virginia City, Montana Territory [i.e. Mont.]",Virginia City,Montana,title,lincoln1865,45.2942,-111.941,Virginia City,wikidata:Q955580,219.0,West
+sn83025309,"Rocky Mountain husbandman. [volume] (Diamond City, Mont.) 1875-1943",Rocky Mountain husbandman,"Diamond City, Mont.",Diamond City,Montana,none,custer1876,,,,,,West
+sn83025313,"Judith Gap journal. [volume] (Judith Gap, Mont.) 1908-19??",Judith Gap journal,"Judith Gap, Mont.",Judith Gap,Montana,title,titanic1912,46.6789,-109.753,Judith Gap,wikidata:Q956625,110.0,West
+sn83025316,"The Daily Missoulian. [volume] (Missoula, Mont.) 1904-1961",The Daily Missoulian,"Missoula, Mont.",Missoula,Montana,title,titanic1912,46.8625,-114.011667,Missoula,wikidata:Q189602,73489.0,West
+sn83025323,"The enterprise. [volume] (Harlem, Mont.) 1899-1926",The enterprise,"Harlem, Mont.",Harlem,Montana,title,titanic1912,48.53333,-108.78405,Harlem,geonames:5656197,822.0,West
+sn83025514,The Colorado statesman.,The Colorado statesman,,,Colorado,none,titanic1912,,,,,,West
+sn83025667,"The Middlebury register. [volume] (Middlebury, Vt.) 1850-1882",The Middlebury register,"Middlebury, Vt.",Middlebury,Vermont,title,lincoln1865 custer1876,44.004267,-73.122368,Middlebury,wikidata:Q1012392,9152.0,Northeast
+sn83025668,"The Manchester journal. [volume] (Manchester, Vt.) 1861-current",The Manchester journal,"Manchester, Vt.",Manchester,Vermont,title,lincoln1865 custer1876 titanic1912,43.16369,-73.07233,Manchester,geonames:5238267,740.0,Northeast
+sn83025718,"The Nashville daily union. [volume] (Nashville, Tenn.) 1862-1866",The Nashville daily union,"Nashville, Tenn.",Nashville,Tennessee,title,lincoln1865,36.162222,-86.774444,Nashville,wikidata:Q23197,689447.0,South
+sn83025730,"The Texas Republican. [volume] (Marshall, Tex.) 1849-1869",The Texas Republican,"Marshall, Tex.",Marshall,Texas,title,lincoln1865,32.54487,-94.36742,Marshall,geonames:4709272,23820.0,South
+sn83025733,"The Dallas daily herald. [volume] (Dallas, Tex.) 1873-1887",The Dallas daily herald,"Dallas, Tex.",Dallas,Texas,title,custer1876,32.78306,-96.80667,Dallas,geonames:4684888,1326087.0,South
+sn83025760,"The new South. [volume] (Port Royal, S.C.) 1862-1867",The new South,"Port Royal, S.C.",Port Royal,South Carolina,title,lincoln1865,32.386667,-80.705,Port Royal,wikidata:Q926275,14220.0,South
+sn83026389,"The Opelousas courier. [volume] (Opelousas, La.) 1852-1910",The Opelousas courier,"Opelousas, La.",Opelousas,Louisiana,title,lincoln1865 custer1876,30.53353,-92.08151,Opelousas,geonames:4336153,16591.0,South
+sn83030193,"The evening world. [volume] (New York, N.Y.) 1887-1931",The evening world,"New York, N.Y.",New York,New York,title,titanic1912,40.712778,-74.006111,New York City,wikidata:Q60,8804190.0,Northeast
+sn83030213,New-York daily tribune. [volume] (New-York [N.Y.]) 1842-1866,New-York daily tribune,New-York [N.Y.],New-York,New York,title,lincoln1865,40.712778,-74.006111,New York City,wikidata:Q60,8804190.0,Northeast
+sn83030214,New-York tribune. [volume] (New York [N.Y.]) 1866-1924,New-York tribune,New York [N.Y.],New York,New York,title,custer1876 titanic1912,40.712778,-74.006111,New York City,wikidata:Q60,8804190.0,Northeast
+sn83030272,The sun. [volume] (New York [N.Y.]) 1833-1916,The sun,New York [N.Y.],New York,New York,title,lincoln1865 custer1876 titanic1912,40.712778,-74.006111,New York City,wikidata:Q60,8804190.0,Northeast
+sn83030313,The New York herald. [volume] (New York [N.Y.]) 1840-1920,The New York herald,New York [N.Y.],New York,New York,title,lincoln1865 custer1876,40.712778,-74.006111,New York City,wikidata:Q60,8804190.0,Northeast
+sn83032006,"Bedford inquirer. [volume] (Bedford, Pa.) 1857-1884",Bedford inquirer,"Bedford, Pa.",Bedford,Pennsylvania,title,lincoln1865,40.0164,-78.5042,Bedford,wikidata:Q1133571,2865.0,Northeast
+sn83032011,"The Columbian. [volume] (Bloomsburg, Pa.) 1866-1910",The Columbian,"Bloomsburg, Pa.",Bloomsburg,Pennsylvania,title,custer1876,41.0037,-76.45495,Bloomsburg,geonames:5180934,14585.0,Northeast
+sn83032103,West-Jersey pioneer.,West-Jersey pioneer,,,New Jersey,none,lincoln1865 custer1876,,,,,,Northeast
+sn83032199,"Clearfield Republican. [volume] (Clearfield, Pa.) 1851-1937",Clearfield Republican,"Clearfield, Pa.",Clearfield,Pennsylvania,title,lincoln1865 custer1876,41.02728,-78.43919,Clearfield,geonames:5184541,6030.0,Northeast
+sn83032231,"The Carbon advocate. [volume] (Lehighton, Pa.) 1872-1924",The Carbon advocate,"Lehighton, Pa.",Lehighton,Pennsylvania,title,custer1876,40.8337,-75.7138,Lehighton,geonames:5197673,5314.0,Northeast
+sn83035083,"The Democratic press. [volume] (Ravenna, O. [Ohio]) 1868-1901",The Democratic press,"Ravenna, O. [Ohio]",Ravenna,Ohio,title,custer1876,41.15756,-81.24205,Ravenna,geonames:5167737,11619.0,Midwest
+sn83035143,Cleveland morning leader. [volume] (Cleveland [Ohio]) 1854-1865,Cleveland morning leader,Cleveland [Ohio],Cleveland,Ohio,title,lincoln1865,41.499167,-81.694722,Cleveland,wikidata:Q37320,372624.0,Midwest
+sn83035144,The Cleveland leader. [volume] (Cleveland [Ohio]) 1865-1865,The Cleveland leader,Cleveland [Ohio],Cleveland,Ohio,title,lincoln1865,41.499167,-81.694722,Cleveland,wikidata:Q37320,372624.0,Midwest
+sn83035173,"The Ashland union. [volume] (Ashland, Ashland County, Ohio) 1854-1868",The Ashland union,"Ashland, Ashland County, Ohio",Ashland,Ohio,title,lincoln1865,40.86867,-82.31822,Ashland,geonames:5146055,20317.0,Midwest
+sn83035216,"Ashtabula weekly telegraph. [volume] (Ashtabula, Ohio) 1853-1873",Ashtabula weekly telegraph,"Ashtabula, Ohio",Ashtabula,Ohio,title,lincoln1865,41.86505,-80.78981,Ashtabula,geonames:5146089,18371.0,Midwest
+sn83035274,"Siebenbu\u00cc\u02c6rgisch-Amerikanisches Volksblatt. [volume] (Cleveland, Ohio) 1917-1971",Siebenbu\u00cc\u02c6rgisch-Amerikanisches Volksblatt,"Cleveland, Ohio",Cleveland,Ohio,title,pearl1941,41.499167,-81.694722,Cleveland,wikidata:Q37320,372624.0,Midwest
+sn83035337,"Echo : Wochenblatt der Vereinigten Deutschen Socialisten Clevelands. [volume] (Cleveland, O. [Ohio]) 1911-1920",Echo : Wochenblatt der Vereinigten Deutschen Socialisten Clevelands,"Cleveland, O. [Ohio]",Cleveland,Ohio,title,titanic1912,41.499167,-81.694722,Cleveland,wikidata:Q37320,372624.0,Midwest
+sn83035526,"Radnic\u00cc\u0152ka borba = Workers&#39; struggle. [volume] ([New York, N.Y.]) 1907-1970",Radnic\u00cc\u0152ka borba = Workers&#39; struggle,"[New York, N.Y.]",New York,New York,title,pearl1941,40.712778,-74.006111,New York City,wikidata:Q60,8804190.0,Northeast
+sn83035546,"Pokrok. [volume] (Chicago, Ill.) 1867-1878",Pokrok,"Chicago, Ill.",Chicago,Illinois,title,custer1876,41.85003,-87.65005,Chicago,geonames:4887398,2664452.0,Midwest
+sn83035565,"The Greenville journal. [volume] (Greenville, Ohio) 1850-1918",The Greenville journal,"Greenville, Ohio",Greenville,Ohio,title,titanic1912,40.10283,-84.63301,Greenville,geonames:5156493,13006.0,Midwest
+sn83035595,"Delaware gazette. [volume] (Delaware, Ohio) 1855-1886",Delaware gazette,"Delaware, Ohio",Delaware,Ohio,title,lincoln1865,40.298889,-83.071945,Delaware,wikidata:Q986183,41302.0,Midwest
+sn83040198,"Barton County democrat. [volume] (Great Bend, Kan.) 1885-1915",Barton County democrat,"Great Bend, Kan.",Great Bend,Kansas,title,titanic1912,38.36446,-98.76481,Great Bend,geonames:4272340,15717.0,Midwest
+sn83040340,"The Iola register. [volume] (Iola, Allen County, Kansas) 1875-1902",The Iola register,"Iola, Allen County, Kansas",Iola,Kansas,title,custer1876,37.92448,-95.39998,Iola,geonames:4273441,5470.0,Midwest
+sn83040592,"Baxter Springs news. [volume] (Baxter Springs, Kan.) 1882-1919",Baxter Springs news,"Baxter Springs, Kan.",Baxter Springs,Kansas,title,titanic1912,37.02368,-94.7355,Baxter Springs,geonames:4267978,4028.0,Midwest
+sn83045001,"El Democrata fronterizo. [volume] (Laredo, Tex.) 1896-1920",El Democrata fronterizo,"Laredo, Tex.",Laredo,Texas,title,titanic1912,27.50641,-99.50754,Laredo,geonames:4705349,256153.0,South
+sn83045012,"The Butler County press. [volume] (Hamilton, Ohio) 1900-1946",The Butler County press,"Hamilton, Ohio",Hamilton,Ohio,title,pearl1941,39.395833,-84.565,Hamilton,wikidata:Q852673,63399.0,Midwest
+sn83045081,"Der Deutsche correspondent. [volume] (Baltimore, Md.) 1841-1918",Der Deutsche correspondent,"Baltimore, Md.",Baltimore,Maryland,title,custer1876 titanic1912,39.29038,-76.61219,Baltimore,geonames:4347778,585708.0,South
+sn83045160,"Memphis daily appeal. [volume] (Memphis, Tenn.) 1847-1886",Memphis daily appeal,"Memphis, Tenn.",Memphis,Tennessee,title,custer1876,35.146111,-90.051945,Memphis,wikidata:Q16563,633104.0,South
+sn83045227,"Freie Presse fu\u00cc\u02c6r Texas. [volume] (San Antonio, Tex.) 1865-1945",Freie Presse fu\u00cc\u02c6r Texas,"San Antonio, Tex.",San Antonio,Texas,title,titanic1912,29.42412,-98.49363,San Antonio,geonames:4726206,1526656.0,South
+sn83045239,"Echo de l&#39;ouest. [volume] (Minneapolis, Minn.) 1883-1929",Echo de l&#39;ouest,"Minneapolis, Minn.",Minneapolis,Minnesota,title,titanic1912,44.981945,-93.269167,Minneapolis,wikidata:Q36091,429954.0,Midwest
+sn83045255,"Der wanderer. [volume] (St. Paul, Minn.) 1867-1957",Der wanderer,"St. Paul, Minn.",St. Paul,Minnesota,title,custer1876,44.944167,-93.093611,Saint Paul,wikidata:Q28848,311527.0,Midwest
+sn83045298,Kodiak mirror.,Kodiak mirror,,Kodiak,Alaska,name,pearl1941,57.78852,-152.40533,Kodiak,geonames:5866583,6253.0,West
+sn83045348,"Pokrok za\u00cc\u0081padu. [volume] (Omaha, Neb.) 1871-1920",Pokrok za\u00cc\u0081padu,"Omaha, Neb.",Omaha,Nebraska,title,custer1876 titanic1912,41.258611,-95.9375,Omaha,wikidata:Q43199,486051.0,Midwest
+sn83045350,"Der Nordstern. [volume] (St. Cloud, Minn.) 1874-1931",Der Nordstern,"St. Cloud, Minn.",St. Cloud,Minnesota,title,custer1876 titanic1912,45.553889,-94.170278,St. Cloud,wikidata:Q736834,68881.0,Midwest
+sn83045377,"Proletarec. [volume] (Chicago, Ill.) 1906-19??",Proletarec,"Chicago, Ill.",Chicago,Illinois,title,titanic1912,41.85003,-87.65005,Chicago,geonames:4887398,2664452.0,Midwest
+sn83045396,"The Salt Lake tribune. [volume] (Salt Lake City, Utah) 1890-current",The Salt Lake tribune,"Salt Lake City, Utah",Salt Lake City,Utah,title,titanic1912,40.76078,-111.89105,Salt Lake City,geonames:5780993,215548.0,West
+sn83045398,"La revista de Taos. [volume] (Taos, Nuevo Me\u00cc\u0081xico) 1905-1922",La revista de Taos,"Taos, Nuevo Me\u00cc\u0081xico",Taos,New Mexico,title,titanic1912,36.40725,-105.573278,Taos,wikidata:Q876315,6474.0,West
+sn83045433,"The Washington herald. [volume] (Washington, D.C.) 1906-1939",The Washington herald,"Washington, D.C.",Washington,District of Columbia,title,titanic1912,38.8951,-77.0364,Washington,wikidata:Q61,0.0,South
+sn83045434,"Telegraf. [volume] (Baltimore, Md.) 1909-1951",Telegraf,"Baltimore, Md.",Baltimore,Maryland,title,pearl1941,39.29038,-76.61219,Baltimore,geonames:4347778,585708.0,South
+sn83045462,"Evening star. [volume] (Washington, D.C.) 1854-1972",Evening star,"Washington, D.C.",Washington,District of Columbia,title,lincoln1865 custer1876 titanic1912 pearl1941,38.8951,-77.0364,Washington,wikidata:Q61,0.0,South
+sn83045473,Decorah-posten og ved arnen.,Decorah-posten og ved arnen,,Decorah,Iowa,name,titanic1912,43.30331,-91.78571,Decorah,geonames:4853608,7907.0,Midwest
+sn83045474,Ta\u00cc\u02c6gliches Cincinnatier volksblatt. [volume] (Cincinnati [Ohio]) 1885-1919,Ta\u00cc\u02c6gliches Cincinnatier volksblatt,Cincinnati [Ohio],Cincinnati,Ohio,title,titanic1912,39.12711,-84.51439,Cincinnati,geonames:4508722,311097.0,Midwest
+sn83045487,"The day book. [volume] (Chicago, Ill.) 1911-1917",The day book,"Chicago, Ill.",Chicago,Illinois,title,titanic1912,41.85003,-87.65005,Chicago,geonames:4887398,2664452.0,Midwest
+sn83045499,"The Daily Alaska empire. [volume] (Juneau, Alaska) 1926-1964",The Daily Alaska empire,"Juneau, Alaska",Juneau,Alaska,title,pearl1941,58.30194,-134.41972,Juneau,geonames:5554072,31555.0,West
+sn83045582,Westliche bla\u00cc\u02c6tter. [volume] (Cincinnati [Ohio]) 1865-1919,Westliche bla\u00cc\u02c6tter,Cincinnati [Ohio],Cincinnati,Ohio,title,custer1876,39.12711,-84.51439,Cincinnati,geonames:4508722,311097.0,Midwest
+sn83045586,"Brownlow&#39;s Knoxville Whig, and rebel ventilator. [volume] (Knoxville, Tenn.) 1863-1866","Brownlow&#39;s Knoxville Whig, and rebel ventilator","Knoxville, Tenn.",Knoxville,Tennessee,title,lincoln1865,35.961667,-83.923333,Knoxville,wikidata:Q185582,190740.0,South
+sn83045610,"The daily intelligencer. [volume] (Seattle, Wash. Territory [i.e. Wash.]) 1876-1881",The daily intelligencer,"Seattle, Wash. Territory [i.e. Wash.]",Seattle,Washington,title,custer1876,47.60621,-122.33207,Seattle,geonames:5809844,780995.0,West
+sn83045646,"Daily Davenport Democrat. [volume] (Davenport, Iowa) 1864-1874",Daily Davenport Democrat,"Davenport, Iowa",Davenport,Iowa,title,lincoln1865,41.52364,-90.57764,Davenport,geonames:4853423,102582.0,Midwest
+sn83045747,Dziennik Chicagoski. [volume] (Chicago [Ill.]) 1890-1971,Dziennik Chicagoski,Chicago [Ill.],Chicago,Illinois,title,titanic1912,41.85003,-87.65005,Chicago,geonames:4887398,2664452.0,Midwest
+sn84001718,"The Record-courier. [volume] (Gardnerville, Nev.) 1904-current",The Record-courier,"Gardnerville, Nev.",Gardnerville,Nevada,title,titanic1912,38.9408,-119.744,Gardnerville,wikidata:Q2466325,6211.0,West
+sn84020071,Litchfield enquirer.,Litchfield enquirer,,Litchfield,Connecticut,name,lincoln1865 custer1876,41.747222,-73.189722,Litchfield,wikidata:Q755403,8192.0,Northeast
+sn84020109,"Nebraska advertiser. [volume] (Brownville, Nemaha County, N.T. [Neb.]) 1856-1882",Nebraska advertiser,"Brownville, Nemaha County, N.T. [Neb.]",Brownville,Nebraska,none,lincoln1865 custer1876,,,,,,Midwest
+sn84020355,"Daily independent. [volume] (Elko, Nev.) 188?-1915",Daily independent,"Elko, Nev.",Elko,Nevada,title,titanic1912,40.832472,-115.763167,Elko,wikidata:Q945084,20564.0,West
+sn84020422,Smyrna times.,Smyrna times,,Smyrna,Delaware,name,lincoln1865 custer1876 titanic1912 pearl1941,39.2969,-75.6078,Smyrna,wikidata:Q755736,12883.0,South
+sn84020558,Arizona republican.,Arizona republican,,,Arizona,none,titanic1912,,,,,,West
+sn84020594,Wilmington daily commercial.,Wilmington daily commercial,,Wilmington,Delaware,name,custer1876,39.74595,-75.54659,Wilmington,geonames:4145381,70898.0,South
+sn84020630,"Santa Fe new Mexican. [volume] (Santa Fe, N.M.) 1898-1951",Santa Fe new Mexican,"Santa Fe, N.M.",Santa Fe,New Mexico,title,titanic1912,35.666667,-105.966667,Santa Fe,wikidata:Q38555,87505.0,West
+sn84020662,The Nome nugget.,The Nome nugget,,Nome,Alaska,name,pearl1941,64.50111,-165.40639,Nome,geonames:5870133,3806.0,West
+sn84020712,"The western Democrat. [volume] (Charlotte, N.C.) 1852-1870",The western Democrat,"Charlotte, N.C.",Charlotte,North Carolina,title,lincoln1865,35.226944,-80.843333,Charlotte,wikidata:Q16565,964784.0,South
+sn84021912,"The Arizona sentinel. [volume] (Arizona City [Yuma], Yuma County, A.T. [Ariz.]) 1872-1911",The Arizona sentinel,"Arizona City [Yuma], Yuma County, A.T. [Ariz.]",Arizona City,Arizona,title,custer1876,32.75589,-111.67096,Arizona City,geonames:5551665,10475.0,West
+sn84021930,Douglas Island news.,Douglas Island news,,,Alaska,none,titanic1912,,,,,,West
+sn84022044,"Eureka daily sentinel. [volume] (Eureka, Nev.) 1871-1887",Eureka daily sentinel,"Eureka, Nev.",Eureka,Nevada,title,custer1876,39.51271,-115.96061,Eureka,geonames:5503804,610.0,West
+sn84022046,"Gold Hill daily news. [volume] (Gold Hill, N.T. [Nev.]) 1863-1882",Gold Hill daily news,"Gold Hill, N.T. [Nev.]",Gold Hill,Nevada,title,lincoln1865 custer1876,39.30963,-119.64962,Virginia City,geonames:5514428,855.0,West
+sn84022047,"The White Pine news. [volume] (Treasure City, Nev.) 1868-1906",The White Pine news,"Treasure City, Nev.",Treasure City,Nevada,none,custer1876,,,,,,West
+sn84022048,"Pioche daily record. [volume] (Pioche, Nev.) 1872-1876",Pioche daily record,"Pioche, Nev.",Pioche,Nevada,title,custer1876,37.92969,-114.45221,Pioche,geonames:5510323,1002.0,West
+sn84022053,"Lyon County times. [volume] (Silver City, Nev.) 1874-1907",Lyon County times,"Silver City, Nev.",Silver City,Nevada,title,custer1876,39.263611,-119.640556,Silver City,wikidata:Q2604104,155.0,West
+sn84022060,"The silver state. [volume] (Unionville, Nev.) 1870-1903",The silver state,"Unionville, Nev.",Unionville,Nevada,title,custer1876,40.4458,-118.122,Unionville,wikidata:Q14705293,27.0,West
+sn84022129,"Bismarck weekly tribune. [volume] (Bismarck, D.T. [N.D.]) 1875-1878",Bismarck weekly tribune,"Bismarck, D.T. [N.D.]",Bismarck,North Dakota,title,custer1876,46.80833,-100.78374,Bismarck,geonames:5688025,75092.0,Midwest
+sn84022135,"Idaho semi-weekly world. [volume] (Idaho City, Idaho Territory) 1875-1908",Idaho semi-weekly world,"Idaho City, Idaho Territory",Idaho City,Idaho,title,custer1876,43.8285,-115.83455,Idaho City,geonames:5596462,474.0,West
+sn84022137,"Union County courier. [volume] (Elk Point, Union County, D.T. [S.D.]) 187?-1913",Union County courier,"Elk Point, Union County, D.T. [S.D.]",Elk Point,South Dakota,title,titanic1912,42.685555,-96.681667,Elk Point,wikidata:Q974611,2149.0,Midwest
+sn84022144,"Daily press and Dakotaian. [volume] (Yankton, Dakota Territory [S.D.]) 1875-1880",Daily press and Dakotaian,"Yankton, Dakota Territory [S.D.]",Yankton,South Dakota,title,custer1876,42.871306,-97.396695,Yankton,wikidata:Q989288,15411.0,Midwest
+sn84022149,"The Cheyenne daily leader. [volume] (Cheyenne, Wyo.) 1870-1884",The Cheyenne daily leader,"Cheyenne, Wyo.",Cheyenne,Wyoming,title,custer1876,41.145556,-104.801944,Cheyenne,wikidata:Q39042,65132.0,West
+sn84022168,"Santa Fe weekly gazette. [volume] (Santa Fe, N.M.) 1864-1869",Santa Fe weekly gazette,"Santa Fe, N.M.",Santa Fe,New Mexico,title,lincoln1865,35.666667,-105.966667,Santa Fe,wikidata:Q38555,87505.0,West
+sn84022265,The Greeley tribune.,The Greeley tribune,,Greeley,Colorado,name,titanic1912,40.416667,-104.7,Greeley,wikidata:Q94274,108795.0,West
+sn84022278,"Dallas herald. [volume] (Dallas, Tex.) 1849-1873",Dallas herald,"Dallas, Tex.",Dallas,Texas,title,lincoln1865,32.78306,-96.80667,Dallas,geonames:4684888,1326087.0,South
+sn84022367,"Rutland weekly herald. [volume] (Rutland, Vt.) 1859-1877",Rutland weekly herald,"Rutland, Vt.",Rutland,Vermont,title,lincoln1865,43.61062,-72.97261,Rutland,geonames:5240509,15824.0,Northeast
+sn84022374,"Ellsworth American. [volume] (Ellsworth, Me.) 1855-current",Ellsworth American,"Ellsworth, Me.",Ellsworth,Maine,title,lincoln1865 custer1876 titanic1912,44.543055,-68.420278,Ellsworth,wikidata:Q2075643,8399.0,Northeast
+sn84022396,Putnam patriot.,Putnam patriot,,Putnam,Connecticut,name,titanic1912,41.9151,-71.90896,Putnam,geonames:4841187,7214.0,Northeast
+sn84022472,"The Bridgeport evening farmer. [volume] (Bridgeport, Conn.) 1866-1917",The Bridgeport evening farmer,"Bridgeport, Conn.",Bridgeport,Connecticut,title,titanic1912,41.183333,-73.2,Bridgeport,wikidata:Q49174,148654.0,Northeast
+sn84022473,"The Rutland daily globe. [volume] (Rutland, Vt.) 1873-1877",The Rutland daily globe,"Rutland, Vt.",Rutland,Vermont,title,custer1876,43.61062,-72.97261,Rutland,geonames:5240509,15824.0,Northeast
+sn84022488,"The Rutland weekly globe. [volume] (Rutland, Vt.) 1873-1877",The Rutland weekly globe,"Rutland, Vt.",Rutland,Vermont,title,custer1876,43.61062,-72.97261,Rutland,geonames:5240509,15824.0,Northeast
+sn84022548,"Orleans independent standard. [volume] (Irasburgh, Vt.) 1856-1871",Orleans independent standard,"Irasburgh, Vt.",Orleans,Vermont,name,lincoln1865,44.81671,-72.23288,Orleans,geonames:5239519,818.0,Northeast
+sn84022549,"Bellows Falls times. [volume] (Bellows Falls, Vt.) 1856-1965",Bellows Falls times,"Bellows Falls, Vt.",Bellows Falls,Vermont,title,custer1876,43.13341,-72.44398,Bellows Falls,geonames:5233738,3048.0,Northeast
+sn84022553,"Bradford opinion. [volume] (Bradford, Vt.) 1874-1881",Bradford opinion,"Bradford, Vt.",Bradford,Vermont,title,custer1876,43.9928,-72.1286,Bradford,wikidata:Q4954573,907.0,Northeast
+sn84022643,"The Albany register. [volume] (Albany, Or.) 1868-18??",The Albany register,"Albany, Or.",Albany,Oregon,title,custer1876,44.630278,-123.096111,Albany,wikidata:Q516817,56472.0,West
+sn84022650,"The Corvallis gazette. [volume] (Corvallis, Or.) 1862-1899",The Corvallis gazette,"Corvallis, Or.",Corvallis,Oregon,title,lincoln1865,44.570781,-123.275997,Corvallis,wikidata:Q748474,59922.0,West
+sn84022673,"The new Northwest. [volume] (Portland, Or.) 1871-1887",The new Northwest,"Portland, Or.",Portland,Oregon,title,custer1876,45.515,-122.679167,Portland,wikidata:Q6106,652503.0,West
+sn84022770,"Washington standard. [volume] (Olympia, Wash. Territory) 1860-1921",Washington standard,"Olympia, Wash. Territory",Olympia,Washington,title,lincoln1865 custer1876 titanic1912,47.04491,-122.90169,Olympia,geonames:5805687,55733.0,West
+sn84022835,The Red Cloud chief.,The Red Cloud chief,,Red Cloud,Nebraska,name,custer1876 titanic1912,40.0889,-98.5195,Red Cloud,geonames:5076060,963.0,Midwest
+sn84022871,"Orleans County monitor. [volume] (Barton, Vt.) 1872-1953",Orleans County monitor,"Barton, Vt.",Barton,Vermont,title,custer1876 titanic1912,44.7481,-72.17621,Barton,geonames:5233526,700.0,Northeast
+sn84022960,The Forrest City times.,The Forrest City times,,Forrest City,Arkansas,name,titanic1912,35.00815,-90.78983,Forrest City,geonames:4111382,14672.0,South
+sn84022982,The Osceola times.,The Osceola times,,Osceola,Arkansas,name,custer1876,35.70508,-89.96953,Osceola,geonames:4125027,7233.0,South
+sn84022991,The Van Buren press.,The Van Buren press,,Van Buren,Arkansas,name,custer1876 titanic1912,35.444444,-94.346667,Van Buren,wikidata:Q79696,23218.0,South
+sn84023017,The Russellville Democrat.,The Russellville Democrat,,Russellville,Arkansas,name,custer1876,35.27842,-93.13379,Russellville,geonames:4129397,29166.0,South
+sn84023127,"Burlington free press. [volume] (Burlington, Vt.) 1827-1865",Burlington free press,"Burlington, Vt.",Burlington,Vermont,title,lincoln1865,44.476111,-73.213055,Burlington,wikidata:Q31058,44743.0,Northeast
+sn84023200,"Vermont watchman and State journal. [volume] (Montpelier, Vt.) 1836-1883",Vermont watchman and State journal,"Montpelier, Vt.",Montpelier,Vermont,title,lincoln1865 custer1876,44.26006,-72.57539,Montpelier,geonames:5238685,8074.0,Northeast
+sn84023209,"Green-Mountain freeman. [volume] (Montpelier, Vt.) 1844-1884",Green-Mountain freeman,"Montpelier, Vt.",Montpelier,Vermont,title,lincoln1865 custer1876,44.26006,-72.57539,Montpelier,geonames:5238685,8074.0,Northeast
+sn84023246,"The Vermont transcript. [volume] (St. Albans, Vt.) 1864-1870",The Vermont transcript,"St. Albans, Vt.",St. Albans,Vermont,title,lincoln1865,44.81088,-73.08319,Saint Albans,geonames:5240569,6918.0,Northeast
+sn84023252,"The Caledonian. [volume] (St. Johnsbury, Vt.) 1837-1867",The Caledonian,"St. Johnsbury, Vt.",St. Johnsbury,Vermont,title,lincoln1865,44.42526,-72.01512,St Johnsbury,geonames:6424355,7571.0,Northeast
+sn84023253,"St. Johnsbury Caledonian. [volume] (St. Johnsbury, Vt.) 1867-1919",St. Johnsbury Caledonian,"St. Johnsbury, Vt.",St. Johnsbury,Vermont,title,custer1876 titanic1912,44.42526,-72.01512,St Johnsbury,geonames:6424355,7571.0,Northeast
+sn84023255,"Vermont farmer. [volume] (Newport, Orleans County, Vt.) 1870-1877",Vermont farmer,"Newport, Orleans County, Vt.",Newport,Vermont,title,custer1876,44.9442,-72.2044,Newport,wikidata:Q1012011,4455.0,Northeast
+sn84023296,"Spirit of the age. [volume] (Woodstock, Vt.) 1845-1913",Spirit of the age,"Woodstock, Vt.",Woodstock,Vermont,title,custer1876 titanic1912,43.624167,-72.518333,Woodstock,wikidata:Q1012397,3005.0,Northeast
+sn84023416,"Essex County herald. [volume] (Guildhall, Vt.) 1873-1964",Essex County herald,"Guildhall, Vt.",Guildhall,Vermont,title,custer1876 titanic1912,44.56506,-71.55981,Guildhall,geonames:5236698,256.0,Northeast
+sn84023428,"Lamoille newsdealer. [volume] (Hyde Park, Vt.) 1860-1877",Lamoille newsdealer,"Hyde Park, Vt.",Hyde Park,Vermont,title,lincoln1865,44.59394,-72.61651,Hyde Park,geonames:5237276,492.0,Northeast
+sn84023963,"The Jasper weekly courier. [volume] (Jasper, Ind.) 1858-1922",The Jasper weekly courier,"Jasper, Ind.",Jasper,Indiana,title,lincoln1865 custer1876 titanic1912,38.3953,-86.9328,Jasper,wikidata:Q941441,16703.0,Midwest
+sn84024055,"The broad ax. [volume] (Salt Lake City, Utah) 1895-19??",The broad ax,"Salt Lake City, Utah",Salt Lake City,Utah,title,titanic1912,40.76078,-111.89105,Salt Lake City,geonames:5780993,215548.0,West
+sn84024207,"The Lancaster gazette. [volume] (Lancaster, Ohio) 1863-1886",The Lancaster gazette,"Lancaster, Ohio",Lancaster,Ohio,title,lincoln1865,39.719297,-82.605293,Lancaster,wikidata:Q986005,40552.0,Midwest
+sn84024234,"The Dayton forum. [volume] (Dayton, Ohio) 1913-1949",The Dayton forum,"Dayton, Ohio",Dayton,Ohio,title,pearl1941,39.766667,-84.2,Dayton,wikidata:Q34739,137644.0,Midwest
+sn84024271,"The Lexington advertiser. [volume] (Lexington, Miss.) 1904-1985",The Lexington advertiser,"Lexington, Miss.",Lexington,Mississippi,title,titanic1912 pearl1941,33.11318,-90.05314,Lexington,geonames:4433359,1609.0,South
+sn84024283,"Iron County register. [volume] (Ironton, Iron County, Mo.) 1867-1965",Iron County register,"Ironton, Iron County, Mo.",Ironton,Missouri,title,titanic1912,37.6006,-90.6317,Ironton,wikidata:Q964772,1475.0,Midwest
+sn84024501,Decorah-posten.,Decorah-posten,,Decorah,Iowa,name,custer1876,43.30331,-91.78571,Decorah,geonames:4853608,7907.0,Midwest
+sn84024558,"Bradford reporter. [volume] (Towanda, Pa.) 1844-1884",Bradford reporter,"Towanda, Pa.",Towanda,Pennsylvania,title,lincoln1865,41.76758,-76.44272,Towanda,geonames:5215859,2812.0,Northeast
+sn84024585,"Narodni vestnik = National herald. [volume] (Duluth, Minn.) 1911-????",Narodni vestnik = National herald,"Duluth, Minn.",Duluth,Minnesota,title,titanic1912,46.784444,-92.105278,Duluth,wikidata:Q485708,86697.0,Midwest
+sn84024653,"Staunton vindicator. [volume] (Staunton, Va.) 1860-1896",Staunton vindicator,"Staunton, Va.",Staunton,Virginia,title,custer1876,38.14991,-79.0732,Staunton,geonames:4787440,24416.0,South
+sn84024660,"Daily Richmond Whig. [volume] (Richmond, Va.) 1865-1869",Daily Richmond Whig,"Richmond, Va.",Richmond,Virginia,title,lincoln1865,37.55376,-77.46026,Richmond,geonames:4781708,226610.0,South
+sn84024669,"Richmond Whig. [volume] (Richmond, Va.) 1862-1865",Richmond Whig,"Richmond, Va.",Richmond,Virginia,title,lincoln1865,37.55376,-77.46026,Richmond,geonames:4781708,226610.0,South
+sn84024707,"The Valley Virginian. [volume] (Staunton, Va.) 1865-1895",The Valley Virginian,"Staunton, Va.",Staunton,Virginia,title,custer1876,38.14991,-79.0732,Staunton,geonames:4787440,24416.0,South
+sn84024716,"Lexington gazette. [volume] (Lexington, Va.) 1871-1962",Lexington gazette,"Lexington, Va.",Lexington,Virginia,title,titanic1912,37.784021,-79.442816,Lexington,wikidata:Q501761,7320.0,South
+sn84024738,The daily dispatch. [volume] (Richmond [Va.]) 1850-1884,The daily dispatch,Richmond [Va.],Richmond,Virginia,title,custer1876,37.55376,-77.46026,Richmond,geonames:4781708,226610.0,South
+sn84024779,"The Wahpeton times. [volume] (Wahpeton, Richland County, Dakota [N.D.]) 1879-1919",The Wahpeton times,"Wahpeton, Richland County, Dakota [N.D.]",Wahpeton,North Dakota,title,titanic1912,46.265889,-96.608861,Wahpeton,wikidata:Q1996092,8007.0,Midwest
+sn84024827,"Bisbee daily review. [volume] (Bisbee, Ariz.) 1901-1971",Bisbee daily review,"Bisbee, Ariz.",Bisbee,Arizona,title,titanic1912,31.44815,-109.92841,Bisbee,geonames:5284905,5208.0,West
+sn84024828,Mohave County miner.,Mohave County miner,,,Arizona,none,titanic1912,,,,,,West
+sn84025126,La cro\u0301nica.,La cro\u0301nica,,,California,none,custer1876,,,,,,West
+sn84025694,,,,,,none,pearl1941,,,,,,
+sn84025811,"The Seattle Republican. [volume] (Seattle, Wash.) 1???-1915",The Seattle Republican,"Seattle, Wash.",Seattle,Washington,title,titanic1912,47.60621,-122.33207,Seattle,geonames:5809844,780995.0,West
+sn84025828,"Chicago eagle. [volume] (Chicago, Ill.) 1889-19??",Chicago eagle,"Chicago, Ill.",Chicago,Illinois,title,titanic1912,41.85003,-87.65005,Chicago,geonames:4887398,2664452.0,Midwest
+sn84025840,"Arkansas State press. [volume] (Little Rock, Ark.) 1941-1959",Arkansas State press,"Little Rock, Ark.",Little Rock,Arkansas,title,pearl1941,34.744444,-92.288056,Little Rock,wikidata:Q33405,202591.0,South
+sn84026089,"The Lambertville record. [volume] (Lambertville, N.J.) 1872-1968",The Lambertville record,"Lambertville, N.J.",Lambertville,New Jersey,title,custer1876 titanic1912,40.36594,-74.94294,Lambertville,geonames:5100297,3833.0,Northeast
+sn84026106,"The post. [volume] (Middleburg, Snyder County, Pa.) 1864-1883",The post,"Middleburg, Snyder County, Pa.",Middleburg,Pennsylvania,title,custer1876,40.788056,-77.043333,Middleburg,wikidata:Q1185016,1325.0,Northeast
+sn84026118,"Juniata sentinel. [volume] (Mifflintown, Pa.) 1846-1873",Juniata sentinel,"Mifflintown, Pa.",Mifflintown,Pennsylvania,title,lincoln1865,40.5698,-77.39693,Mifflintown,geonames:5201085,926.0,Northeast
+sn84026259,"The Elk County advocate. [volume] (Ridgway, Pa.) 1868-1883",The Elk County advocate,"Ridgway, Pa.",Ridgway,Pennsylvania,title,custer1876,41.420339,-78.728639,Ridgway,wikidata:Q429313,4039.0,Northeast
+sn84026399,"The Jeffersonian. [volume] (Stroudsburg, Pa.) 1853-1911",The Jeffersonian,"Stroudsburg, Pa.",Stroudsburg,Pennsylvania,title,lincoln1865 custer1876,40.9858,-75.1953,Stroudsburg,wikidata:Q1185729,5927.0,Northeast
+sn84026403,"Sunbury American. [volume] (Sunbury, Pa.) 1848-1879",Sunbury American,"Sunbury, Pa.",Sunbury,Pennsylvania,title,lincoln1865,40.8639,-76.7892,Sunbury,wikidata:Q1187059,9719.0,Northeast
+sn84026409,"The Somerset herald. [volume] (Somerset, Pa.) 1870-1936",The Somerset herald,"Somerset, Pa.",Somerset,Pennsylvania,title,custer1876,40.0069,-79.0814,Somerset,wikidata:Q1025794,6048.0,Northeast
+sn84026472,"The Hillsborough recorder. [volume] (Hillsborough, N.C.) 1820-1879",The Hillsborough recorder,"Hillsborough, N.C.",Hillsborough,North Carolina,title,custer1876,36.070555,-79.104167,Hillsborough,wikidata:Q1008927,9660.0,South
+sn84026488,"Carolina watchman. [volume] (Salisbury, N.C.) 1871-1937",Carolina watchman,"Salisbury, N.C.",Salisbury,North Carolina,title,titanic1912,35.668333,-80.478611,Salisbury,wikidata:Q2028813,35540.0,South
+sn84026497,"The Forest Republican. [volume] (Tionesta, Pa.) 1869-1952",The Forest Republican,"Tionesta, Pa.",Tionesta,Pennsylvania,title,custer1876 titanic1912,41.49534,-79.45588,Tionesta,geonames:5215696,451.0,Northeast
+sn84026536,Wilmington journal.,Wilmington journal,,Wilmington,North Carolina,name,custer1876,34.23556,-77.94604,Wilmington,geonames:4499379,115933.0,South
+sn84026688,"Catoctin clarion. [volume] (Mechanicstown, Md.) 1871-1940",Catoctin clarion,"Mechanicstown, Md.",Mechanicstown,Maryland,title,custer1876 titanic1912,39.62371,-77.41082,Thurmont,geonames:4371334,6454.0,South
+sn84026721,"Pennsylvanische Staats zeitung. [volume] (Harrisburg, Pa.) 1843-1887",Pennsylvanische Staats zeitung,"Harrisburg, Pa.",Harrisburg,Pennsylvania,title,custer1876,40.2737,-76.88442,Harrisburg,geonames:5192726,50183.0,Northeast
+sn84026749,The Washington times.,The Washington times,,Washington,District of Columbia,name,titanic1912,38.89511,-77.03637,Washington,geonames:4140963,689545.0,South
+sn84026758,"Democratic messenger. [volume] (Snow Hill, Md.) 1869-1973",Democratic messenger,"Snow Hill, Md.",Snow Hill,Maryland,title,titanic1912,38.175,-75.390833,Snow Hill,wikidata:Q754519,2156.0,South
+sn84026784,"Virginia free press. (Charlestown, Va. [W. Va.]) 1832-1916",Virginia free press,"Charlestown, Va. [W. Va.]",Charlestown,West Virginia,title,custer1876 titanic1912,39.284167,-77.856111,Charles Town,wikidata:Q2001181,6534.0,South
+sn84026788,"Spirit of Jefferson. [volume] (Charles Town, Va. [W. Va.]) 1844-1948",Spirit of Jefferson,"Charles Town, Va. [W. Va.]",Charles Town,West Virginia,title,custer1876 titanic1912,39.284167,-77.856111,Charles Town,wikidata:Q2001181,6534.0,South
+sn84026789,"The West Virginia journal. [volume] (Charleston, W. Va.) 1864-1877",The West Virginia journal,"Charleston, W. Va.",Charleston,West Virginia,title,lincoln1865,38.347222,-81.633333,Charleston,wikidata:Q44564,48864.0,South
+sn84026817,"The weekly register. [volume] (Point Pleasant, Va. [W. Va.]) 1862-1909",The weekly register,"Point Pleasant, Va. [W. Va.]",Point Pleasant,West Virginia,title,custer1876,38.84453,-82.13709,Point Pleasant,geonames:4818750,4276.0,South
+sn84026820,Middletown transcript.,Middletown transcript,,Middletown,Delaware,name,custer1876 titanic1912,39.44956,-75.71632,Middletown,wikidata:Q756141,23192.0,South
+sn84026824,"Shepherdstown register. [volume] (Shepherdstown, Va. [W. Va.]) 1849-1955",Shepherdstown register,"Shepherdstown, Va. [W. Va.]",Shepherdstown,West Virginia,title,custer1876 titanic1912,39.4301,-77.80416,Shepherdstown,geonames:4821983,2079.0,South
+sn84026826,"South Branch intelligencer. [volume] (Romney, Va. [W. Va.]) 1830-1896",South Branch intelligencer,"Romney, Va. [W. Va.]",Romney,West Virginia,title,custer1876,39.34204,-78.75668,Romney,geonames:4820597,1773.0,South
+sn84026844,"The Wheeling daily intelligencer. [volume] (Wheeling, W. Va.) 1865-1903",The Wheeling daily intelligencer,"Wheeling, W. Va.",Wheeling,West Virginia,title,custer1876,40.06396,-80.72091,Wheeling,geonames:5280854,27648.0,South
+sn84026845,"Daily intelligencer. [volume] (Wheeling, Va. [W. Va.]) 1859-1865",Daily intelligencer,"Wheeling, Va. [W. Va.]",Wheeling,West Virginia,title,lincoln1865,40.06396,-80.72091,Wheeling,geonames:5280854,27648.0,South
+sn84026847,"The Wheeling daily register. [volume] (Wheeling, W. Va.) 1864-1878",The Wheeling daily register,"Wheeling, W. Va.",Wheeling,West Virginia,title,lincoln1865 custer1876,40.06396,-80.72091,Wheeling,geonames:5280854,27648.0,South
+sn84026853,"The Abbeville press and banner. [volume] (Abbeville, S.C.) 1869-1924",The Abbeville press and banner,"Abbeville, S.C.",Abbeville,South Carolina,title,custer1876 titanic1912,34.17817,-82.37901,Abbeville,geonames:4568985,5191.0,South
+sn84026897,"Edgefield advertiser. [volume] (Edgefield, S.C.) 1836-current",Edgefield advertiser,"Edgefield, S.C.",Edgefield,South Carolina,title,lincoln1865 custer1876 titanic1912,33.78958,-81.92956,Edgefield,geonames:4577532,4760.0,South
+sn84026907,"The Lexington dispatch. [volume] (Lexington, South Carolina) 1870-1917",The Lexington dispatch,"Lexington, South Carolina",Lexington,South Carolina,title,titanic1912,33.981111,-81.230833,Lexington,wikidata:Q731091,23568.0,South
+sn84026912,"Keowee courier. [volume] (Pickens Court House, S.C.) 1849-current",Keowee courier,"Pickens Court House, S.C.",Pickens Court House,South Carolina,title,titanic1912,34.881667,-82.7075,Pickens,wikidata:Q1864258,3388.0,South
+sn84026913,"The Pickens sentinel. [volume] (Pickens, S.C.) 1871-1903",The Pickens sentinel,"Pickens, S.C.",Pickens,South Carolina,title,custer1876,34.881667,-82.7075,Pickens,wikidata:Q1864258,3388.0,South
+sn84026918,"The weekly Union times. [volume] (Union C.H., South Carolina) 1871-1894",The weekly Union times,"Union C.H., South Carolina",Union C.H.,South Carolina,title,custer1876,34.717222,-81.625,Union,wikidata:Q1810731,8174.0,South
+sn84026922,"The tri-weekly news. [volume] (Winnsboro, S.C.) 1865-1876",The tri-weekly news,"Winnsboro, S.C.",Winnsboro,South Carolina,title,lincoln1865,34.3807,-81.08648,Winnsboro,geonames:4601335,3351.0,South
+sn84026923,"The Fairfield herald. [volume] (Winnsboro, S.C.) 1849-1876",The Fairfield herald,"Winnsboro, S.C.",Winnsboro,South Carolina,title,custer1876,34.3807,-81.08648,Winnsboro,geonames:4601335,3351.0,South
+sn84026925,"Yorkville enquirer. [volume] (Yorkville, S.C.) 1855-2006",Yorkville enquirer,"Yorkville, S.C.",Yorkville,South Carolina,title,lincoln1865 custer1876 titanic1912,34.994722,-81.239445,York,wikidata:Q2076202,8503.0,South
+sn84026965,"The Anderson intelligencer. [volume] (Anderson Court House, S.C.) 1860-1914",The Anderson intelligencer,"Anderson Court House, S.C.",Anderson Court House,South Carolina,title,lincoln1865 custer1876,34.503333,-82.650278,Anderson,wikidata:Q1150893,28106.0,South
+sn84027006,"Columbia phoenix. [volume] (Columbia, S.C.) 1865-1865",Columbia phoenix,"Columbia, S.C.",Columbia,South Carolina,title,lincoln1865,34.00071,-81.03481,Columbia,geonames:4575352,142416.0,South
+sn84027007,"The Columbia daily phoenix. [volume] (Columbia, S.C.) 1865-1865",The Columbia daily phoenix,"Columbia, S.C.",Columbia,South Carolina,title,lincoln1865,34.00071,-81.03481,Columbia,geonames:4575352,142416.0,South
+sn84027008,"The daily phoenix. [volume] (Columbia, S.C.) 1865-1878",The daily phoenix,"Columbia, S.C.",Columbia,South Carolina,title,custer1876,34.00071,-81.03481,Columbia,geonames:4575352,142416.0,South
+sn84027060,The Burlington weekly hawk-eye. [volume] (Burlington [Iowa]) 1860-1876,The Burlington weekly hawk-eye,Burlington [Iowa],Burlington,Iowa,title,lincoln1865,40.80754,-91.11292,Burlington,geonames:4849826,25410.0,Midwest
+sn84027101,"Luxemburger gazette. [volume] (Dubuque, Iowa) 1871-1918",Luxemburger gazette,"Dubuque, Iowa",Dubuque,Iowa,title,custer1876 titanic1912,42.504321,-90.686865,Dubuque,wikidata:Q493794,59667.0,Midwest
+sn84027186,"Buchanan County bulletin. [volume] (Independence, Iowa) 1869-1891",Buchanan County bulletin,"Independence, Iowa",Independence,Iowa,title,custer1876,42.470278,-91.893889,Independence,wikidata:Q598110,6064.0,Midwest
+sn84027238,"The weekly north Iowa times. [volume] (McGregor, Iowa) 1857-1867",The weekly north Iowa times,"McGregor, Iowa",McGregor,Iowa,title,lincoln1865,43.01832,-91.18263,McGregor,geonames:4866709,839.0,Midwest
+sn84027329,"The weekly Oskaloosa herald. [volume] (Oskaloosa, Iowa) 1855-1885",The weekly Oskaloosa herald,"Oskaloosa, Iowa",Oskaloosa,Iowa,title,custer1876,41.29639,-92.64436,Oskaloosa,geonames:4870239,11607.0,Midwest
+sn84027352,"The weekly Ottumwa courier. [volume] (Ottumwa, Iowa) 1857-1872",The weekly Ottumwa courier,"Ottumwa, Iowa",Ottumwa,Iowa,title,lincoln1865,41.013056,-92.414722,Ottumwa,wikidata:Q853566,25529.0,Midwest
+sn84027398,"The Tipton advertiser. [volume] (Tipton, Cedar Co., Iowa) 1856-1962",The Tipton advertiser,"Tipton, Cedar Co., Iowa",Tipton,Iowa,title,lincoln1865 custer1876,41.76974,-91.12793,Tipton,geonames:4878643,3200.0,Midwest
+sn84027621,"The Ocala evening star. [volume] (Ocala, Fla.) 1895-1943",The Ocala evening star,"Ocala, Fla.",Ocala,Florida,title,titanic1912,29.1875,-82.141389,Ocala,wikidata:Q918195,63591.0,South
+sn84027670,"The Saline County journal. [volume] (Salina, Kan.) 1871-1893",The Saline County journal,"Salina, Kan.",Salina,Kansas,title,custer1876,38.84028,-97.61142,Salina,geonames:4278890,47813.0,Midwest
+sn84027691,The Leavenworth weekly times.,The Leavenworth weekly times,,Leavenworth,Kansas,name,custer1876,39.3111,-94.9225,Leavenworth,wikidata:Q1762867,37351.0,Midwest
+sn84027718,Connecticut western news.,Connecticut western news,,,Connecticut,none,custer1876 titanic1912,,,,,,Northeast
+sn84028083,"The Jeffersonian Democrat. [volume] (Chardon, Ohio) 1854-1865",The Jeffersonian Democrat,"Chardon, Ohio",Chardon,Ohio,title,lincoln1865,41.579167,-81.204444,Chardon,wikidata:Q986306,5242.0,Midwest
+sn84028490,"The Stark County Democrat. [volume] (Canton, Ohio) 1833-1912",The Stark County Democrat,"Canton, Ohio",Canton,Ohio,title,custer1876,40.79895,-81.37845,Canton,geonames:5149222,71885.0,Midwest
+sn84028645,"Daily Ohio statesman. [volume] (Columbus, Ohio) 1855-1870",Daily Ohio statesman,"Columbus, Ohio",Columbus,Ohio,title,lincoln1865,39.96118,-82.99879,Columbus,geonames:4509177,913175.0,Midwest
+sn84028822,"Holmes County farmer. [volume] (Millersburg, Ohio) 1857-1926",Holmes County farmer,"Millersburg, Ohio",Millersburg,Ohio,title,lincoln1865,40.55451,-81.91792,Millersburg,geonames:5163076,3151.0,Midwest
+sn84029386,"Abilene weekly reflector. [volume] (Abilene, Kan.) 1888-1935",Abilene weekly reflector,"Abilene, Kan.",Abilene,Kansas,title,titanic1912,38.91722,-97.21391,Abilene,geonames:4267354,6558.0,Midwest
+sn84029690,"The Hays free press. [volume] (Hays, Kan.) 1908-1924",The Hays free press,"Hays, Kan.",Hays,Kansas,title,titanic1912,38.8794,-99.3222,Hays,wikidata:Q1057071,21116.0,Midwest
+sn84031042,"Sioux City register. [volume] (Sioux City, Iowa) 1858-1871",Sioux City register,"Sioux City, Iowa",Sioux City,Iowa,title,lincoln1865,42.496389,-96.405,Sioux City,wikidata:Q489255,85797.0,Midwest
+sn84031081,"Albuquerque morning journal. [volume] (Albuquerque, N.M.) 1903-1926",Albuquerque morning journal,"Albuquerque, N.M.",Albuquerque,New Mexico,title,titanic1912,35.084444,-106.650278,Albuquerque,wikidata:Q34804,564559.0,West
+sn84031595,"Minnesota Staats-Zeitung. [volume] (Saint Paul, Minn.) 1858-1877",Minnesota Staats-Zeitung,"Saint Paul, Minn.",Saint Paul,Minnesota,title,lincoln1865,44.944167,-93.093611,Saint Paul,wikidata:Q28848,311527.0,Midwest
+sn84036143,"Helena weekly herald. [volume] (Helena, Mont.) 1867-1900",Helena weekly herald,"Helena, Mont.",Helena,Montana,title,custer1876,46.59271,-112.03611,Helena,geonames:5656882,32091.0,West
+sn84036220,"Fergus County Democrat. [volume] (Lewistown, Mont.) 1904-1919",Fergus County Democrat,"Lewistown, Mont.",Lewistown,Montana,title,titanic1912,47.064722,-109.43,Lewistown,wikidata:Q959471,5952.0,West
+sn84037526,,,,,,none,lincoln1865 custer1876 titanic1912,,,,,,
+sn84037844,"The Clarksburg telegram. [volume] (Clarksburg, W. Va.) 1874-1926",The Clarksburg telegram,"Clarksburg, W. Va.",Clarksburg,West Virginia,title,titanic1912,39.28065,-80.34453,Clarksburg,geonames:4802316,16152.0,South
+sn84037890,"The Hartford herald. [volume] (Hartford, Ky.) 1875-1926",The Hartford herald,"Hartford, Ky.",Hartford,Kentucky,title,custer1876 titanic1912,37.45116,-86.90916,Hartford,geonames:4294195,2750.0,South
+sn84038034,"Marshall County Republican. (Plymouth, Ind.) 1856-1878",Marshall County Republican,"Plymouth, Ind.",Plymouth,Indiana,title,lincoln1865 custer1876,41.3439,-86.3125,Plymouth,wikidata:Q988952,10214.0,Midwest
+sn84038074,"Charles City intelligencer. [volume] (Charles City, Floyd County, Iowa) 1864-1866",Charles City intelligencer,"Charles City, Floyd County, Iowa",Charles City,Iowa,title,lincoln1865,43.06636,-92.67241,Charles City,geonames:4851163,7455.0,Midwest
+sn84038095,"The Denison review. [volume] (Denison, Iowa) 1867-current",The Denison review,"Denison, Iowa",Denison,Iowa,title,titanic1912,42.017222,-95.351111,Denison,wikidata:Q986171,8373.0,Midwest
+sn84038112,Delaware State journal and statesman.,Delaware State journal and statesman,,,Delaware,none,lincoln1865,,,,,,South
+sn84038114,Daily Republican.,Daily Republican,,,,none,custer1876,,,,,,
+sn84038119,The Morning herald.,The Morning herald,,,Delaware,none,custer1876,,,,,,South
+sn84038123,"Bozeman avant courier. [volume] (Bozeman, Mont.) 1872-1882",Bozeman avant courier,"Bozeman, Mont.",Bozeman,Montana,title,custer1876,45.679444,-111.037222,Bozeman,wikidata:Q569678,53293.0,West
+sn84038125,"The new North-west. [volume] (Deer Lodge, Mont.) 1869-1897",The new North-west,"Deer Lodge, Mont.",Deer Lodge,Montana,title,custer1876,46.39576,-112.73004,Deer Lodge,geonames:5648267,2965.0,West
+sn84038126,"The Benton record. [volume] (Benton, M.T. [Mont.]) 1875-1879",The Benton record,"Benton, M.T. [Mont.]",Benton,Montana,title,custer1876,47.8183,-110.66744,Fort Benton,geonames:5652763,1460.0,West
+sn84038198,"The Weston Democrat. [volume] (Weston, W. Va.) 1875-current",The Weston Democrat,"Weston, W. Va.",Weston,West Virginia,title,custer1876,39.03843,-80.46731,Weston,geonames:4826882,4082.0,South
+sn84038206,"Martinsburg independent. [volume] (Martinsburg, W. Va.) 1875-1900",Martinsburg independent,"Martinsburg, W. Va.",Martinsburg,West Virginia,title,custer1876,39.456389,-77.967778,Martinsburg,wikidata:Q1010194,18777.0,South
+sn84038306,"Manchester Democrat. [volume] (Manchester, Iowa) 1875-1930",Manchester Democrat,"Manchester, Iowa",Manchester,Iowa,title,titanic1912,42.48415,-91.45543,Manchester,geonames:4865996,5073.0,Midwest
+sn84038328,"The interior journal. [volume] (Stanford, Ky.) 1872-1881",The interior journal,"Stanford, Ky.",Stanford,Kentucky,title,custer1876,37.53119,-84.66189,Stanford,geonames:4309487,3675.0,South
+sn84038335,"Missouri Valley times. [volume] (Missouri Valley, Iowa) 1874-1931",Missouri Valley times,"Missouri Valley, Iowa",Missouri Valley,Iowa,title,titanic1912,41.55638,-95.88779,Missouri Valley,geonames:4867597,2695.0,Midwest
+sn84038485,"The Toledo chronicle. [volume] (Toledo, Tama County, Iowa) 1873-1924",The Toledo chronicle,"Toledo, Tama County, Iowa",Toledo,Iowa,title,custer1876,41.993333,-92.579167,Toledo,wikidata:Q1918024,2369.0,Midwest
+sn84038582,"The Ottawa free trader. [volume] (Ottawa, Ill.) 1843-1916",The Ottawa free trader,"Ottawa, Ill.",Ottawa,Illinois,title,lincoln1865 custer1876,41.351111,-88.837778,Ottawa,wikidata:Q576209,18840.0,Midwest
+sn84038628,"The evening Argus. [volume] (Rock Island, Ill.) 1861-1871",The evening Argus,"Rock Island, Ill.",Rock Island,Illinois,title,lincoln1865,41.50948,-90.57875,Rock Island,geonames:4907907,38620.0,Midwest
+sn84038806,Los Angeles daily herald.,Los Angeles daily herald,,Los Angeles,California,name,custer1876,34.05223,-118.24368,Los Angeles,geonames:5368361,3820914.0,West
+sn84045523,"El regidor. [volume] (San Antonio, Tex.) 1888-????",El regidor,"San Antonio, Tex.",San Antonio,Texas,title,titanic1912,29.42412,-98.49363,San Antonio,geonames:4726206,1526656.0,South
+sn85000631,"The Washburn leader. [volume] (Washburn, McLean County, N.D.) 1890-1986",The Washburn leader,"Washburn, McLean County, N.D.",Washburn,North Dakota,title,titanic1912,47.28916,-101.02903,Washburn,geonames:5692806,1309.0,Midwest
+sn85007266,"The Wallace miner. [volume] (Wallace, Idaho) 1907-current",The Wallace miner,"Wallace, Idaho",Wallace,Idaho,title,titanic1912,47.4731,-115.925,Wallace,wikidata:Q1516495,791.0,West
+sn85025007,"Alexandria gazette. [volume] (Alexandria, D.C.) 1834-1974",Alexandria gazette,"Alexandria, D.C.",Alexandria,Virginia,title,lincoln1865 custer1876 titanic1912,38.80484,-77.04692,Alexandria,geonames:4744091,159467.0,South
+sn85025148,Baltimore Wecker. [volume] (Baltimore [Md.]) 1851-1867,Baltimore Wecker,Baltimore [Md.],Baltimore,Maryland,title,lincoln1865,39.29038,-76.61219,Baltimore,geonames:4347778,585708.0,South
+sn85025181,"Columbia Democrat and Bloomsburg general advertiser. [volume] (Bloomsburg, Pa.) 1850-1866",Columbia Democrat and Bloomsburg general advertiser,"Bloomsburg, Pa.",Bloomsburg,Pennsylvania,title,lincoln1865,41.0037,-76.45495,Bloomsburg,geonames:5180934,14585.0,Northeast
+sn85025182,"The star of the north. [volume] (Bloomsburg, Pa.) 1849-1866",The star of the north,"Bloomsburg, Pa.",Bloomsburg,Pennsylvania,title,lincoln1865,41.0037,-76.45495,Bloomsburg,geonames:5180934,14585.0,Northeast
+sn85025202,"Weekly Trinity journal. [volume] (Weaverville, Calif.) 1857-1972",Weekly Trinity journal,"Weaverville, Calif.",Weaverville,California,title,lincoln1865 custer1876,40.7367,-122.936,Weaverville,wikidata:Q3027750,3667.0,West
+sn85025350,"Frostburg mining journal. [volume] (Frostburg, Md.) 1871-1913",Frostburg mining journal,"Frostburg, Md.",Frostburg,Maryland,title,custer1876,39.65814,-78.92836,Frostburg,geonames:4355756,8667.0,South
+sn85025407,"Maryland independent. [volume] (Port Tobacco, Md.) 1874-current",Maryland independent,"Port Tobacco, Md.",Port Tobacco,Maryland,title,titanic1912,38.51048,-77.019561,Port Tobacco Village,wikidata:Q753959,18.0,South
+sn85025431,"Mower County transcript. [volume] (Lansing, Minn.) 1868-1915",Mower County transcript,"Lansing, Minn.",Lansing,Minnesota,title,custer1876 titanic1912,43.7453,-92.9703,Lansing,wikidata:Q13417349,132.0,Midwest
+sn85025567,"The Grange advance. [volume] (Red Wing, Minn.) 1873-1877",The Grange advance,"Red Wing, Minn.",Red Wing,Minnesota,title,custer1876,44.565556,-92.534722,Red Wing,wikidata:Q862727,16547.0,Midwest
+sn85025570,"The Redwood gazette. [volume] (Redwood Falls, Minn.) 1873-1940",The Redwood gazette,"Redwood Falls, Minn.",Redwood Falls,Minnesota,title,custer1876 titanic1912,44.539444,-95.116945,Redwood Falls,wikidata:Q1924130,5102.0,Midwest
+sn85025587,"The anti-monopolist. [volume] (Saint Paul, Minn.) 1874-1878",The anti-monopolist,"Saint Paul, Minn.",Saint Paul,Minnesota,title,custer1876,44.944167,-93.093611,Saint Paul,wikidata:Q28848,311527.0,Midwest
+sn85025620,"The Worthington advance. [volume] (Worthington, Minn.) 1874-1908",The Worthington advance,"Worthington, Minn.",Worthington,Minnesota,title,custer1876,43.62,-95.596389,Worthington,wikidata:Q988914,13947.0,Midwest
+sn85025759,"The Cincinnati daily star. [volume] ([Cincinnati, Ohio]) 1875-1880",The Cincinnati daily star,"[Cincinnati, Ohio]",Cincinnati,Ohio,title,custer1876,39.12711,-84.51439,Cincinnati,geonames:4508722,311097.0,Midwest
+sn85025905,"Chattanooga daily rebel. [volume] (Selma, Ala.) 1865-1865",Chattanooga daily rebel,"Selma, Ala.",Selma,Alabama,title,lincoln1865,32.40736,-87.0211,Selma,geonames:4089114,19519.0,South
+sn85025947,"Der westbote. [volume] (Columbus, Ohio) 1843-1871",Der westbote,"Columbus, Ohio",Columbus,Ohio,title,lincoln1865,39.96118,-82.99879,Columbus,geonames:4509177,913175.0,Midwest
+sn85026002,Dayton daily empire. [volume] (Dayton [Ohio]) 1850-1865,Dayton daily empire,Dayton [Ohio],Dayton,Ohio,title,lincoln1865,39.766667,-84.2,Dayton,wikidata:Q34739,137644.0,Midwest
+sn85026034,"The Findlay Jeffersonian. [volume] (Findlay, Hancock County, Ohio) 1870-1881",The Findlay Jeffersonian,"Findlay, Hancock County, Ohio",Findlay,Ohio,title,custer1876,41.04422,-83.64993,Findlay,geonames:5153924,41149.0,Midwest
+sn85026050,"Fremont journal. [volume] (Fremont, Sandusky County [Ohio]) 1853-1866",Fremont journal,"Fremont, Sandusky County [Ohio]",Fremont,Ohio,title,lincoln1865,41.35033,-83.12186,Fremont,geonames:5155207,16297.0,Midwest
+sn85026193,"The Weekly Perrysburg journal. [volume] (Perrysburg, O. [Ohio]) 1861-1???",The Weekly Perrysburg journal,"Perrysburg, O. [Ohio]",Perrysburg,Ohio,title,lincoln1865,41.550278,-83.63,Perrysburg,wikidata:Q998647,25041.0,Midwest
+sn85026241,"Belmont chronicle. [volume] (St. Clairsville, Ohio) 1855-1973",Belmont chronicle,"St. Clairsville, Ohio",St. Clairsville,Ohio,title,lincoln1865 custer1876,40.08063,-80.90009,Saint Clairsville,geonames:5169130,5184.0,Midwest
+sn85026309,"Urbana union. [volume] (Urbana, Ohio) 1862-1872",Urbana union,"Urbana, Ohio",Urbana,Ohio,title,lincoln1865,40.10839,-83.75243,Urbana,geonames:5174897,11547.0,Midwest
+sn85026421,"The Lake County star. [volume] (Chase, Mich.) 1873-current",The Lake County star,"Chase, Mich.",Chase,Michigan,title,custer1876,43.889182,-85.63561,Chase,wikidata:Q136348693,0.0,Midwest
+sn85026455,"Northern tribune. [volume] (Cheboygan, Mich.) 1875-1885",Northern tribune,"Cheboygan, Mich.",Cheboygan,Michigan,title,custer1876,45.646944,-84.474444,Cheboygan,wikidata:Q2738845,4770.0,Midwest
+sn85026936,,,,,,none,custer1876,,,,,,
+sn85026941,"Shenandoah herald. [volume] (Woodstock, Va.) 1865-1974",Shenandoah herald,"Woodstock, Va.",Woodstock,Virginia,title,custer1876 titanic1912,38.8769,-78.5114,Woodstock,wikidata:Q1375409,5807.0,South
+sn85026954,"Port Royal standard and commercial. [volume] (Beaufort, S.C.) 1874-1876",Port Royal standard and commercial,"Beaufort, S.C.",Beaufort,South Carolina,title,custer1876,32.431944,-80.689445,Beaufort,wikidata:Q813376,13607.0,South
+sn85026955,"Bristol news. [volume] (Bristol, Va. &amp; Tenn.) 1867-189?",Bristol news,"Bristol, Va. &amp; Tenn.",Bristol,Virginia,title,custer1876,36.59649,-82.18847,Bristol,geonames:4748993,17141.0,South
+sn85029094,"The independent. [volume] (Oskaloosa, Kan.) 1860-1874",The independent,"Oskaloosa, Kan.",Oskaloosa,Kansas,title,lincoln1865,39.2158,-95.3139,Oskaloosa,wikidata:Q1020401,1110.0,Midwest
+sn85029856,"The Liberal democrat. [volume] (Liberal, Kan.) 1911-1924",The Liberal democrat,"Liberal, Kan.",Liberal,Kansas,title,titanic1912,37.04308,-100.921,Liberal,geonames:5445820,20746.0,Midwest
+sn85030287,"Meade County news. [volume] (Meade, Kan.) 1900-1918",Meade County news,"Meade, Kan.",Meade,Kansas,title,titanic1912,37.28558,-100.34015,Meade,geonames:5445952,1624.0,Midwest
+sn85030529,"The Chanute times. [volume] (Chanute, Kan.) 1897-1913",The Chanute times,"Chanute, Kan.",Chanute,Kansas,title,titanic1912,37.67921,-95.4572,Chanute,geonames:4269392,9252.0,Midwest
+sn85032573,"The Wichita city eagle. [volume] (Wichita, Kan.) 1872-1883",The Wichita city eagle,"Wichita, Kan.",Wichita,Kansas,title,custer1876,37.688889,-97.336111,Wichita,wikidata:Q49266,397532.0,Midwest
+sn85032923,"Weekly journal-miner. [volume] (Prescott, Ariz.) 1908-1929",Weekly journal-miner,"Prescott, Ariz.",Prescott,Arizona,title,titanic1912,34.540024,-112.468502,Prescott,wikidata:Q79931,45827.0,West
+sn85032933,The oasis.,The oasis,,,Arizona,none,titanic1912,,,,,,West
+sn85033000,"The log cabin Democrat. [volume] (Conway, Ark.) 1908-current",The log cabin Democrat,"Conway, Ark.",Conway,Arkansas,title,titanic1912,35.0887,-92.4421,Conway,geonames:4106458,64980.0,South
+sn85033019,"Dodgeville chronicle. [volume] (Dodgeville, Wis.) 1862-current",Dodgeville chronicle,"Dodgeville, Wis.",Dodgeville,Wisconsin,title,lincoln1865,42.963333,-90.131111,Dodgeville,wikidata:Q1013664,4984.0,Midwest
+sn85033078,"Wood County reporter. [volume] (Grand Rapids [i.e. Wisconsin Rapids], Wis.) 1857-1923",Wood County reporter,"Grand Rapids [i.e. Wisconsin Rapids], Wis.",Wisconsin Rapids,Wisconsin,title,custer1876 titanic1912,44.394445,-89.832778,Wisconsin Rapids,wikidata:Q1003702,18877.0,Midwest
+sn85033123,"The Kenosha telegraph. [volume] (Kenosha, Wis.) 1860-1888",The Kenosha telegraph,"Kenosha, Wis.",Kenosha,Wisconsin,title,lincoln1865 custer1876,42.582222,-87.845555,Kenosha,wikidata:Q462161,99986.0,Midwest
+sn85033133,"Grant County herald. [volume] (Lancaster, Wis.) 1850-1968",Grant County herald,"Lancaster, Wis.",Lancaster,Wisconsin,title,custer1876 titanic1912,42.848611,-90.710556,Lancaster,wikidata:Q1013953,3907.0,Midwest
+sn85033139,"The Manitowoc pilot. [volume] (Manitowoc, Wis.) 1859-1932",The Manitowoc pilot,"Manitowoc, Wis.",Manitowoc,Wisconsin,title,lincoln1865 custer1876 titanic1912,44.099042,-87.68102,Manitowoc,wikidata:Q536759,34626.0,Midwest
+sn85033153,"The Manitowoc tribune. [volume] (Manitowoc, Wis.) 1866-1878",The Manitowoc tribune,"Manitowoc, Wis.",Manitowoc,Wisconsin,title,custer1876,44.099042,-87.68102,Manitowoc,wikidata:Q536759,34626.0,Midwest
+sn85033162,"Lincoln County leader. [volume] (Toledo, Lincoln County, Or.) 1893-1987",Lincoln County leader,"Toledo, Lincoln County, Or.",Toledo,Oregon,title,titanic1912,44.62151,-123.93845,Toledo,geonames:5757007,3511.0,West
+sn85033221,"Prescott journal. [volume] (Prescott, Wis.) 1861-1871",Prescott journal,"Prescott, Wis.",Prescott,Wisconsin,title,lincoln1865,44.74886,-92.80215,Prescott,geonames:5268045,4208.0,Midwest
+sn85033255,"River Falls journal. [volume] (River Falls, Pierce County, Wis.) 1872-2019",River Falls journal,"River Falls, Pierce County, Wis.",River Falls,Wisconsin,title,custer1876 titanic1912,44.86136,-92.62381,River Falls,geonames:5268986,15269.0,Midwest
+sn85033295,"Watertown republican. [volume] (Watertown, Wis.) 1860-1906",Watertown republican,"Watertown, Wis.",Watertown,Wisconsin,title,custer1876,43.19472,-88.72899,Watertown,geonames:5278005,23819.0,Midwest
+sn85033306,"The Bolivar bulletin. [volume] (Bolivar, Hardeman County, Tenn.) 1865-1888",The Bolivar bulletin,"Bolivar, Hardeman County, Tenn.",Bolivar,Tennessee,title,custer1876,35.2633,-89.0055,Bolivar,wikidata:Q2544978,5205.0,South
+sn85033395,"Fayetteville observer. [volume] (Fayetteville, Tenn.) 1850-1966",Fayetteville observer,"Fayetteville, Tenn.",Fayetteville,Tennessee,title,custer1876,35.15203,-86.57055,Fayetteville,geonames:4621915,7121.0,South
+sn85033413,"The Cairo bulletin. [volume] (Cairo, Ill.) 1872-1878",The Cairo bulletin,"Cairo, Ill.",Cairo,Illinois,title,custer1876,37.013056,-89.180278,Cairo,wikidata:Q575306,1733.0,Midwest
+sn85033492,Illinois Staats-zeitung.,Illinois Staats-zeitung,,,Illinois,none,custer1876,,,,,,Midwest
+sn85033549,"Alpena weekly argus. [volume] (Alpena, Mich.) 1871-1893",Alpena weekly argus,"Alpena, Mich.",Alpena,Michigan,title,custer1876,45.061667,-83.432778,Alpena,wikidata:Q1012455,10197.0,Midwest
+sn85033611,"The Cass County Republican. [volume] (Dowagiac, Mich.) 18??-1880",The Cass County Republican,"Dowagiac, Mich.",Dowagiac,Michigan,title,custer1876,41.98421,-86.10862,Dowagiac,geonames:4991111,5851.0,Midwest
+sn85033622,"The Grand Haven news. [volume] (Grand Haven, Mich.) 1858-18??",The Grand Haven news,"Grand Haven, Mich.",Grand Haven,Michigan,title,lincoln1865,43.06307,-86.22839,Grand Haven,geonames:4994325,11062.0,Midwest
+sn85033637,"The Hillsdale standard. [volume] (Hillsdale, Mich.) 1851-1909",The Hillsdale standard,"Hillsdale, Mich.",Hillsdale,Michigan,title,lincoln1865 custer1876,41.92005,-84.63051,Hillsdale,geonames:4996107,8163.0,Midwest
+sn85033673,"Public ledger. [volume] (Memphis, Tenn.) 1865-1893",Public ledger,"Memphis, Tenn.",Memphis,Tennessee,title,custer1876,35.146111,-90.051945,Memphis,wikidata:Q16563,633104.0,South
+sn85033681,"The Morristown gazette. [volume] (Morristown, Tenn.) 1867-1920",The Morristown gazette,"Morristown, Tenn.",Morristown,Tennessee,title,custer1876,36.2106,-83.2961,Morristown,wikidata:Q2330995,30431.0,South
+sn85033781,"The true northerner. [volume] (Paw Paw, Mich.) 1855-1920",The true northerner,"Paw Paw, Mich.",Paw Paw,Michigan,title,custer1876 titanic1912,42.21782,-85.89112,Paw Paw,geonames:5005126,3455.0,Midwest
+sn85033964,"The Pulaski citizen. [volume] (Pulaski, Tenn.) 1866-current",The Pulaski citizen,"Pulaski, Tenn.",Pulaski,Tennessee,title,custer1876,35.195833,-87.034444,Pulaski,wikidata:Q1410885,8397.0,South
+sn85034076,"The Andrew County Republican. [volume] (Savannah, Mo.) 1871-1876",The Andrew County Republican,"Savannah, Mo.",Savannah,Missouri,title,custer1876,39.94166,-94.83025,Savannah,geonames:4407665,5108.0,Midwest
+sn85034082,"The Marietta journal. [volume] (Marietta, Ga.) 1866-1909",The Marietta journal,"Marietta, Ga.",Marietta,Georgia,title,custer1876,33.953333,-84.540556,Marietta,wikidata:Q852684,60972.0,South
+sn85034235,"The Bossier banner. [volume] (Bellevue, Bossier Parish, La.) 1859-1952",The Bossier banner,"Bellevue, Bossier Parish, La.",Bellevue,Louisiana,title,custer1876 titanic1912,32.673333,-93.522222,Bellevue,wikidata:Q29093285,0.0,South
+sn85034248,"The Donaldsonville chief. [volume] (Donaldsonville, La.) 1871-current",The Donaldsonville chief,"Donaldsonville, La.",Donaldsonville,Louisiana,title,titanic1912,30.10114,-90.99412,Donaldsonville,geonames:4322811,7792.0,South
+sn85034299,"The Canton mail. [volume] (Canton, Miss.) 18??-1882",The Canton mail,"Canton, Miss.",Canton,Mississippi,title,custer1876,32.61264,-90.03675,Canton,geonames:4420617,13676.0,South
+sn85034336,"The Ouachita telegraph. [volume] (Monroe, La.) 1865-1889",The Ouachita telegraph,"Monroe, La.",Monroe,Louisiana,title,custer1876,32.50931,-92.1193,Monroe,geonames:4333669,49598.0,South
+sn85034357,"Clinch Valley news. [volume] (Jeffersonville, Va.) 18??-2019",Clinch Valley news,"Jeffersonville, Va.",Jeffersonville,Virginia,title,titanic1912,37.11484,-81.51955,Tazewell,wikidata:Q1376160,4486.0,South
+sn85034374,"The Greenville times. [volume] (Greenville, Miss.) 1868-1917",The Greenville times,"Greenville, Miss.",Greenville,Mississippi,title,custer1876,33.40898,-91.05978,Greenville,geonames:4428475,32156.0,South
+sn85034375,"The Grenada sentinel. [volume] (Grenada, Miss.) 1868-1955",The Grenada sentinel,"Grenada, Miss.",Grenada,Mississippi,title,titanic1912,33.769,-89.80842,Grenada,geonames:4428539,12900.0,South
+sn85034406,"The Cadiz sentinel. [volume] (Cadiz, Ohio) 1864-1911",The Cadiz sentinel,"Cadiz, Ohio",Cadiz,Ohio,title,lincoln1865,40.27285,-80.99676,Cadiz,geonames:5148855,3271.0,Midwest
+sn85035524,The Penn's Grove record.,The Penn's Grove record,,,New Jersey,none,titanic1912,,,,,,Northeast
+sn85035720,"Perth Amboy evening news. [volume] (Perth Amboy, N.J.) 1903-1959",Perth Amboy evening news,"Perth Amboy, N.J.",Perth Amboy,New Jersey,title,titanic1912,40.50677,-74.26542,Perth Amboy,geonames:5102578,52682.0,Northeast
+sn85035801,"The Mount Holly news. [volume] (Mount Holly, Burlington Co., N.J.) 1891-1942",The Mount Holly news,"Mount Holly, Burlington Co., N.J.",Mount Holly,New Jersey,title,titanic1912,39.99289,-74.78766,Mount Holly,geonames:4503134,10804.0,Northeast
+sn85035816,"The Morris County chronicle. [volume] (Morristown, N.J.) 1877-1915",The Morris County chronicle,"Morristown, N.J.",Morristown,New Jersey,title,titanic1912,40.7966,-74.4773,Morristown,wikidata:Q962499,20180.0,Northeast
+sn85038088,"The Somerset press. [volume] (Somerset, Ohio) 1873-1977",The Somerset press,"Somerset, Ohio",Somerset,Ohio,title,custer1876,39.80701,-82.29709,Somerset,geonames:4524993,1464.0,Midwest
+sn85038115,"The spirit of democracy. [volume] (Woodsfield, Ohio) 1844-1994",The spirit of democracy,"Woodsfield, Ohio",Woodsfield,Ohio,title,lincoln1865 custer1876,39.76257,-81.11538,Woodsfield,geonames:4528724,2348.0,Midwest
+sn85038121,"Gallipolis journal. [volume] (Gallipolis, Ohio) 1837-1919",Gallipolis journal,"Gallipolis, Ohio",Gallipolis,Ohio,title,lincoln1865 custer1876,38.8098,-82.20237,Gallipolis,geonames:4512449,3469.0,Midwest
+sn85038145,"Fayette County herald. [volume] (Washington [Washington Court House], Fayette County, O. [Ohio]) 1860-1???",Fayette County herald,"Washington [Washington Court House], Fayette County, O. [Ohio]",Washington Court House,Ohio,title,custer1876,39.5364,-83.4356,Washington Court House,wikidata:Q2203766,14401.0,Midwest
+sn85038158,"The Highland weekly news. [volume] (Hillsborough [Hillsboro], Highland County, Ohio) 1853-1886",The Highland weekly news,"Hillsborough [Hillsboro], Highland County, Ohio",Hillsborough,Ohio,title,lincoln1865 custer1876,39.20229,-83.61159,Hillsboro,geonames:4514282,6557.0,Midwest
+sn85038161,"The News-Herald. [volume] (Hillsboro, Highland Co., Ohio) 1886-1973",The News-Herald,"Hillsboro, Highland Co., Ohio",Hillsboro,Ohio,title,titanic1912,39.20229,-83.61159,Hillsboro,geonames:4514282,6557.0,Midwest
+sn85038180,"The Jackson standard. [volume] (Jackson C.H., Ohio) 1847-1888",The Jackson standard,"Jackson C.H., Ohio",Jackson C.H.,Ohio,title,custer1876,39.0508,-82.6397,Jackson,wikidata:Q1903275,6252.0,Midwest
+sn85038184,"Pomeroy weekly telegraph. [volume] (Pomeroy, Meigs County, Ohio) 1860-1866",Pomeroy weekly telegraph,"Pomeroy, Meigs County, Ohio",Pomeroy,Ohio,title,lincoln1865,39.02758,-82.03375,Pomeroy,geonames:4521708,1821.0,Midwest
+sn85038244,The Xenia sentinel. [volume] (Xenia [Ohio]) 1863-186?,The Xenia sentinel,Xenia [Ohio],Xenia,Ohio,title,lincoln1865,39.68478,-83.92965,Xenia,geonames:4528810,25976.0,Midwest
+sn85038292,"The Democratic advocate. [volume] (Westminster, Md.) 1865-1972",The Democratic advocate,"Westminster, Md.",Westminster,Maryland,title,custer1876 titanic1912,39.576667,-77.0,Westminster,wikidata:Q755018,20126.0,South
+sn85038485,"The Birmingham age-herald. [volume] (Birmingham, Ala.) 1902-1950",The Birmingham age-herald,"Birmingham, Ala.",Birmingham,Alabama,title,titanic1912,33.5175,-86.809445,Birmingham,wikidata:Q79867,200733.0,South
+sn85038489,"The leader-enterprise. [volume] (Fitzgerald, Ga.) 1912-1915",The leader-enterprise,"Fitzgerald, Ga.",Fitzgerald,Georgia,title,titanic1912,31.71491,-83.25265,Fitzgerald,geonames:4195168,9013.0,South
+sn85038522,"The Nashville weekly union. [volume] (Nashville, Tenn.) 1862-1866",The Nashville weekly union,"Nashville, Tenn.",Nashville,Tennessee,title,lincoln1865,36.162222,-86.774444,Nashville,wikidata:Q23197,689447.0,South
+sn85038558,"The People&#39;s vindicator. [volume] (Natchitoches, La.) 1874-1883",The People&#39;s vindicator,"Natchitoches, La.",Natchitoches,Louisiana,title,custer1876,31.76072,-93.08627,Natchitoches,geonames:4334720,18365.0,South
+sn85038615,"The times dispatch. [volume] (Richmond, Va.) 1903-1914",The times dispatch,"Richmond, Va.",Richmond,Virginia,title,titanic1912,37.55376,-77.46026,Richmond,geonames:4781708,226610.0,South
+sn85038709,"Alma record. (Alma, Mich.) 1878-1928",Alma record,"Alma, Mich.",Alma,Michigan,title,titanic1912,43.378889,-84.659722,Alma,wikidata:Q2745140,9488.0,Midwest
+sn85040245,"Ladysmith news-budget. [volume] (Ladysmith, Rusk County, Wis.) 1907-1927",Ladysmith news-budget,"Ladysmith, Rusk County, Wis.",Ladysmith,Wisconsin,title,titanic1912,45.463889,-91.1,Ladysmith,wikidata:Q1569821,3216.0,Midwest
+sn85040310,"The Telegraph-courier. [volume] (Kenosha, Wis.) 1888-1946",The Telegraph-courier,"Kenosha, Wis.",Kenosha,Wisconsin,title,titanic1912,42.582222,-87.845555,Kenosha,wikidata:Q462161,99986.0,Midwest
+sn85040344,"The Superior times. [volume] (Superior, Wis.) 1870-1912",The Superior times,"Superior, Wis.",Superior,Wisconsin,title,custer1876,46.720556,-92.103889,Superior,wikidata:Q984577,26751.0,Midwest
+sn85040437,"The Washburn times. [volume] (Washburn, Wis.) 1896-1976",The Washburn times,"Washburn, Wis.",Washburn,Wisconsin,title,titanic1912,46.67327,-90.89491,Washburn,geonames:5277856,2055.0,Midwest
+sn85040451,"Vernon County censor. [volume] (Viroqua, Wis.) 1865-1955",Vernon County censor,"Viroqua, Wis.",Viroqua,Wisconsin,title,titanic1912,43.556667,-90.887778,Viroqua,wikidata:Q1569775,4504.0,Midwest
+sn85040613,"Vilas County news. [volume] (Eagle River, Vilas County, Wis.) 1896-1927",Vilas County news,"Eagle River, Vilas County, Wis.",Eagle River,Wisconsin,title,titanic1912,45.92,-89.250278,Eagle River,wikidata:Q1569567,1628.0,Midwest
+sn85040614,"Eagle River review. [volume] (Eagle River, Wis.) 1890-1927",Eagle River review,"Eagle River, Wis.",Eagle River,Wisconsin,title,titanic1912,45.92,-89.250278,Eagle River,wikidata:Q1569567,1628.0,Midwest
+sn85040705,"Northern Wisconsin advertiser. [volume] (Wabeno, Wis.) 1898-1925",Northern Wisconsin advertiser,"Wabeno, Wis.",Wabeno,Wisconsin,title,titanic1912,45.43858,-88.66039,Wabeno,geonames:5277667,575.0,Midwest
+sn85040721,"The Watertown weekly leader. [volume] (Watertown, Jefferson County, Wis.) 1912-1917",The Watertown weekly leader,"Watertown, Jefferson County, Wis.",Watertown,Wisconsin,title,titanic1912,43.19472,-88.72899,Watertown,geonames:5278005,23819.0,Midwest
+sn85040749,"Wausau pilot. [volume] (Wausau, Wis.) 1896-1940",Wausau pilot,"Wausau, Wis.",Wausau,Wisconsin,title,titanic1912,44.95,-89.633333,Wausau,wikidata:Q998675,39994.0,Midwest
+sn85042224,"The Fargo forum and daily republican. [volume] (Fargo, N.D.) 1894-1957",The Fargo forum and daily republican,"Fargo, N.D.",Fargo,North Dakota,title,titanic1912,46.877222,-96.789444,Fargo,wikidata:Q34109,125990.0,Midwest
+sn85042242,"Bismarck daily tribune. [volume] (Bismarck, Dakota [N.D.]) 1881-1916",Bismarck daily tribune,"Bismarck, Dakota [N.D.]",Bismarck,North Dakota,title,titanic1912,46.80833,-100.78374,Bismarck,geonames:5688025,75092.0,Midwest
+sn85042303,"The Daily Ardmoreite. [volume] (Ardmore, Okla.) 1893-current",The Daily Ardmoreite,"Ardmore, Okla.",Ardmore,Oklahoma,title,titanic1912,34.17426,-97.14363,Ardmore,geonames:4529469,25176.0,South
+sn85042344,"Tulsa daily world. [volume] (Tulsa, Indian Territory [Okla.]) 1905-1919",Tulsa daily world,"Tulsa, Indian Territory [Okla.]",Tulsa,Oklahoma,title,titanic1912,36.131389,-95.937222,Tulsa,wikidata:Q44989,413066.0,South
+sn85042354,Evening journal.,Evening journal,,,Delaware,none,titanic1912,,,,,,South
+sn85042373,"The evening times. [volume] (Grand Forks, N.D.) 1906-1914",The evening times,"Grand Forks, N.D.",Grand Forks,North Dakota,title,titanic1912,47.925278,-97.0325,Grand Forks,wikidata:Q34144,59166.0,Midwest
+sn85042399,"Ashland tidings. [volume] (Ashland, Or.) 1876-1919",Ashland tidings,"Ashland, Or.",Ashland,Oregon,title,titanic1912,42.19458,-122.70948,Ashland,geonames:5711789,20861.0,West
+sn85042405,"Jamestown weekly alert. [volume] (Jamestown, Stutsman County, D.T. [N.D.]) 1882-1925",Jamestown weekly alert,"Jamestown, Stutsman County, D.T. [N.D.]",Jamestown,North Dakota,title,titanic1912,46.910556,-98.708445,Jamestown,wikidata:Q1052658,15849.0,Midwest
+sn85042551,"Amarillo daily news. [volume] (Amarillo, Tex.) 19??-current",Amarillo daily news,"Amarillo, Tex.",Amarillo,Texas,title,titanic1912,35.199167,-101.845278,Amarillo,wikidata:Q51691,200393.0,South
+sn85042591,"The Hancock Jeffersonian. [volume] (Findlay, Ohio) 1857-1870",The Hancock Jeffersonian,"Findlay, Ohio",Findlay,Ohio,title,lincoln1865,41.04422,-83.64993,Findlay,geonames:5153924,41149.0,Midwest
+sn85042623,"The tribune. [volume] (Beaufort, S.C.) 1874-1876",The tribune,"Beaufort, S.C.",Beaufort,South Carolina,title,custer1876,32.431944,-80.689445,Beaufort,wikidata:Q813376,13607.0,South
+sn85042790,"The Miller press. [volume] (Miller, S.D.) 190?-current",The Miller press,"Miller, S.D.",Miller,South Dakota,title,titanic1912,44.51831,-98.98843,Miller,geonames:5229751,1437.0,Midwest
+sn85042792,"The Brookings register. [volume] (Brookings, Brookings County, S.D.) 1903-1971",The Brookings register,"Brookings, Brookings County, S.D.",Brookings,South Dakota,title,titanic1912,44.31136,-96.79839,Brookings,geonames:5226534,23657.0,Midwest
+sn85042816,"Union and American. [volume] (Greeneville, Tenn.) 1875-1877",Union and American,"Greeneville, Tenn.",Greeneville,Tennessee,title,custer1876,36.168611,-82.813333,Greeneville,wikidata:Q1002631,15479.0,South
+sn85049554,"Evening times-Republican. [volume] (Marshalltown, Iowa) 1890-1923",Evening times-Republican,"Marshalltown, Iowa",Marshalltown,Iowa,title,titanic1912,42.04943,-92.90798,Marshalltown,geonames:4866371,27620.0,Midwest
+sn85050913,"Webster City freeman. [volume] (Webster City, Hamilton County, Iowa) 1884-1946",Webster City freeman,"Webster City, Hamilton County, Iowa",Webster City,Iowa,title,titanic1912,42.466389,-93.820556,Webster City,wikidata:Q1914026,7825.0,Midwest
+sn85052023,"The interior journal. [volume] (Stanford, Ky.) 1912-1984",The interior journal,"Stanford, Ky.",Stanford,Kentucky,title,titanic1912,37.53119,-84.66189,Stanford,geonames:4309487,3675.0,South
+sn85052076,"The citizen. [volume] (Berea, Ky.) 1899-1958",The citizen,"Berea, Ky.",Berea,Kentucky,title,titanic1912,37.5769,-84.2936,Berea,wikidata:Q3180809,15539.0,South
+sn85052141,"The Hickman courier. [volume] (Hickman, Ky.) 1859-current",The Hickman courier,"Hickman, Ky.",Hickman,Kentucky,title,custer1876 titanic1912,36.5672,-89.1864,Hickman,wikidata:Q1023019,2365.0,South
+sn85053044,"Browning chief. [volume] (Browning, Mont.) 1941-1953",Browning chief,"Browning, Mont.",Browning,Montana,title,pearl1941,48.55692,-113.01342,Browning,geonames:5642247,1027.0,West
+sn85053089,"The searchlight. [volume] (Culbertson, Mont.) 1902-current",The searchlight,"Culbertson, Mont.",Culbertson,Montana,title,titanic1912,48.14446,-104.5169,Culbertson,geonames:5647366,815.0,West
+sn85053090,"The Ekalaka eagle. [volume] (Ekalaka, Mont.) 1909-1920",The Ekalaka eagle,"Ekalaka, Mont.",Ekalaka,Montana,title,titanic1912,45.889167,-104.549722,Ekalaka,wikidata:Q961306,399.0,West
+sn85053157,"The river press. [volume] (Fort Benton, Mont.) 1880-current",The river press,"Fort Benton, Mont.",Fort Benton,Montana,title,titanic1912,47.8183,-110.66744,Fort Benton,geonames:5652763,1460.0,West
+sn85053181,"The Harlowton news. [volume] (Harlowton, Mont.) 1909-1914",The Harlowton news,"Harlowton, Mont.",Harlowton,Montana,title,titanic1912,46.43551,-109.83435,Harlowton,geonames:5656214,979.0,West
+sn85053292,"The Libby herald. [volume] (Libby, Mont.) 1911-1913",The Libby herald,"Libby, Mont.",Libby,Montana,title,titanic1912,48.388286,-115.555999,Libby,wikidata:Q957370,2775.0,West
+sn85053308,"The Wibaux pioneer. [volume] (Wibaux, Mont.) 1907-1919",The Wibaux pioneer,"Wibaux, Mont.",Wibaux,Montana,title,titanic1912,46.98501,-104.18827,Wibaux,geonames:5686290,666.0,West
+sn85054616,"Raftsman&#39;s journal. [volume] (Clearfield, Pa.) 1854-1948",Raftsman&#39;s journal,"Clearfield, Pa.",Clearfield,Pennsylvania,title,lincoln1865,41.02728,-78.43919,Clearfield,geonames:5184541,6030.0,Northeast
+sn85058217,"The Coalville times. [volume] (Coalville, Utah) 1894-1923",The Coalville times,"Coalville, Utah",Coalville,Utah,title,titanic1912,40.917222,-111.398333,Coalville,wikidata:Q483276,1486.0,West
+sn85058246,"The Logan Republican. [volume] (Logan, Utah) 1902-1924",The Logan Republican,"Logan, Utah",Logan,Utah,title,titanic1912,41.737778,-111.830833,Logan,wikidata:Q482657,52778.0,West
+sn85058259,"Iron County record. [volume] (Cedar City, Utah) 1893-1982",Iron County record,"Cedar City, Utah",Cedar City,Utah,title,titanic1912,37.6825,-113.074444,Cedar City,wikidata:Q487212,35235.0,West
+sn85059533,"Martinsburg herald. [volume] (Martinsburg, W. Va.) 1881-1920",Martinsburg herald,"Martinsburg, W. Va.",Martinsburg,West Virginia,title,titanic1912,39.456389,-77.967778,Martinsburg,wikidata:Q1010194,18777.0,South
+sn85059542,"Martinsburg statesman-democrat. [volume] (Martinsburg, W. Va.) 1906-1921",Martinsburg statesman-democrat,"Martinsburg, W. Va.",Martinsburg,West Virginia,title,titanic1912,39.456389,-77.967778,Martinsburg,wikidata:Q1010194,18777.0,South
+sn85059585,"Evening journal. [volume] (Martinsburg, W. Va.) 1907-1913",Evening journal,"Martinsburg, W. Va.",Martinsburg,West Virginia,title,titanic1912,39.456389,-77.967778,Martinsburg,wikidata:Q1010194,18777.0,South
+sn85059591,"The Calhoun chronicle. [volume] (Grantsville, W. Va.) 1883-1984",The Calhoun chronicle,"Grantsville, W. Va.",Grantsville,West Virginia,title,titanic1912,38.92342,-81.09595,Grantsville,geonames:4807389,548.0,South
+sn85059715,"The daily telegram. [volume] (Clarksburg, W. Va.) 1901-1926",The daily telegram,"Clarksburg, W. Va.",Clarksburg,West Virginia,title,titanic1912,39.28065,-80.34453,Clarksburg,geonames:4802316,16152.0,South
+sn85059765,"The Socialist and labor star. [volume] (Huntington, W. Va.) 1911-1915",The Socialist and labor star,"Huntington, W. Va.",Huntington,West Virginia,title,titanic1912,38.41925,-82.44515,Huntington,geonames:4809537,48638.0,South
+sn85059812,"The advocate. [volume] (Charleston, W. Va.) 1901-1913",The advocate,"Charleston, W. Va.",Charleston,West Virginia,title,titanic1912,38.347222,-81.633333,Charleston,wikidata:Q44564,48864.0,South
+sn85066387,The San Francisco call. [volume] (San Francisco [Calif.]) 1895-1913,The San Francisco call,San Francisco [Calif.],San Francisco,California,title,titanic1912,37.775,-122.419445,San Francisco,wikidata:Q62,873965.0,West
+sn85066408,L'Italia.,L'Italia,,,California,none,titanic1912,,,,,,West
+sn86002159,"The Dolores star. [volume] (Dolores, Montezuma County, Colo.) 1901-current",The Dolores star,"Dolores, Montezuma County, Colo.",Dolores,Colorado,title,titanic1912,37.47388,-108.50454,Dolores,geonames:5419755,963.0,West
+sn86002403,La gaceta.,La gaceta,,,Florida,none,pearl1941,,,,,,South
+sn86053216,"The tri-weekly herald. [volume] (Newberry, S.C.) 1865-1865",The tri-weekly herald,"Newberry, S.C.",Newberry,South Carolina,title,lincoln1865,34.277655,-81.61656,Newberry,wikidata:Q2610042,10691.0,South
+sn86053227,"Orangeburg news and times. [volume] (Orangeburg, S.C.) 1875-1877",Orangeburg news and times,"Orangeburg, S.C.",Orangeburg,South Carolina,title,custer1876,33.49182,-80.85565,Orangeburg,geonames:4590184,13460.0,South
+sn86053370,"American citizen. [volume] (Butler, Butler County, Pa.) 1863-1872",American citizen,"Butler, Butler County, Pa.",Butler,Pennsylvania,title,lincoln1865,40.861111,-79.895278,Butler,wikidata:Q1017948,13502.0,Northeast
+sn86053402,"The weekly herald. [volume] (Cleveland, Tenn.) 1876-1888",The weekly herald,"Cleveland, Tenn.",Cleveland,Tennessee,title,custer1876,35.1714,-84.8711,Cleveland,wikidata:Q962118,47356.0,South
+sn86053406,"The herald and mail. [volume] (Columbia, Tenn.) 1873-188?",The herald and mail,"Columbia, Tenn.",Columbia,Tennessee,title,custer1876,35.615022,-87.044464,Columbia,wikidata:Q5675279,41690.0,South
+sn86053488,"The Milan exchange. (Milan, Gibson County, Tenn.) 1874-1978",The Milan exchange,"Milan, Gibson County, Tenn.",Milan,Tennessee,title,custer1876,35.915833,-88.758056,Milan,wikidata:Q1856043,8171.0,South
+sn86053570,"Daily national Republican. [volume] (Washington, D.C.) 1862-1866",Daily national Republican,"Washington, D.C.",Washington,District of Columbia,title,lincoln1865,38.8951,-77.0364,Washington,wikidata:Q61,0.0,South
+sn86053573,National Republican. (Washington City (D.C.)) 1872-1888,National Republican,D.C.,Washington,District of Columbia,title,custer1876,38.8951,-77.0364,Washington,wikidata:Q61,0.0,South
+sn86053634,"Juniata sentinel and Republican. [volume] (Mifflintown, Juniata County, Pa.) 1873-1955",Juniata sentinel and Republican,"Mifflintown, Juniata County, Pa.",Mifflintown,Pennsylvania,title,custer1876,40.5698,-77.39693,Mifflintown,geonames:5201085,926.0,Northeast
+sn86053696,"The Lake Charles echo. [volume] (Lake Charles, Parish of Calcasieu, La.) 1876-1898",The Lake Charles echo,"Lake Charles, Parish of Calcasieu, La.",Lake Charles,Louisiana,title,custer1876,30.214722,-93.208611,Lake Charles,wikidata:Q864106,84872.0,South
+sn86053936,"Scranton Wochenblatt. [volume] (Scranton, Pa.) 1865-1918",Scranton Wochenblatt,"Scranton, Pa.",Scranton,Pennsylvania,title,titanic1912,41.40916,-75.6649,Scranton,geonames:5211303,77118.0,Northeast
+sn86053968,"The Brookhaven ledger. (Brookhaven, Miss.) 1875-1883",The Brookhaven ledger,"Brookhaven, Miss.",Brookhaven,Mississippi,title,custer1876,31.57906,-90.44065,Brookhaven,geonames:4419500,12414.0,South
+sn86058226,"The Richmond palladium and sun-telegram. [volume] (Richmond, Ind.) 1907-1939",The Richmond palladium and sun-telegram,"Richmond, Ind.",Richmond,Indiana,title,titanic1912,39.82894,-84.89024,Richmond,geonames:4263681,35854.0,Midwest
+sn86058242,"The Lake County times. [volume] (Hammond, Ind.) 1906-1933",The Lake County times,"Hammond, Ind.",Hammond,Indiana,title,titanic1912,41.6111,-87.4931,Hammond,wikidata:Q856860,77879.0,Midwest
+sn86058250,"The Richmond palladium. [volume] (Richmond, Ind.) 1855-1875",The Richmond palladium,"Richmond, Ind.",Richmond,Indiana,title,lincoln1865,39.82894,-84.89024,Richmond,geonames:4263681,35854.0,Midwest
+sn86058544,"Randolph County journal. [volume] (Winchester, Indiana) 1864-1865",Randolph County journal,"Winchester, Indiana",Winchester,Indiana,title,lincoln1865,40.1731,-84.9775,Winchester,wikidata:Q680183,4843.0,Midwest
+sn86059181,"Evansville daily journal. (Evansville, Ind.) 1863-1866",Evansville daily journal,"Evansville, Ind.",Evansville,Indiana,title,lincoln1865,37.97476,-87.55585,Evansville,geonames:4257227,119943.0,Midwest
+sn86061215,"Ottumwa tri-weekly courier. [volume] (Ottumwa, Iowa) 1903-1916",Ottumwa tri-weekly courier,"Ottumwa, Iowa",Ottumwa,Iowa,title,titanic1912,41.013056,-92.414722,Ottumwa,wikidata:Q853566,25529.0,Midwest
+sn86063039,"Shoshone journal. [volume] (Shoshone, Idaho) 1884-1931",Shoshone journal,"Shoshone, Idaho",Shoshone,Idaho,title,titanic1912,42.9367,-114.408,Shoshone,wikidata:Q1517737,1653.0,West
+sn86063041,"American Falls press. [volume] (American Falls, Idaho) 1907-1937",American Falls press,"American Falls, Idaho",American Falls,Idaho,title,titanic1912,42.78111,-112.85556,American Falls,wikidata:Q385233,4568.0,West
+sn86063147,"The Lamar register. [volume] (Lamar, Colo.) 1889-1952",The Lamar register,"Lamar, Colo.",Lamar,Colorado,title,titanic1912,38.0861,-102.619,Lamar,wikidata:Q994475,7687.0,West
+sn86063206,"The Delta independent. [volume] (Delta, Colo.) 1886-19??",The Delta independent,"Delta, Colo.",Delta,Colorado,title,titanic1912,38.7408,-108.063,Delta,wikidata:Q651793,9035.0,West
+sn86063232,The Marble booster.,The Marble booster,,,Colorado,none,titanic1912,,,,,,West
+sn86063381,"The Bemidji daily pioneer. [volume] (Bemidji, Minn.) 1904-1971",The Bemidji daily pioneer,"Bemidji, Minn.",Bemidji,Minnesota,title,titanic1912,47.47356,-94.88028,Bemidji,geonames:5017822,14594.0,Midwest
+sn86063397,The Elk Mountain pilot.,The Elk Mountain pilot,,,Colorado,none,titanic1912,,,,,,West
+sn86063579,"Deming graphic. (Deming, N.M.) 1903-1948",Deming graphic,"Deming, N.M.",Deming,New Mexico,title,titanic1912,32.261111,-107.755833,Deming,wikidata:Q988813,14758.0,West
+sn86063623,"The Lexington intelligencer. [volume] (Lexington, Mo.) 1901-1949",The Lexington intelligencer,"Lexington, Mo.",Lexington,Missouri,title,titanic1912,39.1831,-93.875,Lexington,wikidata:Q966449,4652.0,Midwest
+sn86063730,"Brownsville herald. [volume] (Brownsville, Tex.) 1910-current",Brownsville herald,"Brownsville, Tex.",Brownsville,Texas,title,titanic1912,25.930278,-97.484444,Brownsville,wikidata:Q51693,186738.0,South
+sn86063758,The herald and news. [volume] (Newberry S.C.) 1903-1937,The herald and news,Newberry S.C.,Newberry,South Carolina,title,titanic1912,34.277655,-81.61656,Newberry,wikidata:Q2610042,10691.0,South
+sn86063760,"The Manning times. [volume] (Manning, Clarendon County, S.C.) 1884-current",The Manning times,"Manning, Clarendon County, S.C.",Manning,South Carolina,title,titanic1912,33.69516,-80.21091,Manning,geonames:4586196,4037.0,South
+sn86063778,"Fort Mill times. [volume] (Fort Mill, S.C.) 1892-current",Fort Mill times,"Fort Mill, S.C.",Fort Mill,South Carolina,title,titanic1912,35.005833,-80.946944,Fort Mill,wikidata:Q2291273,24521.0,South
+sn86063782,"Cheraw chronicle. [volume] (Cheraw, S.C.) 1896-2005",Cheraw chronicle,"Cheraw, S.C.",Cheraw,South Carolina,title,titanic1912,34.69766,-79.8834,Cheraw,geonames:4574434,5778.0,South
+sn86063790,"The Bamberg herald. [volume] (Bamberg, S.C.) 1891-1972",The Bamberg herald,"Bamberg, S.C.",Bamberg,South Carolina,title,titanic1912,33.2971,-81.03482,Bamberg,geonames:4569929,3383.0,South
+sn86063952,"The Guthrie daily leader. [volume] (Guthrie, Okla.) 1893-1996",The Guthrie daily leader,"Guthrie, Okla.",Guthrie,Oklahoma,title,titanic1912,35.87894,-97.42532,Guthrie,geonames:4538142,11270.0,South
+sn86063984,The Troy herald.,The Troy herald,,,,none,custer1876,,,,,,
+sn86064119,"The weekly chieftain. [volume] (Vinita, Craig County, Okla.) 1905-1913",The weekly chieftain,"Vinita, Craig County, Okla.",Vinita,Oklahoma,title,titanic1912,36.63869,-95.15413,Vinita,geonames:4554496,5643.0,South
+sn86064239,"The Snyder signal. (Snyder, Tex.) 1887-????",The Snyder signal,"Snyder, Tex.",Snyder,Texas,title,titanic1912,32.71789,-100.91762,Snyder,geonames:5530921,11768.0,South
+sn86064259,"The Nashville globe. [volume] (Nashville, Tenn.) 1906-193?",The Nashville globe,"Nashville, Tenn.",Nashville,Tennessee,title,titanic1912,36.162222,-86.774444,Nashville,wikidata:Q23197,689447.0,South
+sn86064439,Su\u0308d California Deutsche zeitung.,Su\u0308d California Deutsche zeitung,,,California,none,titanic1912,,,,,,West
+sn86066870,The daily sentinel.,The daily sentinel,,,Colorado,none,titanic1912,,,,,,West
+sn86066890,Gunnison news-champion.,Gunnison news-champion,,Gunnison,Colorado,name,titanic1912,38.544444,-106.928333,Gunnison,wikidata:Q222762,6560.0,West
+sn86069070,"Lexington weekly news. [volume] (Lexington, Ky.) 1912-19??",Lexington weekly news,"Lexington, Ky.",Lexington,Kentucky,title,titanic1912,38.049722,-84.458611,Lexington,wikidata:Q49241,322570.0,South
+sn86069162,"The Richmond climax. (Richmond, Ky.) 1897-1914",The Richmond climax,"Richmond, Ky.",Richmond,Kentucky,title,titanic1912,37.744722,-84.293611,Richmond,wikidata:Q757390,34585.0,South
+sn86069180,"Kentucky Irish American. (Louisville, Ky.) 1898-1968",Kentucky Irish American,"Louisville, Ky.",Louisville,Kentucky,title,titanic1912,38.25424,-85.75941,Louisville,geonames:4299276,624444.0,South
+sn86069201,The central record.,The central record,,,Kentucky,none,titanic1912,,,,,,South
+sn86069309,"The Breckenridge news. (Cloverport, Ky.) 1876-1955",The Breckenridge news,"Cloverport, Ky.",Cloverport,Kentucky,title,titanic1912,37.83339,-86.63276,Cloverport,geonames:4288101,1156.0,South
+sn86069313,"The Hartford republican. (Hartford, Ky.) 18??-1926",The Hartford republican,"Hartford, Ky.",Hartford,Kentucky,title,titanic1912,37.45116,-86.90916,Hartford,geonames:4294195,2750.0,South
+sn86069395,"Hopkinsville Kentuckian. [volume] (Hopkinsville, Ky.) 1889-1918",Hopkinsville Kentuckian,"Hopkinsville, Ky.",Hopkinsville,Kentucky,title,titanic1912,36.86561,-87.49117,Hopkinsville,geonames:4295251,32205.0,South
+sn86069460,"Crittenden record-press. [volume] (Marion, Ky.) 1909-191?",Crittenden record-press,"Marion, Ky.",Marion,Kentucky,title,titanic1912,37.33283,-88.08113,Marion,geonames:4299842,2986.0,South
+sn86069496,"The Adair County news. [volume] (Columbia, Ky.) 1897-1987",The Adair County news,"Columbia, Ky.",Columbia,Kentucky,title,titanic1912,37.1006,-85.3061,Columbia,wikidata:Q990631,4845.0,South
+sn86069561,"Mount Vernon signal. (Mt. Vernon, Ky.) 18??-current",Mount Vernon signal,"Mt. Vernon, Ky.",Mt. Vernon,Kentucky,title,titanic1912,38.02563,-84.49522,Mount Vernon,geonames:4301702,2583.0,South
+sn86069620,Owingsville outlook.,Owingsville outlook,,Owingsville,Kentucky,name,titanic1912,38.142778,-83.766111,Owingsville,wikidata:Q2789943,1593.0,South
+sn86069643,"Licking Valley courier. [volume] (West Liberty, Ky.) 19??-current",Licking Valley courier,"West Liberty, Ky.",West Liberty,Kentucky,title,titanic1912,37.92148,-83.25962,West Liberty,geonames:4313038,3330.0,South
+sn86069657,"The Clay City times. [volume] (Clay City, Ky.) 1901-current",The Clay City times,"Clay City, Ky.",Clay City,Kentucky,title,titanic1912,37.85925,-83.91853,Clay City,geonames:4287881,1095.0,South
+sn86069675,"The Mt. Sterling advocate. (Mt. Sterling, Ky.) 1890-current",The Mt. Sterling advocate,"Mt. Sterling, Ky.",Mt. Sterling,Kentucky,title,titanic1912,38.0567,-83.9444,Mount Sterling,wikidata:Q3182166,7558.0,South
+sn86069873,"The Bourbon news. [volume] (Paris, Ky.) 1895-19??",The Bourbon news,"Paris, Ky.",Paris,Kentucky,title,titanic1912,38.2064,-84.2578,Paris,wikidata:Q3181341,10171.0,South
+sn86071378,"Democrat and sentinel. [volume] (Ebensburg, Pa.) 1853-1866",Democrat and sentinel,"Ebensburg, Pa.",Ebensburg,Pennsylvania,title,lincoln1865,40.4864,-78.7256,Ebensburg,wikidata:Q1130214,3404.0,Northeast
+sn86071985,"Virginia gazette. [volume] (Williamsburg, Va.) 1893-192?",Virginia gazette,"Williamsburg, Va.",Williamsburg,Virginia,title,titanic1912,37.2708,-76.7069,Williamsburg,wikidata:Q492346,15425.0,South
+sn86072143,"Burlington weekly free press. [volume] (Burlington, Vt.) 1866-1928",Burlington weekly free press,"Burlington, Vt.",Burlington,Vermont,title,custer1876 titanic1912,44.476111,-73.213055,Burlington,wikidata:Q31058,44743.0,Northeast
+sn86074033,"The sea coast echo. [volume] (Bay Saint Louis, Miss.) 1892-current",The sea coast echo,"Bay Saint Louis, Miss.",Bay Saint Louis,Mississippi,title,titanic1912,30.314722,-89.344167,Bay St. Louis,wikidata:Q1778775,9284.0,South
+sn86075089,"The Whitefish pilot. [volume] (Whitefish, Mont.) 1904-current",The Whitefish pilot,"Whitefish, Mont.",Whitefish,Montana,title,titanic1912,48.4117,-114.34,Whitefish,wikidata:Q26446,7751.0,West
+sn86075094,"The roundup record. [volume] (Roundup, Mont.) 1908-1929",The roundup record,"Roundup, Mont.",Roundup,Montana,title,titanic1912,46.44524,-108.5418,Roundup,geonames:5674878,1836.0,West
+sn86075103,"Montana oil and mining journal. [volume] (Great Falls, Mont.) 1931-1953",Montana oil and mining journal,"Great Falls, Mont.",Great Falls,Montana,title,pearl1941,47.503611,-111.286389,Great Falls,wikidata:Q466190,60442.0,West
+sn86075153,Yellowstone monitor.,Yellowstone monitor,,,Montana,none,titanic1912,,,,,,West
+sn86075189,"The people&#39;s voice. [volume] (Helena, Mont.) 1939-1969",The people&#39;s voice,"Helena, Mont.",Helena,Montana,title,pearl1941,46.59271,-112.03611,Helena,geonames:5656882,32091.0,West
+sn86075229,"The Hardin tribune-herald. [volume] (Hardin, Mont.) 1925-1973",The Hardin tribune-herald,"Hardin, Mont.",Hardin,Montana,title,pearl1941,45.7319,-107.613,Hardin,wikidata:Q964591,3818.0,West
+sn86075298,"The Ronan pioneer. [volume] (Ronan, Mont.) 1910-1970",The Ronan pioneer,"Ronan, Mont.",Ronan,Montana,title,titanic1912,47.52882,-114.1015,Ronan,geonames:5674601,1981.0,West
+sn86076141,"Las Vegas age. [volume] (Las Vegas, Nev.) 1905-1947",Las Vegas age,"Las Vegas, Nev.",Las Vegas,Nevada,title,titanic1912,36.167222,-115.148611,Las Vegas,wikidata:Q23768,641903.0,West
+sn86076142,"Tonopah daily bonanza. [volume] (Tonopah, Nev.) 1906-1929",Tonopah daily bonanza,"Tonopah, Nev.",Tonopah,Nevada,title,titanic1912,38.06716,-117.23008,Tonopah,geonames:5513795,2478.0,West
+sn86076199,"Carson daily appeal. [volume] (Carson City, Nev.) 1873-1877",Carson daily appeal,"Carson City, Nev.",Carson City,Nevada,title,custer1876,39.1638,-119.7674,Carson City,geonames:5501344,58639.0,West
+sn86076201,"The Eureka sentinel. [volume] (Eureka, Nev.) 1902-current",The Eureka sentinel,"Eureka, Nev.",Eureka,Nevada,title,titanic1912,39.51271,-115.96061,Eureka,geonames:5503804,610.0,West
+sn86076216,"Yerington times. [volume] (Yerington, Nev.) 1907-1932",Yerington times,"Yerington, Nev.",Yerington,Nevada,title,titanic1912,38.985278,-119.165278,Yerington,wikidata:Q985297,3121.0,West
+sn86076241,"Carson City daily appeal. [volume] (Carson City, Nev.) 1907-1930",Carson City daily appeal,"Carson City, Nev.",Carson City,Nevada,title,titanic1912,39.1638,-119.7674,Carson City,geonames:5501344,58639.0,West
+sn86076247,"The silver state. [volume] (Winnemucca, Nev.) 1909-1925",The silver state,"Winnemucca, Nev.",Winnemucca,Nevada,title,titanic1912,40.968333,-117.726667,Winnemucca,wikidata:Q983426,8431.0,West
+sn86076306,"The Churchill county standard. (Fallon, Nev.) 1908-1920",The Churchill county standard,"Fallon, Nev.",Fallon,Nevada,title,titanic1912,39.4728,-118.779,Fallon,wikidata:Q985524,9327.0,West
+sn86076354,"White Pine news weekly mining review. [volume] (East Ely, Nev.) 1910-1920",White Pine news weekly mining review,"East Ely, Nev.",East Ely,Nevada,title,titanic1912,39.24744,-114.88863,Ely,geonames:5503694,4134.0,West
+sn86076366,"Weekly independent. [volume] (Elko, Nev.) 1887-1914",Weekly independent,"Elko, Nev.",Elko,Nevada,title,titanic1912,40.832472,-115.763167,Elko,wikidata:Q945084,20564.0,West
+sn86076422,The weekly union record.,The weekly union record,,,California,none,lincoln1865,,,,,,West
+sn86079068,"The Lafayette advertiser. [volume] (Vermilionville [i.e. Lafayette], La.) 1865-19??",The Lafayette advertiser,"Vermilionville [i.e. Lafayette], La.",Lafayette,Louisiana,title,titanic1912,30.243062,-92.012649,Lafayette,wikidata:Q128891,121374.0,South
+sn86079077,The Opelousas journal.,The Opelousas journal,,Opelousas,Louisiana,name,custer1876,30.53353,-92.08151,Opelousas,geonames:4336153,16591.0,South
+sn86079080,Le Meschace\u00cc\u0081be\u00cc\u0081. [volume] ([Lucy] La.) 1853-1942,Le Meschace\u00cc\u0081be\u00cc\u0081,[Lucy] La.,Lucy,Louisiana,title,custer1876 titanic1912,30.046667,-90.5075,Lucy,wikidata:Q98400027,0.0,South
+sn86079083,"The Louisiana cotton-boll. [volume] (Vermilionville [i.e. Lafayette], Attakapas, La.) 1872-1883",The Louisiana cotton-boll,"Vermilionville [i.e. Lafayette], Attakapas, La.",Lafayette,Louisiana,title,custer1876,30.243062,-92.012649,Lafayette,wikidata:Q128891,121374.0,South
+sn86079088,"Richland beacon. [volume] (Rayville, La.) 1869-1890",Richland beacon,"Rayville, La.",Rayville,Louisiana,title,custer1876,32.47736,-91.75485,Rayville,geonames:4338415,3664.0,South
+sn86081096,"The Potter journal. [volume] (Coudersport, Pa.) 1857-1872",The Potter journal,"Coudersport, Pa.",Coudersport,Pennsylvania,title,lincoln1865,41.77479,-78.02056,Coudersport,geonames:5185531,2482.0,Northeast
+sn86081854,"Republican news item. [volume] (Laport, Pa.) 1896-19??",Republican news item,"Laport, Pa.",Laport,Pennsylvania,title,titanic1912,41.423333,-76.490833,Laporte,wikidata:Q1184898,314.0,Northeast
+sn86081889,"The Fulton County news. [volume] (McConnellsburg, Pa.) 1899-current",The Fulton County news,"McConnellsburg, Pa.",McConnellsburg,Pennsylvania,title,titanic1912,39.9325,-77.99583,McConnellsburg,wikidata:Q592424,1151.0,Northeast
+sn86081912,"North Branch democrat. [volume] (Tunkhannock, Pa.) 1854-1867",North Branch democrat,"Tunkhannock, Pa.",Tunkhannock,Pennsylvania,title,lincoln1865,41.53869,-75.94659,Tunkhannock,geonames:5216260,1780.0,Northeast
+sn86086068,"Baraboo weekly news. [volume] (Baraboo, Wis.) 1912-197?",Baraboo weekly news,"Baraboo, Wis.",Baraboo,Wisconsin,title,titanic1912,43.468056,-89.741667,Baraboo,wikidata:Q1023544,12556.0,Midwest
+sn86086186,"Nord stern. [volume] (La Crosse, Wis.) 1856-1921",Nord stern,"La Crosse, Wis.",La Crosse,Wisconsin,title,titanic1912,43.813333,-91.233056,La Crosse,wikidata:Q936780,52680.0,Midwest
+sn86086284,The morning star and Catholic messenger. [volume] (New Orleans [La.]) 1868-1881,The morning star and Catholic messenger,New Orleans [La.],New Orleans,Louisiana,title,custer1876,29.976111,-90.078333,New Orleans,wikidata:Q34404,383997.0,South
+sn86086499,"Wauwatosa news. [volume] (Wauwatosa, Wis.) 1900-1948",Wauwatosa news,"Wauwatosa, Wis.",Wauwatosa,Wisconsin,title,titanic1912,43.058889,-88.026111,Wauwatosa,wikidata:Q1006865,48387.0,Midwest
+sn86086559,"Danskeren. [volume] (Neenah, Wis.) 1892-1920",Danskeren,"Neenah, Wis.",Neenah,Wisconsin,title,titanic1912,44.174167,-88.468611,Neenah,wikidata:Q1570604,27319.0,Midwest
+sn86086586,"The Wisconsin tobacco reporter. (Edgerton, Wis.) 1877-1950",The Wisconsin tobacco reporter,"Edgerton, Wis.",Edgerton,Wisconsin,title,titanic1912,42.83528,-89.06761,Edgerton,geonames:5251524,5532.0,Midwest
+sn86086633,"The Calumet news. [volume] (Calumet, Mich.) 1907-1938",The Calumet news,"Calumet, Mich.",Calumet,Michigan,title,titanic1912,47.24659,-88.45401,Calumet,geonames:4987684,703.0,Midwest
+sn86086769,"Mineral Point weekly tribune. (Mineral Point, Wis.) 1859-1868",Mineral Point weekly tribune,"Mineral Point, Wis.",Mineral Point,Wisconsin,title,lincoln1865,42.86,-90.17985,Mineral Point,geonames:5263113,2494.0,Midwest
+sn86086770,"Mineral Point tribune. (Mineral Point, Wis.) 1869-1938",Mineral Point tribune,"Mineral Point, Wis.",Mineral Point,Wisconsin,title,custer1876 titanic1912,42.86,-90.17985,Mineral Point,geonames:5263113,2494.0,Midwest
+sn86086852,"Iowa County democrat. [volume] (Mineral Point, Wis.) 1877-1938",Iowa County democrat,"Mineral Point, Wis.",Mineral Point,Wisconsin,title,titanic1912,42.86,-90.17985,Mineral Point,geonames:5263113,2494.0,Midwest
+sn86088055,"The Lubbock avalanche. (Lubbock, Tex.) 1909-1922",The Lubbock avalanche,"Lubbock, Tex.",Lubbock,Texas,title,titanic1912,33.585,-101.845,Lubbock,wikidata:Q49273,257141.0,South
+sn86088651,"Bryan daily eagle and pilot. [volume] (Bryan, Tex.) 1909-1918",Bryan daily eagle and pilot,"Bryan, Tex.",Bryan,Texas,title,titanic1912,30.6656,-96.3667,Bryan,wikidata:Q695556,83980.0,South
+sn86089978,"Jefferson jimplecute. (Jefferson, Tex.) 1907-1926",Jefferson jimplecute,"Jefferson, Tex.",Jefferson,Texas,title,titanic1912,32.75736,-94.34519,Jefferson,geonames:4700817,2048.0,South
+sn86090230,"The log cabin Democrat. [volume] (Conway, Ark.) 1901-1982",The log cabin Democrat,"Conway, Ark.",Conway,Arkansas,title,titanic1912,35.0887,-92.4421,Conway,geonames:4106458,64980.0,South
+sn86090233,"The Port Gibson reveille. [volume] (Port Gibson, Miss.) 1890-current",The Port Gibson reveille,"Port Gibson, Miss.",Port Gibson,Mississippi,title,titanic1912,31.96099,-90.98399,Port Gibson,geonames:4442187,1436.0,South
+sn86090369,"The Waxahachie daily light. [volume] (Waxahachie, Tex.) 1894-current",The Waxahachie daily light,"Waxahachie, Tex.",Waxahachie,Texas,title,titanic1912,32.399722,-96.847222,Waxahachie,wikidata:Q645475,41140.0,South
+sn86090528,"The Chickasha daily express. (Chickasha, Indian Territory [Okla.]) 1899-current",The Chickasha daily express,"Chickasha, Indian Territory [Okla.]",Chickasha,Oklahoma,title,titanic1912,35.05257,-97.93643,Chickasha,geonames:4533029,16488.0,South
+sn86090947,"Atlanta semi-weekly journal. (Atlanta, Ga.) 1898-1920",Atlanta semi-weekly journal,"Atlanta, Ga.",Atlanta,Georgia,title,titanic1912,33.749,-84.38798,Atlanta,geonames:4180439,510823.0,South
+sn86091062,"Elmore County Republican. [volume] (Mountain Home, Idaho) 1910-1915",Elmore County Republican,"Mountain Home, Idaho",Mountain Home,Idaho,title,titanic1912,43.136944,-115.694444,Mountain Home,wikidata:Q1519589,15979.0,West
+sn86091084,"Bonners Ferry herald. [volume] (Bonners Ferry, Idaho) 1904-current",Bonners Ferry herald,"Bonners Ferry, Idaho",Bonners Ferry,Idaho,title,titanic1912,48.69133,-116.31631,Bonners Ferry,geonames:5586496,2549.0,West
+sn86091092,"The Caldwell tribune. [volume] (Caldwell, Idaho Territory [Idaho]) 1883-1928",The Caldwell tribune,"Caldwell, Idaho Territory [Idaho]",Caldwell,Idaho,title,titanic1912,43.658333,-116.680278,Caldwell,wikidata:Q849592,59996.0,West
+sn86091096,"The Kendrick gazette. [volume] (Kendrick, Idaho) 1892-1968",The Kendrick gazette,"Kendrick, Idaho",Kendrick,Idaho,title,titanic1912,46.6144,-116.65,Kendrick,wikidata:Q1509997,288.0,West
+sn86091099,"The Grangeville globe. [volume] (Grangeville, Idaho) 1907-1922",The Grangeville globe,"Grangeville, Idaho",Grangeville,Idaho,title,titanic1912,45.926389,-116.121389,Grangeville,wikidata:Q1516646,3308.0,West
+sn86091100,"Idaho County free press. [volume] (Grangeville, Idaho Territory) 1886-current",Idaho County free press,"Grangeville, Idaho Territory",Grangeville,Idaho,title,titanic1912,45.926389,-116.121389,Grangeville,wikidata:Q1516646,3308.0,West
+sn86091111,"Montpelier examiner. [volume] (Montpelier, Idaho) 1895-1937",Montpelier examiner,"Montpelier, Idaho",Montpelier,Idaho,title,titanic1912,42.3203,-111.304,Montpelier,wikidata:Q984372,2643.0,West
+sn86091128,"Clearwater Republican. [volume] (Orofino, Idaho) 1912-1922",Clearwater Republican,"Orofino, Idaho",Orofino,Idaho,title,titanic1912,46.47935,-116.25514,Orofino,geonames:5602909,3054.0,West
+sn86091130,"The Oakley herald. [volume] (Oakley, Idaho) 1908-1961",The Oakley herald,"Oakley, Idaho",Oakley,Idaho,title,titanic1912,42.24325,-113.88196,Oakley,geonames:5602729,790.0,West
+sn86091145,"The Emmett index. [volume] (Emmett, Idaho) 1893-1925",The Emmett index,"Emmett, Idaho",Emmett,Idaho,title,titanic1912,43.8728,-116.495,Emmett,wikidata:Q988735,7647.0,West
+sn86091195,"The Blackfoot optimist. [volume] (Blackfoot, Idaho) 1907-1918",The Blackfoot optimist,"Blackfoot, Idaho",Blackfoot,Idaho,title,titanic1912,43.19,-112.346111,Blackfoot,wikidata:Q1444005,12346.0,West
+sn86091197,"The Idaho Republican. [volume] (Blackfoot, Idaho) 1904-1932",The Idaho Republican,"Blackfoot, Idaho",Blackfoot,Idaho,title,titanic1912,43.19,-112.346111,Blackfoot,wikidata:Q1444005,12346.0,West
+sn86091319,"Walker Lake bulletin. (Hawthorne, Nev.) 1883-1926",Walker Lake bulletin,"Hawthorne, Nev.",Hawthorne,Nevada,title,titanic1912,38.52464,-118.62458,Hawthorne,geonames:5505321,3269.0,West
+sn86091341,"The weekly Elko independent. [volume] (Elko, Nev.) 1872-1887",The weekly Elko independent,"Elko, Nev.",Elko,Nevada,title,custer1876,40.832472,-115.763167,Elko,wikidata:Q945084,20564.0,West
+sn86091349,"The Pioche record. [volume] (Pioche, Nev.) 1908-1925",The Pioche record,"Pioche, Nev.",Pioche,Nevada,title,titanic1912,37.92969,-114.45221,Pioche,geonames:5510323,1002.0,West
+sn86092086,"The Progressive West Virginian. [volume] (Williamson, W. Va.) 1911-1913",The Progressive West Virginian,"Williamson, W. Va.",Williamson,West Virginia,title,titanic1912,37.673889,-82.279722,Williamson,wikidata:Q2405120,3083.0,South
+sn86092310,"La sentinella del West Virginia. [volume] (Thomas, W. Va.) 1905-1913",La sentinella del West Virginia,"Thomas, W. Va.",Thomas,West Virginia,title,titanic1912,39.148056,-79.497222,Thomas,wikidata:Q1968556,611.0,South
+sn86092333,"Belington progressive. [volume] (Belington, W. Va.) 1912-1927",Belington progressive,"Belington, W. Va.",Belington,West Virginia,title,titanic1912,39.0251,-79.93563,Belington,geonames:4798532,1933.0,South
+sn86092530,"Wheeling majority. [volume] (Wheeling, W. Va.) 1907-192?",Wheeling majority,"Wheeling, W. Va.",Wheeling,West Virginia,title,titanic1912,40.06396,-80.72091,Wheeling,geonames:5280854,27648.0,South
+sn86092536,"The Wheeling intelligencer. [volume] (Wheeling, W. Va.) 1903-1961",The Wheeling intelligencer,"Wheeling, W. Va.",Wheeling,West Virginia,title,titanic1912,40.06396,-80.72091,Wheeling,geonames:5280854,27648.0,South
+sn86092557,"The Fairmont West Virginian. (Fairmont, W. Va.) 1904-1914",The Fairmont West Virginian,"Fairmont, W. Va.",Fairmont,West Virginia,title,titanic1912,39.48508,-80.14258,Fairmont,geonames:4805404,18733.0,South
+sn87007277,The Southern herald.,The Southern herald,,,Mississippi,none,titanic1912,,,,,,South
+sn87008085,"The Newport miner. [volume] (Newport, Wash.) 1899-current",The Newport miner,"Newport, Wash.",Newport,Washington,title,titanic1912,47.57121,-122.18068,Newport,geonames:5804693,2218.0,West
+sn87052128,The state journal.,The state journal,,,Missouri,none,custer1876,,,,,,Midwest
+sn87052143,"Lexington weekly intelligencer. (Lexington, Mo.) 1871-1887",Lexington weekly intelligencer,"Lexington, Mo.",Lexington,Missouri,title,custer1876,39.1831,-93.875,Lexington,wikidata:Q966449,4652.0,Midwest
+sn87052181,Fair play.,Fair play,,Ste. Genevieve,Missouri,catalogue,custer1876 titanic1912,37.9814,-90.0418,Ste. Genevieve,wikidata:Q963578,,Midwest
+sn87056245,"The weekly Republican. (Plymouth, Ind.) 1911-1922",The weekly Republican,"Plymouth, Ind.",Plymouth,Indiana,title,titanic1912,41.3439,-86.3125,Plymouth,wikidata:Q988952,10214.0,Midwest
+sn87056248,"The Plymouth weekly Democrat. (Plymouth, Ind.) 1860-1869",The Plymouth weekly Democrat,"Plymouth, Ind.",Plymouth,Indiana,title,lincoln1865,41.3439,-86.3125,Plymouth,wikidata:Q988952,10214.0,Midwest
+sn87056600,The Indiana State sentinel. [volume] (Indianapolis) 1868-1895,The Indiana State sentinel,Indianapolis,Indianapolis,Indiana,title,custer1876,39.768611,-86.158056,Indianapolis,wikidata:Q6346,887642.0,Midwest
+sn87057096,"The Leon reporter. (Leon, Iowa) 1887-1930",The Leon reporter,"Leon, Iowa",Leon,Iowa,title,titanic1912,40.73972,-93.74772,Leon,geonames:4864492,1903.0,Midwest
+sn87057928,"Audubon Republican. [volume] (Audubon, Iowa) 1894-1925",Audubon Republican,"Audubon, Iowa",Audubon,Iowa,title,titanic1912,41.720278,-94.928333,Audubon,wikidata:Q1898100,2053.0,Midwest
+sn87057934,"Audubon County journal. (Exira, Iowa) 1884-1993",Audubon County journal,"Exira, Iowa",Exira,Iowa,title,titanic1912,41.59082,-94.87554,Exira,geonames:4855891,788.0,Midwest
+sn87058042,"New Oregon plaindealer. (New Oregon, Iowa) 1859-1866",New Oregon plaindealer,"New Oregon, Iowa",New Oregon,Iowa,title,lincoln1865,43.374445,-92.115,Cresco,wikidata:Q1914623,3888.0,Midwest
+sn87058145,"Der Demokrat. (Davenport, Iowa) 186?-1868",Der Demokrat,"Davenport, Iowa",Davenport,Iowa,title,lincoln1865,41.52364,-90.57764,Davenport,geonames:4853423,102582.0,Midwest
+sn87058235,"Decorah public opinion. (Decorah, Winneshiek County [Iowa]) 1895-1928",Decorah public opinion,"Decorah, Winneshiek County [Iowa]",Decorah,Iowa,title,titanic1912,43.30331,-91.78571,Decorah,geonames:4853608,7907.0,Midwest
+sn87058308,"The Oskaloosa herald. (Oskaloosa, Mahaska County, Iowa) 1885-1919",The Oskaloosa herald,"Oskaloosa, Mahaska County, Iowa",Oskaloosa,Iowa,title,titanic1912,41.29639,-92.64436,Oskaloosa,geonames:4870239,11607.0,Midwest
+sn87058318,"The Iowa transcript. (Toledo, Tama County, Iowa) 1858-1866",The Iowa transcript,"Toledo, Tama County, Iowa",Toledo,Iowa,title,lincoln1865,41.993333,-92.579167,Toledo,wikidata:Q1918024,2369.0,Midwest
+sn87060004,The bee.,The bee,,,Kentucky,none,titanic1912,,,,,,South
+sn87060032,"Mountain advocate. (Barbourville, Ky.) 1904-1935",Mountain advocate,"Barbourville, Ky.",Barbourville,Kentucky,title,titanic1912,36.861111,-83.879444,Barbourville,wikidata:Q807878,3222.0,South
+sn87060049,The record.,The record,,,Kentucky,none,titanic1912,,,,,,South
+sn87062011,The Nome daily nugget.,The Nome daily nugget,,Nome,Alaska,name,titanic1912,64.50111,-165.40639,Nome,geonames:5870133,3806.0,West
+sn87062055,The Coconino sun.,The Coconino sun,,,Arizona,none,titanic1912,,,,,,West
+sn87062224,Milford chronicle.,Milford chronicle,,Milford,Delaware,name,titanic1912 pearl1941,38.9125,-75.429167,Milford,wikidata:Q755600,11190.0,South
+sn87062268,"The Pensacola journal. (Pensacola, Fla.) 1898-1985",The Pensacola journal,"Pensacola, Fla.",Pensacola,Florida,title,titanic1912,30.421389,-87.217222,Pensacola,wikidata:Q486306,54312.0,South
+sn87065069,The Jones County news.,The Jones County news,,,Mississippi,none,titanic1912,,,,,,South
+sn87065167,"The Hattiesburg news. (Hattiesburg, Miss.) 1908-1917",The Hattiesburg news,"Hattiesburg, Miss.",Hattiesburg,Mississippi,title,titanic1912,31.3158,-89.3086,Hattiesburg,wikidata:Q384464,48730.0,South
+sn87065176,"Mississippi Democrat. (Hazlehurst, Miss.) 1875-1???",Mississippi Democrat,"Hazlehurst, Miss.",Hazlehurst,Mississippi,title,custer1876,31.86044,-90.39593,Hazlehurst,geonames:4429387,3924.0,South
+sn87065216,"The Iuka vidette. (Iuka, Miss.) 1894-1912",The Iuka vidette,"Iuka, Miss.",Iuka,Mississippi,title,titanic1912,34.810556,-88.195833,Iuka,wikidata:Q1012278,3139.0,South
+sn87065228,"The Durant news. (Durant, Miss.) 1882-1985",The Durant news,"Durant, Miss.",Durant,Mississippi,title,pearl1941,33.07513,-89.85453,Durant,geonames:4424956,2486.0,South
+sn87065327,"Greene County herald. (Leakesville, Miss.) 1898-current",Greene County herald,"Leakesville, Miss.",Leakesville,Mississippi,title,titanic1912,31.1539,-88.5558,Leakesville,wikidata:Q2085128,3775.0,South
+sn87065408,"The weekly echo. (Meridian, Miss.) 1931-1942",The weekly echo,"Meridian, Miss.",Meridian,Mississippi,title,pearl1941,32.36431,-88.70366,Meridian,geonames:4435764,39661.0,South
+sn87065462,"Okolona messenger. (Okolona, Miss.) 1900-current",Okolona messenger,"Okolona, Miss.",Okolona,Mississippi,title,titanic1912,34.00178,-88.75533,Okolona,geonames:4439566,2638.0,South
+sn87065469,"Oxford eagle. (Oxford, Lafayette Co., Miss.) 1876-current",Oxford eagle,"Oxford, Lafayette Co., Miss.",Oxford,Mississippi,title,titanic1912,34.366667,-89.518611,Oxford,wikidata:Q983822,25416.0,South
+sn87065528,The Chronicle-star combined with the Moss Point advertiser.,The Chronicle-star combined with the Moss Point advertiser,,Moss Point,Mississippi,name,pearl1941,30.41159,-88.53446,Moss Point,geonames:4436743,13654.0,South
+sn87065532,"The Pascagoula democrat-star. (Pascagoula, Miss.) 1878-1920",The Pascagoula democrat-star,"Pascagoula, Miss.",Pascagoula,Mississippi,title,titanic1912,30.36576,-88.55613,Pascagoula,geonames:4440397,22126.0,South
+sn87065609,"East Mississippi times. (Starkville, Miss.) 19??-1926",East Mississippi times,"Starkville, Miss.",Starkville,Mississippi,title,titanic1912,33.45049,-88.81961,Starkville,geonames:4447161,25366.0,South
+sn87065610,"The progressive farmer and southern farm gazette. (Starkville, Miss.) 1910-1920",The progressive farmer and southern farm gazette,"Starkville, Miss.",Starkville,Mississippi,title,titanic1912,33.45049,-88.81961,Starkville,geonames:4447161,25366.0,South
+sn87065612,"The Starkville news. (Starkville, Miss.) 1902-1960",The Starkville news,"Starkville, Miss.",Starkville,Mississippi,title,titanic1912,33.45049,-88.81961,Starkville,geonames:4447161,25366.0,South
+sn87065632,"The Tupelo journal. (Tupelo, Miss.) 1876-1924",The Tupelo journal,"Tupelo, Miss.",Tupelo,Mississippi,title,titanic1912,34.257611,-88.703389,Tupelo,wikidata:Q667727,37923.0,South
+sn87068079,Gloucester County Democrat.,Gloucester County Democrat,,,New Jersey,none,titanic1912,,,,,,Northeast
+sn87068192,"Bridgeton pioneer. (Bridgeton, N.J.) 1884-1919",Bridgeton pioneer,"Bridgeton, N.J.",Bridgeton,New Jersey,title,titanic1912,39.4275,-75.228,Bridgeton,wikidata:Q913887,27263.0,Northeast
+sn87075008,"Morgan County Democrat. (McConnelsville, Ohio) 1886-1943",Morgan County Democrat,"McConnelsville, Ohio",McConnelsville,Ohio,title,pearl1941,39.64868,-81.85319,McConnelsville,geonames:4517816,1789.0,Midwest
+sn87075163,"M&#39;arthur Democrat. (McArthur, Vinton County, Ohio) 1853-1865",M&#39;arthur Democrat,"McArthur, Vinton County, Ohio",McArthur,Ohio,title,lincoln1865,39.24694,-82.47944,McArthur,wikidata:Q1812530,1783.0,Midwest
+sn87076554,"The Bluffton news. [volume] (Bluffton, Ohio) 1875-current",The Bluffton news,"Bluffton, Ohio",Bluffton,Ohio,title,pearl1941,40.89533,-83.88883,Bluffton,geonames:5147766,4161.0,Midwest
+sn87076793,"The Tiffin weekly tribune. (Tiffin, Ohio) 1859-1868",The Tiffin weekly tribune,"Tiffin, Ohio",Tiffin,Ohio,title,lincoln1865,41.1169,-83.1789,Tiffin,wikidata:Q990934,17953.0,Midwest
+sn87076794,"The Tiffin tribune. (Tiffin, Ohio) 1868-1887",The Tiffin tribune,"Tiffin, Ohio",Tiffin,Ohio,title,custer1876,41.1169,-83.1789,Tiffin,wikidata:Q990934,17953.0,Midwest
+sn87076843,"Perrysburg journal. (Perrysburg, Wood Co., O. [Ohio]) 186?-1965",Perrysburg journal,"Perrysburg, Wood Co., O. [Ohio]",Perrysburg,Ohio,title,custer1876 titanic1912,41.550278,-83.63,Perrysburg,wikidata:Q998647,25041.0,Midwest
+sn87076863,"The Wyandot pioneer. (Upper Sandusky, Ohio) 1853-1868",The Wyandot pioneer,"Upper Sandusky, Ohio",Upper Sandusky,Ohio,title,lincoln1865,40.8275,-83.281389,Upper Sandusky,wikidata:Q1913338,6698.0,Midwest
+sn87078082,"The citizen. (Honesdale, Pa.) 1908-1914",The citizen,"Honesdale, Pa.",Honesdale,Pennsylvania,title,titanic1912,41.5742,-75.2558,Honesdale,wikidata:Q1184934,4458.0,Northeast
+sn87079926,"The Elk advocate. [volume] (Ridgway, Elk Co., Pa.) 186?-1868",The Elk advocate,"Ridgway, Elk Co., Pa.",Ridgway,Pennsylvania,title,lincoln1865,41.420339,-78.728639,Ridgway,wikidata:Q429313,4039.0,Northeast
+sn87082455,"Der Sonntagsbote. (Milwaukee, Wis.) 1906-1912",Der Sonntagsbote,"Milwaukee, Wis.",Milwaukee,Wisconsin,title,titanic1912,43.05,-87.95,Milwaukee,wikidata:Q37836,577222.0,Midwest
+sn87090131,"Tensas gazette. [volume] (St. Joseph, La.) 1886-current",Tensas gazette,"St. Joseph, La.",St. Joseph,Louisiana,title,titanic1912,31.91849,-91.23345,Saint Joseph,geonames:4339934,1176.0,South
+sn87091045,Sharp County record.,Sharp County record,,,Arkansas,none,titanic1912,,,,,,South
+sn87093029,"The Kennewick courier. [volume] (Kennewick, Wash.) 1905-1914",The Kennewick courier,"Kennewick, Wash.",Kennewick,Washington,title,titanic1912,46.203475,-119.15927,Kennewick,wikidata:Q844033,83921.0,West
+sn87093039,"The Leavenworth echo. [volume] (Leavenworth, Wash.) 1904-current",The Leavenworth echo,"Leavenworth, Wash.",Leavenworth,Washington,title,titanic1912,47.5964,-120.665,Leavenworth,wikidata:Q1025813,2263.0,West
+sn87093044,"The Kennewick courier-reporter. [volume] (Kennewick, Wash.) 1939-1949",The Kennewick courier-reporter,"Kennewick, Wash.",Kennewick,Washington,title,pearl1941,46.203475,-119.15927,Kennewick,wikidata:Q844033,83921.0,West
+sn87093109,"The Vancouver independent. (Vancouver, W.T. [Wash.]) 1875-1910",The Vancouver independent,"Vancouver, W.T. [Wash.]",Vancouver,Washington,title,custer1876,45.63873,-122.66149,Vancouver,geonames:5814616,196442.0,West
+sn87093220,"Aberdeen herald. [volume] (Aberdeen, Chehalis County, W.T.) 1886-1917",Aberdeen herald,"Aberdeen, Chehalis County, W.T.",Aberdeen,Washington,title,titanic1912,46.975361,-123.815722,Aberdeen,wikidata:Q233808,17013.0,West
+sn87093377,"The Northwest enterprise. [volume] (Seattle, Wash.) 1931-1952",The Northwest enterprise,"Seattle, Wash.",Seattle,Washington,title,pearl1941,47.60621,-122.33207,Seattle,geonames:5809844,780995.0,West
+sn87093407,"The Seattle star. [volume] (Seattle, Wash.) 1899-1947",The Seattle star,"Seattle, Wash.",Seattle,Washington,title,titanic1912,47.60621,-122.33207,Seattle,geonames:5809844,780995.0,West
+sn87096017,"The Oakes times. [volume] (Oakes, N.D.) 1906-current",The Oakes times,"Oakes, N.D.",Oakes,North Dakota,title,titanic1912,46.1375,-98.088889,Oakes,wikidata:Q2322847,1798.0,Midwest
+sn87096037,"The Hope pioneer. [volume] (Hope, N.D.) 1882-1964",The Hope pioneer,"Hope, N.D.",Hope,North Dakota,title,titanic1912,47.322778,-97.720833,Hope,wikidata:Q2121949,272.0,Midwest
+sn87096040,"Emmons County record. [volume] (Williamsport, D.T. [i.e. N.D.]) 1884-current",Emmons County record,"Williamsport, D.T. [i.e. N.D.]",Williamsport,North Dakota,none,titanic1912,,,,,,Midwest
+sn88051105,The Harrison times.,The Harrison times,,Harrison,Arkansas,name,titanic1912,36.22979,-93.10768,Harrison,geonames:4113956,13138.0,South
+sn88053005,Newark post.,Newark post,,Newark,Delaware,name,titanic1912,39.68372,-75.74966,Newark,geonames:4143861,33817.0,South
+sn88053076,"Business index. (Wilmington, Del.) 1876-18??",Business index,"Wilmington, Del.",Wilmington,Delaware,title,custer1876,39.74595,-75.54659,Wilmington,geonames:4145381,70898.0,South
+sn88056038,"The Owyhee nugget. ([Silver City], Idaho) 1905-1984",The Owyhee nugget,"[Silver City], Idaho",Silver City,Idaho,none,titanic1912,,,,,,West
+sn88056093,"The Rathdrum tribune. (Rathdrum, Idaho) 1903-1963",The Rathdrum tribune,"Rathdrum, Idaho",Rathdrum,Idaho,title,titanic1912,47.8083,-116.893,Rathdrum,wikidata:Q1516471,9211.0,West
+sn88056165,"Camas Prairie chronicle. [volume] (Cottonwood, Idaho) 1901-1917",Camas Prairie chronicle,"Cottonwood, Idaho",Cottonwood,Idaho,title,titanic1912,46.04849,-116.34959,Cottonwood,geonames:5589704,921.0,West
+sn88059319,"Twice-a-week plain dealer. (Cresco, Howard County, Iowa) 1895-1913",Twice-a-week plain dealer,"Cresco, Howard County, Iowa",Cresco,Iowa,title,titanic1912,43.374445,-92.115,Cresco,wikidata:Q1914623,3888.0,Midwest
+sn88061082,"Clarksville weekly chronicle. (Clarksville, Tenn.) 1873-1890",Clarksville weekly chronicle,"Clarksville, Tenn.",Clarksville,Tennessee,title,custer1876,36.52977,-87.35945,Clarksville,geonames:4613868,166722.0,South
+sn88061179,"The Big Stone Gap post. [volume] (Big Stone Gap, Wise County, Va.) 1892-1928",The Big Stone Gap post,"Big Stone Gap, Wise County, Va.",Big Stone Gap,Virginia,title,titanic1912,36.88176,-82.7471,Big Stone Gap,geonames:4747554,5614.0,South
+sn88063294,"Detroit evening times. (Detroit, Mich) 1921-1958",Detroit evening times,"Detroit, Mich",Detroit,Michigan,title,pearl1941,42.33143,-83.04575,Detroit,geonames:4990729,645705.0,Midwest
+sn88064020,"The herald. [volume] (New Orleans, La.) 1905-1953",The herald,"New Orleans, La.",New Orleans,Louisiana,title,titanic1912,29.976111,-90.078333,New Orleans,wikidata:Q34404,383997.0,South
+sn88064175,"The Colfax chronicle. (Colfax, Grant Parish, La.) 1876-1877",The Colfax chronicle,"Colfax, Grant Parish, La.",Colfax,Louisiana,title,custer1876,31.51906,-92.70682,Colfax,geonames:4320425,1524.0,South
+sn88064176,"The Colfax chronicle. [volume] (Colfax, Grant Parish, La.) 1877-1981",The Colfax chronicle,"Colfax, Grant Parish, La.",Colfax,Louisiana,title,titanic1912,31.51906,-92.70682,Colfax,geonames:4320425,1524.0,South
+sn88064181,"The Caldwell watchman. (Columbia, La.) 1885-1946",The Caldwell watchman,"Columbia, La.",Columbia,Louisiana,title,titanic1912,32.10516,-92.07791,Columbia,geonames:4320492,382.0,South
+sn88064250,"St. Landry clarion. (Opelousas, La.) 1890-1921",St. Landry clarion,"Opelousas, La.",Opelousas,Louisiana,title,titanic1912,30.53353,-92.08151,Opelousas,geonames:4336153,16591.0,South
+sn88064305,"The Era-leader. [volume] (Franklinton, La.) 1910-current",The Era-leader,"Franklinton, La.",Franklinton,Louisiana,title,titanic1912,30.84731,-90.15527,Franklinton,geonames:4325165,3782.0,South
+sn88064323,"The weekly Iberian. (New Iberia, La.) 1894-1946",The weekly Iberian,"New Iberia, La.",New Iberia,Louisiana,title,titanic1912,30.00354,-91.81873,New Iberia,geonames:4334971,30754.0,South
+sn88064328,"New Iberia enterprise and independent observer. (New Iberia, La.) 1902-1944",New Iberia enterprise and independent observer,"New Iberia, La.",New Iberia,Louisiana,title,titanic1912,30.00354,-91.81873,New Iberia,geonames:4334971,30754.0,South
+sn88064339,The true Democrat. [volume] (Bayou Sara [La.]) 1892-1928,The true Democrat,Bayou Sara [La.],Bayou Sara,Louisiana,title,titanic1912,30.7799,-91.3765,Saint Francisville,geonames:4339684,1765.0,South
+sn88064384,"The St. Mary banner. (Franklin, Parish of St. Mary, La.) 1889-1931",The St. Mary banner,"Franklin, Parish of St. Mary, La.",Franklin,Louisiana,title,titanic1912,29.79604,-91.5015,Franklin,geonames:4325150,7302.0,South
+sn88064402,"The Rice belt journal. (Welsh, Calcasieu Parish, La.) 1900-19??",The Rice belt journal,"Welsh, Calcasieu Parish, La.",Welsh,Louisiana,title,titanic1912,30.23604,-92.82265,Welsh,wikidata:Q2459054,3333.0,South
+sn88064454,The weekly messenger. [volume] (St. Martinsville [i.e. St. Martinville] La.) 1886-1948,The weekly messenger,St. Martinsville [i.e. St. Martinville] La.,St. Martinville,Louisiana,title,titanic1912,30.1252,-91.83345,Saint Martinville,geonames:4340196,6114.0,South
+sn88064469,"The Caucasian. (Shreveport, La.) 1900-192?",The Caucasian,"Shreveport, La.",Shreveport,Louisiana,title,titanic1912,32.508056,-93.762778,Shreveport,wikidata:Q80517,187593.0,South
+sn88064481,Semi-weekly news.,Semi-weekly news,,,Louisiana,none,lincoln1865,,,,,,South
+sn88064491,"The Thibodaux sentinel. (Thibodaux, La.) 1905-1912",The Thibodaux sentinel,"Thibodaux, La.",Thibodaux,Louisiana,title,titanic1912,29.7922,-90.82,Thibodaux,wikidata:Q1013317,15948.0,South
+sn88064492,"The weekly Thibodaux sentinel and journal of the 8th Senatorial District. [volume] (Thibodaux, Lna. [i.e. La.]) 1875-1898",The weekly Thibodaux sentinel and journal of the 8th Senatorial District,"Thibodaux, Lna. [i.e. La.]",Thibodaux,Louisiana,title,custer1876,29.7922,-90.82,Thibodaux,wikidata:Q1013317,15948.0,South
+sn88064554,"West Feliciana sentinel. (St. Francisville, La.) 1876-1877",West Feliciana sentinel,"St. Francisville, La.",St. Francisville,Louisiana,title,custer1876,30.7799,-91.3765,Saint Francisville,geonames:4339684,1765.0,South
+sn88064616,"The New Orleans Democrat. (New Orleans, La.) 1875-1876",The New Orleans Democrat,"New Orleans, La.",New Orleans,Louisiana,title,custer1876,29.976111,-90.078333,New Orleans,wikidata:Q34404,383997.0,South
+sn88065202,"The Republican. [volume] (Oakland, Md.) 1877-current",The Republican,"Oakland, Md.",Oakland,Maryland,title,titanic1912 pearl1941,39.40787,-79.40671,Oakland,geonames:4364231,1875.0,South
+sn88068010,"Chariton courier. (Keytesville, Chariton County, Mo.) 1878-current",Chariton courier,"Keytesville, Chariton County, Mo.",Keytesville,Missouri,title,titanic1912,39.43447,-92.93825,Keytesville,geonames:4393535,455.0,Midwest
+sn88074815,"The Ocala banner. (Ocala, Marion County, Fla.) 1883-194?",The Ocala banner,"Ocala, Marion County, Fla.",Ocala,Florida,title,titanic1912,29.1875,-82.141389,Ocala,wikidata:Q918195,63591.0,South
+sn88076013,The Dickinson press.,The Dickinson press,,Dickinson,North Dakota,name,titanic1912,46.87918,-102.78962,Dickinson,geonames:5688789,23765.0,Midwest
+sn88076086,"The Bottineau courant. (Bottineau, Bottineau County, N.D.) 1895-1929",The Bottineau courant,"Bottineau, Bottineau County, N.D.",Bottineau,North Dakota,title,titanic1912,48.82723,-100.4457,Bottineau,geonames:5688106,2343.0,Midwest
+sn88076095,"The Bowbells tribune. [volume] (Bowbells, Ward Co., N.D.) 1899-1969",The Bowbells tribune,"Bowbells, Ward Co., N.D.",Bowbells,North Dakota,title,titanic1912,48.80308,-102.246,Bowbells,geonames:5688119,377.0,Midwest
+sn88076270,"Williston graphic. (Williston, Williams County, N.D.) 1895-1919",Williston graphic,"Williston, Williams County, N.D.",Williston,North Dakota,title,titanic1912,48.156389,-103.628055,Williston,wikidata:Q1999172,29479.0,Midwest
+sn88076421,"The Ward County independent. [volume] (Minot, Ward County, N.D.) 1902-1965",The Ward County independent,"Minot, Ward County, N.D.",Minot,North Dakota,title,titanic1912,48.23251,-101.29627,Minot,geonames:5690532,49450.0,Midwest
+sn88076432,"Courier Democrat. (Langdon, N.D.) 1891-1920",Courier Democrat,"Langdon, N.D.",Langdon,North Dakota,title,titanic1912,48.761667,-98.371667,Langdon,wikidata:Q1779807,1909.0,Midwest
+sn88076516,"Devils Lake inter-ocean. (Devils Lake, N.D.) 1909-1915",Devils Lake inter-ocean,"Devils Lake, N.D.",Devils Lake,North Dakota,title,titanic1912,48.11278,-98.86512,Devils Lake,geonames:5058868,7351.0,Midwest
+sn88076523,"Devils Lake weekly world. (Devils Lake, N.D.) 1911-1914",Devils Lake weekly world,"Devils Lake, N.D.",Devils Lake,North Dakota,title,titanic1912,48.11278,-98.86512,Devils Lake,geonames:5058868,7351.0,Midwest
+sn88076741,"The pioneer express. [volume] (Pembina, Dakota [N.D.]) 1883-1928",The pioneer express,"Pembina, Dakota [N.D.]",Pembina,North Dakota,title,titanic1912,48.96638,-97.24368,Pembina,geonames:5060887,565.0,Midwest
+sn88077067,"The Celina Democrat. (Celina, O. [Ohio]) 1895-1921",The Celina Democrat,"Celina, O. [Ohio]",Celina,Ohio,title,titanic1912,40.551389,-84.57,Celina,wikidata:Q387861,10935.0,Midwest
+sn88077265,"The Democratic press. (Eaton, Preble County, Ohio) 1860-1865",The Democratic press,"Eaton, Preble County, Ohio",Eaton,Ohio,title,lincoln1865,39.7475,-84.6339,Eaton,wikidata:Q1000148,8375.0,Midwest
+sn88077272,"The Eaton Democrat. (Eaton, Ohio) 1875-1903",The Eaton Democrat,"Eaton, Ohio",Eaton,Ohio,title,custer1876,39.7475,-84.6339,Eaton,wikidata:Q1000148,8375.0,Midwest
+sn88077573,"The Marion daily mirror. (Marion, Ohio) 1892-1912",The Marion daily mirror,"Marion, Ohio",Marion,Ohio,title,titanic1912,40.58867,-83.12852,Marion,geonames:5161902,36363.0,Midwest
+sn88078388,"Amerikai Magyar hirlap = American Magyar journal. [volume] (Youngstown, Ohio) 1911-1942",Amerikai Magyar hirlap = American Magyar journal,"Youngstown, Ohio",Youngstown,Ohio,title,pearl1941,41.09978,-80.64952,Youngstown,geonames:5177568,64628.0,Midwest
+sn88078580,"Ashtabula telegraph. (Ashtabula, Ohio) 1874-1880",Ashtabula telegraph,"Ashtabula, Ohio",Ashtabula,Ohio,title,custer1876,41.86505,-80.78981,Ashtabula,geonames:5146089,18371.0,Midwest
+sn88078751,"The Democratic banner. (Mt. Vernon, Ohio) 1898-192?",The Democratic banner,"Mt. Vernon, Ohio",Mt. Vernon,Ohio,title,titanic1912,40.3928,-82.4811,Mount Vernon,wikidata:Q998575,16956.0,Midwest
+sn88078775,"Newark leader. ([Newark, Ohio]) 1917-1946",Newark leader,"[Newark, Ohio]",Newark,Ohio,title,pearl1941,40.063014,-82.416779,Newark,wikidata:Q986689,49934.0,Midwest
+sn88080711,"Der Lecha Caunty patriot. [volume] (Allentaun, Pa.) 1859-1872",Der Lecha Caunty patriot,"Allentaun, Pa.",Allentaun,Pennsylvania,title,lincoln1865,40.6,-75.483333,Allentown,wikidata:Q142811,125845.0,Northeast
+sn88084272,"El Paso herald. (El Paso, Tex.) 1901-1931",El Paso herald,"El Paso, Tex.",El Paso,Texas,title,titanic1912,31.75872,-106.48693,El Paso,geonames:5520993,678815.0,South
+sn88085012,"The Ellensburg dawn. [volume] (Ellensburg, Wash.) 1898-1914",The Ellensburg dawn,"Ellensburg, Wash.",Ellensburg,Washington,title,titanic1912,46.99651,-120.54785,Ellensburg,geonames:5793639,19001.0,West
+sn88085101,"The Oroville weekly gazette. [volume] (Oroville, Wash.) 1905-19??",The Oroville weekly gazette,"Oroville, Wash.",Oroville,Washington,title,titanic1912,48.938611,-119.435,Oroville,wikidata:Q1017586,1795.0,West
+sn88085187,"The Tacoma times. [volume] (Tacoma, Wash.) 1903-1949",The Tacoma times,"Tacoma, Wash.",Tacoma,Washington,title,titanic1912 pearl1941,47.25288,-122.44429,Tacoma,geonames:5812944,222906.0,West
+sn88085190,"The San Juan islander. [volume] (Friday Harbor, Wash.) 1898-1914",The San Juan islander,"Friday Harbor, Wash.",Friday Harbor,Washington,title,titanic1912,48.53427,-123.01712,Friday Harbor,wikidata:Q968711,2613.0,West
+sn88085318,"The Colville examiner. [volume] (Colville, Wash.) 1907-1948",The Colville examiner,"Colville, Wash.",Colville,Washington,title,titanic1912,48.545,-117.900833,Colville,wikidata:Q2601326,4917.0,West
+sn88085445,"The Lynden tribune. [volume] (Lynden, Wash.) 1908-current",The Lynden tribune,"Lynden, Wash.",Lynden,Washington,title,titanic1912,48.946667,-122.456945,Lynden,wikidata:Q1507840,15749.0,West
+sn88085488,"Pullman herald. [volume] (Pullman, W.T. [Wash.]) 1888-1989",Pullman herald,"Pullman, W.T. [Wash.]",Pullman,Washington,title,titanic1912,46.733333,-117.166667,Pullman,wikidata:Q983540,32901.0,West
+sn88085523,"The Yakima herald. [volume] (North Yakima, W.T. [Wash.]) 1889-1914",The Yakima herald,"North Yakima, W.T. [Wash.]",Yakima,Washington,name,titanic1912,46.601944,-120.507778,Yakima,wikidata:Q499203,96968.0,West
+sn88085620,"The labor journal. [volume] (Everett, Wash.) 1909-1976",The labor journal,"Everett, Wash.",Everett,Washington,title,titanic1912,47.963333,-122.200556,Everett,wikidata:Q392599,110629.0,West
+sn88086023,"East Oregonian : E.O. (Pendleton, OR) 1888-current",East Oregonian : E.O,"Pendleton, OR",Pendleton,Oregon,title,titanic1912,45.669722,-118.791389,Pendleton,wikidata:Q944507,17107.0,West
+sn88087183,"Elk City mining news. (Elk City, Idaho) 1903-1913",Elk City mining news,"Elk City, Idaho",Elk City,Idaho,title,titanic1912,45.826944,-115.436667,Elk City,wikidata:Q2007094,170.0,West
+sn89038091,"The Soldiers&#39; journal. (Rendezvous of Distribution, Va.) 1864-1865",The Soldiers&#39; journal,"Rendezvous of Distribution, Va.",Rendezvous of Distribution,Virginia,none,lincoln1865,,,,,,South
+sn89051084,The Newark journal.,The Newark journal,,Newark,Arkansas,name,titanic1912,35.7025,-91.444722,Newark,wikidata:Q80165,1180.0,South
+sn89051168,Pine Bluff daily graphic.,Pine Bluff daily graphic,,Pine Bluff,Arkansas,name,titanic1912,34.22843,-92.0032,Pine Bluff,geonames:4126226,44772.0,South
+sn89051210,Pocahontas star herald.,Pocahontas star herald,,Pocahontas,Arkansas,name,titanic1912,36.2636,-90.9733,Pocahontas,wikidata:Q80054,7371.0,South
+sn89051213,"The Mena weekly star. (Mena, Ark.) 1904-1977",The Mena weekly star,"Mena, Ark.",Mena,Arkansas,title,titanic1912,34.58622,-94.23966,Mena,geonames:4121297,5653.0,South
+sn89051252,Washington telegraph.,Washington telegraph,,,Arkansas,none,titanic1912,,,,,,South
+sn89051285,The Sentinel=record.,The Sentinel=record,,,Arkansas,none,titanic1912,,,,,,South
+sn89051294,The Green Forest tribune.,The Green Forest tribune,,Green Forest,Arkansas,name,titanic1912,36.335,-93.432778,Green Forest,wikidata:Q79352,2972.0,South
+sn89051318,The Huttig news.,The Huttig news,,Huttig,Arkansas,name,titanic1912,33.03957,-92.18264,Huttig,geonames:4115759,564.0,South
+sn89052038,"The Keota news. (Keota, Weld County, Colo.) 1911-1922",The Keota news,"Keota, Weld County, Colo.",Keota,Colorado,none,titanic1912,,,,,,West
+sn89052040,The Raymer enterprise.,The Raymer enterprise,,,Colorado,none,titanic1912,,,,,,West
+sn89052133,The Springfield herald.,The Springfield herald,,Springfield,Colorado,name,titanic1912,37.40835,-102.61436,Springfield,geonames:5440032,1396.0,West
+sn89052197,The Julesburg grit-advocate.,The Julesburg grit-advocate,,,Nebraska,none,titanic1912,,,,,,Midwest
+sn89052328,Eastern Colorado times.,Eastern Colorado times,,,Colorado,none,titanic1912,,,,,,West
+sn89053204,"Americus times-recorder. [volume] (Americus, Ga.) 1891-current",Americus times-recorder,"Americus, Ga.",Americus,Georgia,title,titanic1912,32.067222,-84.234722,Americus,wikidata:Q123067,16230.0,South
+sn89053283,"The Dawson news. (Dawson, Ga.) 1889-current",The Dawson news,"Dawson, Ga.",Dawson,Georgia,title,titanic1912,31.7739,-84.4408,Dawson,wikidata:Q1028058,4414.0,South
+sn89053337,"The Lee County journal. (Leesburg, Ga.) 1904-19??",The Lee County journal,"Leesburg, Ga.",Leesburg,Georgia,title,titanic1912,31.732778,-84.170833,Leesburg,wikidata:Q964678,3480.0,South
+sn89053729,"Atlanta Georgian. [volume] (Atlanta, Ga.) 1912-1939",Atlanta Georgian,"Atlanta, Ga.",Atlanta,Georgia,title,titanic1912,33.749,-84.38798,Atlanta,geonames:4180439,510823.0,South
+sn89053964,"The Marietta journal and courier. (Marietta, Ga.) 1909-1918",The Marietta journal and courier,"Marietta, Ga.",Marietta,Georgia,title,titanic1912,33.953333,-84.540556,Marietta,wikidata:Q852684,60972.0,South
+sn89053987,"The central Presbyterian. [volume] (Richmond, Va.) 1856-1908",The central Presbyterian,"Richmond, Va.",Richmond,Virginia,title,custer1876,37.55376,-77.46026,Richmond,geonames:4781708,226610.0,South
+sn89055001,"The Parma herald. (Parma, Idaho) 1903-1917",The Parma herald,"Parma, Idaho",Parma,Idaho,title,titanic1912,43.7861,-116.943,Parma,wikidata:Q1522393,2096.0,West
+sn89055004,"The Meridian times. (Meridian, Idaho) 1909-1938",The Meridian times,"Meridian, Idaho",Meridian,Idaho,title,titanic1912,43.614167,-116.398889,Meridian,wikidata:Q1085274,117635.0,West
+sn89055082,"The Nezperce herald. (Nezperce, Idaho) 1900-1957",The Nezperce herald,"Nezperce, Idaho",Nezperce,Idaho,title,titanic1912,46.23489,-116.2407,Nezperce,geonames:5602128,468.0,West
+sn89055128,"The daily star-mirror. (Moscow, Idaho) 1911-1939",The daily star-mirror,"Moscow, Idaho",Moscow,Idaho,title,titanic1912,46.731667,-116.997222,Moscow,wikidata:Q499927,25435.0,West
+sn89055184,"Lincoln County times. (Jerome, Idaho) 1911-1919",Lincoln County times,"Jerome, Idaho",Jerome,Idaho,title,titanic1912,42.7247,-114.518,Jerome,wikidata:Q1518127,12349.0,West
+sn89055199,"Payette enterprise. (Payette, Canyon Co., Idaho) 1909-1935",Payette enterprise,"Payette, Canyon Co., Idaho",Payette,Idaho,title,titanic1912,44.0753,-116.93,Payette,wikidata:Q671371,8127.0,West
+sn89055248,"The Richfield recorder. (Richfield, Idaho) 1909-1931",The Richfield recorder,"Richfield, Idaho",Richfield,Idaho,title,titanic1912,43.0525,-114.153,Richfield,wikidata:Q935656,431.0,West
+sn89058013,"The Camden chronicle. (Camden, Tenn.) 1890-current",The Camden chronicle,"Camden, Tenn.",Camden,Tennessee,title,titanic1912,36.046344,-88.085944,Camden,wikidata:Q1208446,3674.0,South
+sn89058128,"The comet. (Johnson City, Tenn.) 1884-1916",The comet,"Johnson City, Tenn.",Johnson City,Tennessee,title,titanic1912,36.313444,-82.353472,Johnson City,wikidata:Q770571,71046.0,South
+sn89058133,"Putnam County herald. (Cookeville, Tenn.) 1903-1922",Putnam County herald,"Cookeville, Tenn.",Cookeville,Tennessee,title,titanic1912,36.164202,-85.504295,Cookeville,wikidata:Q2456192,34842.0,South
+sn89058216,"The Newport plain talk. (Newport, Tenn.) 1909-1939",The Newport plain talk,"Newport, Tenn.",Newport,Tennessee,title,titanic1912,35.963333,-83.196667,Newport,wikidata:Q1905340,6868.0,South
+sn89058250,"Sequachee Valley news. (Sequachee [Sequatchie], Tenn.) 1896-1952",Sequachee Valley news,"Sequachee [Sequatchie], Tenn.",Sequachee,Tennessee,title,titanic1912,35.1156,-85.5936,Sequatchie,wikidata:Q7452432,622.0,South
+sn89058321,"The commercial. (Union City, Tenn.) 190?-193?",The commercial,"Union City, Tenn.",Union City,Tennessee,title,titanic1912,36.424444,-89.050833,Union City,wikidata:Q948334,11170.0,South
+sn89060092,"The citizen. (Frederick City, Md.) 1895-1923",The citizen,"Frederick City, Md.",Frederick City,Maryland,title,titanic1912,39.426389,-77.420278,Frederick,wikidata:Q472675,78171.0,South
+sn89060120,St. Mary's gazette.,St. Mary's gazette,,,Maryland,none,lincoln1865,,,,,,South
+sn89060124,"The Prince George&#39;s enquirer and southern Maryland advertiser. (Upper Marlborough, Md.) 1882-1925",The Prince George&#39;s enquirer and southern Maryland advertiser,"Upper Marlborough, Md.",Upper Marlborough,Maryland,title,titanic1912,38.81595,-76.74969,Upper Marlboro,geonames:4372183,667.0,South
+sn89060127,"Worcester Democrat and the ledger-enterprise. (Pocomoke City, Md.) 1921-1953",Worcester Democrat and the ledger-enterprise,"Pocomoke City, Md.",Pocomoke City,Maryland,title,pearl1941,38.0689,-75.5617,Pocomoke City,wikidata:Q755569,4295.0,South
+sn89060136,"The midland journal. (Rising Sun, Md.) 1885-1947",The midland journal,"Rising Sun, Md.",Rising Sun,Maryland,title,titanic1912 pearl1941,39.69789,-76.06273,Rising Sun,geonames:4366852,2859.0,South
+sn89060186,The Hagerstown globe.,The Hagerstown globe,,Hagerstown,Maryland,name,pearl1941,39.642778,-77.72,Hagerstown,wikidata:Q755559,43527.0,South
+sn89060375,"The voice of labor. (Cumberland, Md.) 1938-1942",The voice of labor,"Cumberland, Md.",Cumberland,Maryland,title,pearl1941,39.65287,-78.76252,Cumberland,geonames:4352681,20130.0,South
+sn89061521,Greenbelt cooperator.,Greenbelt cooperator,,Greenbelt,Maryland,name,pearl1941,38.99467,-76.885399,Greenbelt,wikidata:Q755877,24921.0,South
+sn89064489,"The Sauk Centre herald. (Sauk Centre, Stearns County, Minn.) 1886-current",The Sauk Centre herald,"Sauk Centre, Stearns County, Minn.",Sauk Centre,Minnesota,title,titanic1912 pearl1941,45.736389,-94.954167,Sauk Centre,wikidata:Q996590,4555.0,Midwest
+sn89064515,"Little Falls herald. [volume] (Little Falls, Morrison County, Minn.) 1889-1950",Little Falls herald,"Little Falls, Morrison County, Minn.",Little Falls,Minnesota,title,titanic1912,45.976389,-94.3625,Little Falls,wikidata:Q1903165,9140.0,Midwest
+sn89064914,"Askov American. [volume] (Askov, Pine County, Minn.) 1914-current",Askov American,"Askov, Pine County, Minn.",Askov,Minnesota,title,pearl1941,46.186667,-92.7825,Askov,wikidata:Q1842834,331.0,Midwest
+sn89065008,"The commonwealth. (Greenwood, Miss.) 1896-1923",The commonwealth,"Greenwood, Miss.",Greenwood,Mississippi,title,titanic1912,33.51623,-90.17953,Greenwood,geonames:4428495,15431.0,South
+sn89066129,"The Laclede blade. (Laclede, Mo.) 1890-1945",The Laclede blade,"Laclede, Mo.",Laclede,Missouri,title,titanic1912,39.7875,-93.1697,Laclede,wikidata:Q965722,305.0,Midwest
+sn89066162,"The Howard union. (Glasgow, Mo.) 1865-1866",The Howard union,"Glasgow, Mo.",Glasgow,Missouri,title,lincoln1865,39.22725,-92.84658,Glasgow,geonames:4388009,1103.0,Midwest
+sn89066178,"The menace. [volume] (Aurora, Mo.) 1911-1920",The menace,"Aurora, Mo.",Aurora,Missouri,title,titanic1912,36.97089,-93.71798,Aurora,geonames:4375349,7477.0,Midwest
+sn89066240,"The Marshall republican. [volume] (Marshall, Saline County, Mo.) 1899-1914",The Marshall republican,"Marshall, Saline County, Mo.",Marshall,Missouri,title,titanic1912,39.116111,-93.197778,Marshall,wikidata:Q954882,13806.0,Midwest
+sn89066313,"University Missourian. [volume] (Columbia, Mo.) 1908-1916",University Missourian,"Columbia, Mo.",Columbia,Missouri,title,titanic1912,38.95171,-92.33407,Columbia,geonames:4381982,129330.0,Midwest
+sn89066489,"The Butler weekly times. (Butler, Mo.) 1881-1918",The Butler weekly times,"Butler, Mo.",Butler,Missouri,title,titanic1912,38.258611,-94.335,Butler,wikidata:Q955151,4220.0,Midwest
+sn89066619,The Cape County herald.,The Cape County herald,,,Missouri,none,titanic1912,,,,,,Midwest
+sn89066651,"The Hayti herald. (Hayti, Mo.) 1908-1922",The Hayti herald,"Hayti, Mo.",Hayti,Missouri,title,titanic1912,36.23368,-89.74953,Hayti,geonames:4389910,2787.0,Midwest
+sn89066695,"Marble Hill press. (Marbel [sic] Hill, Mo.) 1881-1923",Marble Hill press,"Marbel [sic] Hill, Mo.",Marble Hill,Missouri,name,titanic1912,37.30589,-89.97038,Marble Hill,geonames:4397065,1482.0,Midwest
+sn89066801,"Osage County Volksblatt. (Westphalia, Mo.) 1896-1917",Osage County Volksblatt,"Westphalia, Mo.",Westphalia,Missouri,title,titanic1912,38.4403,-91.9978,Westphalia,wikidata:Q962207,378.0,Midwest
+sn89066996,"The Farmington times. (Farmington, St. Francois County, Mo.) 1905-1926",The Farmington times,"Farmington, St. Francois County, Mo.",Farmington,Missouri,title,titanic1912,37.781944,-90.422222,Farmington,wikidata:Q968752,18217.0,Midwest
+sn89067083,"Ripley County democrat. (Doniphan, Mo.) 1905-1920",Ripley County democrat,"Doniphan, Mo.",Doniphan,Missouri,title,titanic1912,36.62089,-90.82346,Doniphan,geonames:4384264,1991.0,Midwest
+sn89067273,"Mexico Missouri message. (Mexico, Audrain County, Mo.) 1899-1918",Mexico Missouri message,"Mexico, Audrain County, Mo.",Mexico,Missouri,title,titanic1912,39.16976,-91.88295,Mexico,geonames:4398103,11660.0,Midwest
+sn89067274,"Mexico weekly ledger. (Mexico, Mo.) 1855-1956",Mexico weekly ledger,"Mexico, Mo.",Mexico,Missouri,title,titanic1912,39.16976,-91.88295,Mexico,geonames:4398103,11660.0,Midwest
+sn89067390,"The Taney County republican. (Forsyth, Mo.) 1895-1992",The Taney County republican,"Forsyth, Mo.",Forsyth,Missouri,title,titanic1912,36.6867,-93.1128,Forsyth,wikidata:Q957520,2730.0,Midwest
+sn89074935,Der Staats=Anzeiger.,Der Staats=Anzeiger,,,North Dakota,none,titanic1912,,,,,,Midwest
+sn89074986,"The Lemmon herald. (Lemmon, Perkins County, S.D.) 1912-1917",The Lemmon herald,"Lemmon, Perkins County, S.D.",Lemmon,South Dakota,title,titanic1912,45.94083,-102.15932,Lemmon,geonames:5766453,1232.0,Midwest
+sn89077510,The workingman&#39;s advocate. [volume] (Chicago [Ill.]) 1864-1877,The workingman&#39;s advocate,Chicago [Ill.],Chicago,Illinois,title,custer1876,41.85003,-87.65005,Chicago,geonames:4887398,2664452.0,Midwest
+sn89079026,"Coulee City dispatch. [volume] (Coulee City, Wash.) 19??-19??",Coulee City dispatch,"Coulee City, Wash.",Coulee City,Washington,title,pearl1941,47.61126,-119.29225,Coulee City,geonames:5791095,572.0,West
+sn89080007,"Metropolis weekly gazette. (Metropolis, Ill.) 1???-19??",Metropolis weekly gazette,"Metropolis, Ill.",Metropolis,Illinois,title,titanic1912,37.15117,-88.732,Metropolis,geonames:4244462,6334.0,Midwest
+sn89081022,"Willmar tribune. [volume] (Willmar, Minn.) 1895-1931",Willmar tribune,"Willmar, Minn.",Willmar,Minnesota,title,titanic1912,45.121944,-95.043333,Willmar,wikidata:Q1986492,21015.0,Midwest
+sn89081128,"New Ulm review. (New Ulm, Brown County, Minn.) 1892-1961",New Ulm review,"New Ulm, Brown County, Minn.",New Ulm,Minnesota,title,titanic1912,44.3125,-94.460555,New Ulm,wikidata:Q545119,14120.0,Midwest
+sn90050306,"The Nevada County picayune. (Prescott, Ark.) 190?-current",The Nevada County picayune,"Prescott, Ark.",Prescott,Arkansas,title,titanic1912,33.80261,-93.38101,Prescott,geonames:4127433,3133.0,South
+sn90050307,The Prescott daily news.,The Prescott daily news,,Prescott,Arkansas,name,titanic1912,33.80261,-93.38101,Prescott,geonames:4127433,3133.0,South
+sn90051006,The Idaho Springs siftings-news.,The Idaho Springs siftings-news,,Idaho Springs,Colorado,name,titanic1912,39.742456,-105.514391,Idaho Springs,wikidata:Q1010506,1782.0,West
+sn90051033,The Ordway new era.,The Ordway new era,,Ordway,Colorado,name,titanic1912,38.2197,-103.757,Ordway,wikidata:Q1915939,1066.0,West
+sn90051068,The Monte Vista journal.,The Monte Vista journal,,Monte Vista,Colorado,name,titanic1912,37.57917,-106.14808,Monte Vista,geonames:5431661,4294.0,West
+sn90051081,"The Meeker herald. [volume] (Meeker, Colo.) 1885-current",The Meeker herald,"Meeker, Colo.",Meeker,Colorado,title,titanic1912,40.03944,-107.91056,Meeker,wikidata:Q2002953,2374.0,West
+sn90051144,The Arvada enterprise.,The Arvada enterprise,,Arvada,Colorado,name,titanic1912,39.802764,-105.087484,Arvada,wikidata:Q590849,124402.0,West
+sn90051167,"The state herald. (Holyoke, Logan County, Colo.) 1887-1921",The state herald,"Holyoke, Logan County, Colo.",Holyoke,Colorado,title,titanic1912,40.5819,-102.301,Holyoke,wikidata:Q2273367,2346.0,West
+sn90051185,The Holly chieftain.,The Holly chieftain,,Holly,Colorado,name,titanic1912,38.0544,-102.125,Holly,wikidata:Q2072070,837.0,West
+sn90051265,"Rocky Ford enterprise. (Rocky Ford, Colo.) 1887-1950",Rocky Ford enterprise,"Rocky Ford, Colo.",Rocky Ford,Colorado,title,titanic1912,38.0511,-103.721,Rocky Ford,wikidata:Q2073339,3876.0,West
+sn90051267,La Junta tribune.,La Junta tribune,,La Junta,Colorado,name,titanic1912,37.9814,-103.548,La Junta,wikidata:Q1012444,7322.0,West
+sn90051300,The Elbert County tribune.,The Elbert County tribune,,,Colorado,none,titanic1912,,,,,,West
+sn90051333,The Canon City record with which is consolidated the Canon City cannon.,The Canon City record with which is consolidated the Canon City cannon,,Cañon City,Colorado,name,titanic1912,38.4467,-105.228,Cañon City,wikidata:Q1003240,17141.0,West
+sn90051548,Gilpin observer.,Gilpin observer,,,Colorado,none,titanic1912,,,,,,West
+sn90052005,"The Richmond Virginian. (Richmond, Va.) 1910-1920",The Richmond Virginian,"Richmond, Va.",Richmond,Virginia,title,titanic1912,37.55376,-77.46026,Richmond,geonames:4781708,226610.0,South
+sn90052143,"The Brunswick news. [volume] (Brunswick, Ga.) 1906-2016",The Brunswick news,"Brunswick, Ga.",Brunswick,Georgia,title,titanic1912,31.15013,-81.49147,Brunswick,geonames:4184845,16157.0,South
+sn90059180,"The Virginia enterprise. [volume] (Virginia, St. Louis County, Minn.) 1893-19??",The Virginia enterprise,"Virginia, St. Louis County, Minn.",Virginia,Minnesota,title,titanic1912,47.52326,-92.53657,Virginia,geonames:5051468,8587.0,Midwest
+sn90059182,"The Ely miner. [volume] (Ely, Minn.) 1895-1986",The Ely miner,"Ely, Minn.",Ely,Minnesota,title,titanic1912 pearl1941,47.90324,-91.86709,Ely,geonames:5025627,3408.0,Midwest
+sn90059228,"Warren sheaf. [volume] (Warren, Marshall County, Minn.) 1880-current",Warren sheaf,"Warren, Marshall County, Minn.",Warren,Minnesota,title,titanic1912,48.196667,-96.772778,Warren,wikidata:Q1903308,1605.0,Midwest
+sn90059424,"Minnesotske\u00cc\u0081 noviny. [volume] (St. Paul, Minn.) 1904-19??",Minnesotske\u00cc\u0081 noviny,"St. Paul, Minn.",St. Paul,Minnesota,title,titanic1912,44.944167,-93.093611,Saint Paul,wikidata:Q28848,311527.0,Midwest
+sn90059649,"St. Paul tidende. [volume] (St. Paul, Minn.) 1902-1928",St. Paul tidende,"St. Paul, Minn.",St. Paul,Minnesota,title,titanic1912,44.944167,-93.093611,Saint Paul,wikidata:Q28848,311527.0,Midwest
+sn90059959,"The Irish standard. [volume] (Minneapolis, Minn. ;) 1886-1920",The Irish standard,"Minneapolis, Minn. ;",Minneapolis,Minnesota,title,titanic1912,44.981945,-93.269167,Minneapolis,wikidata:Q36091,429954.0,Midwest
+sn90060427,"The Twin City star. [volume] (Minneapolis, Minn.) 1910-19??",The Twin City star,"Minneapolis, Minn.",Minneapolis,Minnesota,title,titanic1912,44.981945,-93.269167,Minneapolis,wikidata:Q36091,429954.0,Midwest
+sn90060762,"The mirror. (Stillwater, Minn.) 1894-1925",The mirror,"Stillwater, Minn.",Stillwater,Minnesota,title,titanic1912,45.0565,-92.822175,Stillwater,wikidata:Q862658,19394.0,Midwest
+sn90060824,Wiarus.,Wiarus,,,Minnesota,none,titanic1912,,,,,,Midwest
+sn90060976,"The Catholic bulletin. [volume] (St. Paul, Minn.) 1911-1995",The Catholic bulletin,"St. Paul, Minn.",St. Paul,Minnesota,title,titanic1912,44.944167,-93.093611,Saint Paul,wikidata:Q28848,311527.0,Midwest
+sn90061052,"The Jasper news. [volume] (Jasper, Missouri) 1898-1924",The Jasper news,"Jasper, Missouri",Jasper,Missouri,title,titanic1912,37.33616,-94.30134,Jasper,geonames:4392351,928.0,Midwest
+sn90061309,"Monroe City Democrat. (Monroe City, Mo.) 1888-1919",Monroe City Democrat,"Monroe City, Mo.",Monroe City,Missouri,title,titanic1912,39.6536,-91.7322,Monroe City,wikidata:Q957330,2652.0,Midwest
+sn90061371,"Potosi journal. (Potosi, Mo.) 1894-1929",Potosi journal,"Potosi, Mo.",Potosi,Missouri,title,titanic1912,37.93644,-90.78791,Potosi,geonames:4404348,2640.0,Midwest
+sn90061417,"The Holt County sentinel. (Oregon, Mo.) 1883-1980",The Holt County sentinel,"Oregon, Mo.",Oregon,Missouri,title,titanic1912,39.9867,-95.1425,Oregon,wikidata:Q959544,837.0,Midwest
+sn90061783,"Morgan County republican. (Versailles, Mo.) 1906-1914",Morgan County republican,"Versailles, Mo.",Versailles,Missouri,title,titanic1912,38.431389,-92.844444,Versailles,wikidata:Q963265,2539.0,Midwest
+sn91050004,The Brinkley argus.,The Brinkley argus,,Brinkley,Arkansas,name,titanic1912,34.88787,-91.19457,Brinkley,geonames:4103042,2890.0,South
+sn91052064,The Glenwood post.,The Glenwood post,,,Colorado,none,titanic1912,,,,,,West
+sn91052295,United labor bulletin.,United labor bulletin,,,Colorado,none,titanic1912,,,,,,West
+sn91052311,Franklin's paper the statesman.,Franklin's paper the statesman,,,Colorado,none,titanic1912,,,,,,West
+sn91052314,Semi-weekly herald.,Semi-weekly herald,,,Colorado,none,titanic1912,,,,,,West
+sn91052444,The new era.,The new era,,,Colorado,none,titanic1912,,,,,,West
+sn91059394,"Morris tribune. [volume] (Morris, Minn.) 1880-2000",Morris tribune,"Morris, Minn.",Morris,Minnesota,title,titanic1912,45.58607,-95.91394,Morris,geonames:5038252,5352.0,Midwest
+sn91064011,"Newark evening star and Newark advertiser. [volume] (Newark, N.J.) 1909-1916",Newark evening star and Newark advertiser,"Newark, N.J.",Newark,New Jersey,title,titanic1912,40.73566,-74.17237,Newark,geonames:5101798,281944.0,Northeast
+sn91064030,"The Pleasantville press. (Pleasantville, N.J.) 1912-1929",The Pleasantville press,"Pleasantville, N.J.",Pleasantville,New Jersey,title,titanic1912,39.38984,-74.52404,Pleasantville,geonames:4503646,20755.0,Northeast
+sn91066782,"The Barre daily times. (Barre, Vt.) 1897-1959",The Barre daily times,"Barre, Vt.",Barre,Vermont,title,titanic1912,44.19701,-72.50205,Barre,geonames:5233500,8746.0,Northeast
+sn91068245,"The Caucasian. (Clinton, N.C.) 188?-1913",The Caucasian,"Clinton, N.C.",Clinton,North Carolina,title,titanic1912,34.99795,-78.32333,Clinton,geonames:4461101,8767.0,South
+sn91068401,Henderson daily dispatch.,Henderson daily dispatch,,Henderson,North Carolina,name,pearl1941,36.32959,-78.39916,Henderson,geonames:4470566,15271.0,South
+sn91068502,The fool-killer.,The fool-killer,,,North Carolina,none,titanic1912,,,,,,South
+sn91069201,"Ohio Waisenfreund. [volume] (Pomeroy, O. [Ohio]) 1874-1953",Ohio Waisenfreund,"Pomeroy, O. [Ohio]",Pomeroy,Ohio,title,pearl1941,39.02758,-82.03375,Pomeroy,geonames:4521708,1821.0,Midwest
+sn91070006,The Keesler field news.,The Keesler field news,,,Mississippi,none,pearl1941,,,,,,South
+sn91099739,"Boleti\u00cc\u0081n mercantil de Puerto Rico. (San Juan, P.R.) 18??-1918",Boleti\u00cc\u0081n mercantil de Puerto Rico,"San Juan, P.R.",San Juan,Puerto Rico,none,custer1876 titanic1912,,,,,,
+sn92051501,The Press.,The Press,,,Connecticut,none,titanic1912,,,,,,Northeast
+sn92053934,"Rock Island Argus. (Rock Island, Ill.) 1893-1920",Rock Island Argus,"Rock Island, Ill.",Rock Island,Illinois,title,titanic1912,41.50948,-90.57875,Rock Island,geonames:4907907,38620.0,Midwest
+sn92053942,"The daily Argus. (Rock Island, Ill.) 1873-1877",The daily Argus,"Rock Island, Ill.",Rock Island,Illinois,title,custer1876,41.50948,-90.57875,Rock Island,geonames:4907907,38620.0,Midwest
+sn92056106,"Ottumwa weekly courier. (Ottumwa, Wapello County, Iowa) 1872-1899",Ottumwa weekly courier,"Ottumwa, Wapello County, Iowa",Ottumwa,Iowa,title,custer1876,41.013056,-92.414722,Ottumwa,wikidata:Q853566,25529.0,Midwest
+sn92060454,The union times.,The union times,,,Connecticut,none,pearl1941,,,,,,Northeast
+sn92061524,"The Spanish American. [volume] (Roy, Mora Co., N.M.) 19??-19??",The Spanish American,"Roy, Mora Co., N.M.",Roy,New Mexico,none,titanic1912,,,,,,West
+sn92063852,"The Detroit tribune. (Detroit, Mich.) 1935-1966",The Detroit tribune,"Detroit, Mich.",Detroit,Michigan,title,pearl1941,42.33143,-83.04575,Detroit,geonames:4990729,645705.0,Midwest
+sn92064044,"The Olneyville times. (Olneyville [Providence, R.I.]) 1887-1917",The Olneyville times,"Olneyville [Providence, R.I.]",Olneyville,Rhode Island,title,titanic1912,41.82399,-71.41283,Providence,wikidata:Q18383,190934.0,Northeast
+sn92065487,"Journal and confederate. [volume] (Camden, S.C.) 1865-1865",Journal and confederate,"Camden, S.C.",Camden,South Carolina,title,lincoln1865,34.259167,-80.609167,Camden,wikidata:Q1144372,7788.0,South
+sn92070146,Imperial Valley press.,Imperial Valley press,,El Centro,California,catalogue,titanic1912 pearl1941,32.792,-115.5631,El Centro,wikidata:Q506345,,West
+sn92070405,"Western liberal. (Lordsburg, N.M.) 1887-1919",Western liberal,"Lordsburg, N.M.",Lordsburg,New Mexico,title,titanic1912,32.35036,-108.70866,Lordsburg,geonames:5476799,2531.0,West
+sn92070417,"Las Vegas optic. (East Las Vegas, N.M.) 1908-1921",Las Vegas optic,"East Las Vegas, N.M.",Las Vegas,New Mexico,name,titanic1912,35.59393,-105.2239,Las Vegas,geonames:5475433,13386.0,West
+sn92070566,The Alamogordo news.,The Alamogordo news,,Alamogordo,New Mexico,name,titanic1912,32.904639,-105.941833,Alamogordo,wikidata:Q467617,30898.0,West
+sn92070581,"Albuquerque evening herald. [volume] (Albuquerque, New Mexico) 1911-1914",Albuquerque evening herald,"Albuquerque, New Mexico",Albuquerque,New Mexico,title,titanic1912,35.084444,-106.650278,Albuquerque,wikidata:Q34804,564559.0,West
+sn92073203,"The Skyland post. [volume] (West Jefferson, N.C.) 193?-1988",The Skyland post,"West Jefferson, N.C.",West Jefferson,North Carolina,title,pearl1941,36.40374,-81.49288,West Jefferson,geonames:4498231,1308.0,South
+sn92073908,"The commonwealth. (Scotland Neck, N.C.) 1896-1929",The commonwealth,"Scotland Neck, N.C.",Scotland Neck,North Carolina,title,titanic1912,36.1296,-77.42025,Scotland Neck,geonames:4490606,1965.0,South
+sn93055779,The Cairo bulletin.,The Cairo bulletin,,Cairo,Illinois,name,titanic1912,37.013056,-89.180278,Cairo,wikidata:Q575306,1733.0,Midwest
+sn93057084,"Forest City press. (Forest City, Potter County, D.T. [S.D.]) 1883-19??",Forest City press,"Forest City, Potter County, D.T. [S.D.]",Forest City,South Dakota,title,titanic1912,45.002778,-100.300278,Forest City,wikidata:Q23709357,0.0,Midwest
+sn93060090,"World&#39;s cresset. [volume] (JAH-ville [Colony], Fowler, Mo.) 1891-19??",World&#39;s cresset,"JAH-ville [Colony], Fowler, Mo.",JAH-ville,Missouri,none,titanic1912,,,,,,Midwest
+sn93060116,"Hermanner Volksblatt. [volume] (Hermann, Mo.) 1875-1928",Hermanner Volksblatt,"Hermann, Mo.",Hermann,Missouri,title,custer1876 titanic1912,38.70421,-91.43738,Hermann,geonames:4390221,2376.0,Midwest
+sn93060356,"Auttaja. [volume] (Ironwood, Mich.) 1906-19??",Auttaja,"Ironwood, Mich.",Ironwood,Michigan,title,titanic1912 pearl1941,46.454722,-90.171111,Ironwood,wikidata:Q2002936,5045.0,Midwest
+sn93061371,"The Kenna record. (Kenna, Roosevelt County, N.M.) 190?-1924",The Kenna record,"Kenna, Roosevelt County, N.M.",Kenna,New Mexico,title,titanic1912,33.8422,-103.772,Kenna,wikidata:Q6389506,0.0,West
+sn93061711,"The Tucumcari news and Tucumcari times. [volume] (Tucumcari, N.M.) 1907-1921",The Tucumcari news and Tucumcari times,"Tucumcari, N.M.",Tucumcari,New Mexico,title,titanic1912,35.169444,-103.725555,Tucumcari,wikidata:Q986001,5278.0,West
+sn93061777,"The Clovis news. [volume] (Clovis, N.M.) 1907-1929",The Clovis news,"Clovis, N.M.",Clovis,New Mexico,title,titanic1912,34.4048,-103.20523,Clovis,geonames:5462393,39480.0,West
+sn93062828,The Omaha guide.,The Omaha guide,,Omaha,Nebraska,name,pearl1941,41.258611,-95.9375,Omaha,wikidata:Q43199,486051.0,Midwest
+sn93063557,"Middlebury register. (Middlebury, Vt.) 1886-1937",Middlebury register,"Middlebury, Vt.",Middlebury,Vermont,title,titanic1912,44.004267,-73.122368,Middlebury,wikidata:Q1012392,9152.0,Northeast
+sn93066071,"The Beaver herald. [volume] (Beaver, O.T. [Okla.]) 1895-1923",The Beaver herald,"Beaver, O.T. [Okla.]",Beaver,Oklahoma,title,titanic1912,36.81614,-100.51987,Beaver,geonames:5515591,1454.0,South
+sn93067671,"The Pickens sentinel. (Pickens, S.C.) 1911-2016",The Pickens sentinel,"Pickens, S.C.",Pickens,South Carolina,title,titanic1912,34.881667,-82.7075,Pickens,wikidata:Q1864258,3388.0,South
+sn93067760,"The Laurens advertiser. (Laurens, S.C.) 1885-1973",The Laurens advertiser,"Laurens, S.C.",Laurens,South Carolina,title,titanic1912,34.500833,-82.018333,Laurens,wikidata:Q2278204,9335.0,South
+sn93067846,"The watchman and southron. [volume] (Sumter, S.C.) 1881-1930",The watchman and southron,"Sumter, S.C.",Sumter,South Carolina,title,titanic1912,33.920556,-80.344722,Sumter,wikidata:Q1010203,43463.0,South
+sn93067853,"The Union times. [volume] (Union, S.C.) 1894-1918",The Union times,"Union, S.C.",Union,South Carolina,title,titanic1912,34.717222,-81.625,Union,wikidata:Q1810731,8174.0,South
+sn94050023,The Thlinget.,The Thlinget,,,Alaska,none,titanic1912,,,,,,West
+sn94050056,The Ketchikan miner.,The Ketchikan miner,,Ketchikan,Alaska,name,titanic1912,55.3418,-131.64757,Ketchikan,geonames:5554428,8197.0,West
+sn94050093,"The Wrangell sentinel. (Wrangell, Alaska) 1909-current",The Wrangell sentinel,"Wrangell, Alaska",Wrangell,Alaska,title,titanic1912 pearl1941,56.47083,-132.37667,Wrangell,geonames:5558586,2382.0,West
+sn94050542,The Coolidge examiner.,The Coolidge examiner,,Coolidge,Arizona,name,pearl1941,32.977222,-111.523056,Coolidge,wikidata:Q80067,13218.0,West
+sn94050892,The copper era and Morenci leader.,The copper era and Morenci leader,,Morenci,Arizona,name,titanic1912,33.051111,-109.324445,Morenci,wikidata:Q1249583,2028.0,West
+sn94051342,Holbrook argus.,Holbrook argus,,Holbrook,Arizona,name,titanic1912,34.90225,-110.15818,Holbrook,geonames:5284580,5019.0,West
+sn94056415,"The McCook tribune. (McCook, Neb.) 1886-1936",The McCook tribune,"McCook, Neb.",McCook,Nebraska,title,titanic1912,40.20195,-100.62571,McCook,geonames:5697383,7580.0,Midwest
+sn94056852,El independiente.,El independiente,,,New Mexico,none,titanic1912,,,,,,West
+sn94056869,El Nuevo mexicano.,El Nuevo mexicano,,,New Mexico,none,titanic1912,,,,,,West
+sn94057006,"Sierra County advocate. [volume] (Kingston, N.M.) 1884-1960",Sierra County advocate,"Kingston, N.M.",Kingston,New Mexico,title,titanic1912,32.9169,-107.706,Kingston,wikidata:Q6458816,50.0,West
+sn94057017,"Estancia news-herald. [volume] (Estancia, Torrance County, N.M.) 1912-19??",Estancia news-herald,"Estancia, Torrance County, N.M.",Estancia,New Mexico,title,titanic1912,34.75839,-106.05585,Estancia,geonames:5467102,1597.0,West
+sn95047179,The enterprise-recorder.,The enterprise-recorder,,,Florida,none,titanic1912,,,,,,South
+sn95047222,"The Lakeland evening telegram. (Lakeland, Fla.) 1911-1922",The Lakeland evening telegram,"Lakeland, Fla.",Lakeland,Florida,title,titanic1912,28.041111,-81.958889,Lakeland,wikidata:Q639452,112641.0,South
+sn95047263,"The Chipley banner. (Chipley, Washington County, Fla.) 1893-1943",The Chipley banner,"Chipley, Washington County, Fla.",Chipley,Florida,title,titanic1912,30.779167,-85.539167,Chipley,wikidata:Q2156023,3660.0,South
+sn95047299,"The Palatka news and advertiser. [volume] (Palatka, Fla.) 1908-19??",The Palatka news and advertiser,"Palatka, Fla.",Palatka,Florida,title,titanic1912,29.647778,-81.651389,Palatka,wikidata:Q955907,10446.0,South
+sn95060001,"The Chitina leader. [volume] (Chitina, Alaska) 1910-1928",The Chitina leader,"Chitina, Alaska",Chitina,Alaska,title,titanic1912,61.5158,-144.437,Chitina,wikidata:Q1074916,101.0,West
+sn95060010,Moose Pass miner.,Moose Pass miner,,Moose Pass,Alaska,name,pearl1941,60.4878,-149.371,Moose Pass,wikidata:Q426115,228.0,West
+sn95060032,"Iditarod pioneer. (Iditarod, Alaska) 1910-19??",Iditarod pioneer,"Iditarod, Alaska",Iditarod,Alaska,title,titanic1912,62.544444,-158.095278,Iditarod,wikidata:Q941791,0.0,West
+sn95060050,Yukon Valley news.,Yukon Valley news,,,Alaska,none,titanic1912,,,,,,West
+sn95060582,St. Johns herald and Apache news.,St. Johns herald and Apache news,,Saint Johns,Arizona,name,titanic1912,34.50587,-109.36093,Saint Johns,geonames:5312595,3480.0,West
+sn95060762,Duncan Arizonian.,Duncan Arizonian,,Duncan,Arizona,name,titanic1912,32.72146,-109.10534,Duncan,geonames:5293430,799.0,West
+sn95060791,The Holbrook news.,The Holbrook news,,Holbrook,Arizona,name,titanic1912,34.90225,-110.15818,Holbrook,geonames:5284580,5019.0,West
+sn95060876,Arizona sentinel and Yuma weekly examiner.,Arizona sentinel and Yuma weekly examiner,,Yuma,Arizona,name,titanic1912,32.692222,-114.615278,Yuma,wikidata:Q79820,95548.0,West
+sn95060905,Tombstone epitaph.,Tombstone epitaph,,Tombstone,Arizona,name,titanic1912,31.71287,-110.06758,Tombstone,geonames:5317714,1312.0,West
+sn95060914,Graham guardian.,Graham guardian,,,Arizona,none,titanic1912,,,,,,West
+sn95060922,The Parker post.,The Parker post,,Parker,Arizona,name,titanic1912,34.15,-114.288889,Parker,wikidata:Q916314,3417.0,West
+sn95063191,"La Verita, corriere del Connecticut.","La Verita, corriere del Connecticut",,,Connecticut,none,pearl1941,,,,,,Northeast
+sn95063969,"The Oklahoma miner. [volume] (Krebs, Okla.) 1912-192?",The Oklahoma miner,"Krebs, Okla.",Krebs,Oklahoma,title,titanic1912,34.929444,-95.721111,Krebs,wikidata:Q427766,2083.0,South
+sn95066012,"The Bennington evening banner. (Bennington, Vt.) 19??-1961",The Bennington evening banner,"Bennington, Vt.",Bennington,Vermont,title,titanic1912,42.885204,-73.213192,Bennington,wikidata:Q817921,15333.0,Northeast
+sn95067647,The Mathews journal. (Mathews C.H. [Court House]) 1903-1937,The Mathews journal,Mathews C.H. [Court House],Mathews C.H.,Virginia,title,titanic1912,37.43708,-76.31994,Mathews,geonames:4771980,555.0,South
+sn95068565,"The home journal. (Winchester, Tenn.) 1858-188?",The home journal,"Winchester, Tenn.",Winchester,Tennessee,title,custer1876,35.188333,-86.1125,Winchester,wikidata:Q2012613,9375.0,South
+sn95069780,"Valentine Democrat. (Valentine, Neb.) 1900-1930",Valentine Democrat,"Valentine, Neb.",Valentine,Nebraska,title,titanic1912,42.87278,-100.55097,Valentine,geonames:5700344,2836.0,Midwest
+sn95076625,"Philip weekly review. [volume] (Philip, Stanley County, S.D.) 1907-1912",Philip weekly review,"Philip, Stanley County, S.D.",Philip,South Dakota,title,titanic1912,44.04,-101.666111,Philip,wikidata:Q593141,759.0,Midwest
+sn95076628,"The Bad River news. [volume] (Philip, Stanley County, S.D.) 19??-1912",The Bad River news,"Philip, Stanley County, S.D.",Philip,South Dakota,title,titanic1912,44.04,-101.666111,Philip,wikidata:Q593141,759.0,Midwest
+sn95076637,"Dewey County advocate. [volume] (Timber Lake, S.D.) 1910-1913",Dewey County advocate,"Timber Lake, S.D.",Timber Lake,South Dakota,title,titanic1912,45.428611,-101.074722,Timber Lake,wikidata:Q2577083,509.0,Midwest
+sn95079154,"Tazewell Republican. [volume] (Tazewell, Va.) 1892-1919",Tazewell Republican,"Tazewell, Va.",Tazewell,Virginia,title,titanic1912,37.11484,-81.51955,Tazewell,wikidata:Q1376160,4486.0,South
+sn95079246,"Highland recorder. (Monterey, Highland County, Va.) 1877-1972",Highland recorder,"Monterey, Highland County, Va.",Monterey,Virginia,title,titanic1912,38.4119,-79.5806,Monterey,wikidata:Q1376411,165.0,South
+sn96060002,The Alaska citizen.,The Alaska citizen,,,Alaska,none,titanic1912,,,,,,West
+sn96060765,The Winslow mail.,The Winslow mail,,Winslow,Arizona,name,titanic1912,35.02419,-110.69736,Winslow,geonames:5321473,9600.0,West
+sn96060774,Nogales international.,Nogales international,,Nogales,Arizona,name,pearl1941,31.34038,-110.93425,Nogales,geonames:5306611,20252.0,West
+sn96060796,The border vidette.,The border vidette,,,Arizona,none,titanic1912,,,,,,West
+sn96060814,El mensajero.,El mensajero,,,Arizona,none,pearl1941,,,,,,West
+sn96060866,The Phoenix index.,The Phoenix index,,Phoenix,Arizona,name,pearl1941,33.44838,-112.07404,Phoenix,geonames:5308655,1650070.0,West
+sn96075050,"The independent-reporter. [volume] (Skowhegan, Me.) 1909-1955",The independent-reporter,"Skowhegan, Me.",Skowhegan,Maine,title,titanic1912,44.76481,-69.718389,Skowhegan,wikidata:Q1002388,8620.0,Northeast
+sn96076641,"Belding banner. (Belding, Mich.) 1889-1918",Belding banner,"Belding, Mich.",Belding,Michigan,title,titanic1912,43.097778,-85.228889,Belding,wikidata:Q2150417,5938.0,Midwest
+sn96076776,"The Clio messenger. (Clio, Mich.) 1907-current",The Clio messenger,"Clio, Mich.",Clio,Michigan,title,titanic1912,43.17753,-83.73413,Clio,geonames:4989153,2536.0,Midwest
+sn96076817,"The diamond drill. (Crystal Falls, Iron County, Mich.) 1887-1996",The diamond drill,"Crystal Falls, Iron County, Mich.",Crystal Falls,Michigan,title,titanic1912,46.098056,-88.333889,Crystal Falls,wikidata:Q2738898,1598.0,Midwest
+sn96076839,Charlevoix county herald.,Charlevoix county herald,,Charlevoix,Michigan,name,titanic1912,45.31806,-85.2584,Charlevoix,geonames:4988575,2540.0,Midwest
+sn96077142,"The L&#39;Anse sentinel. (L&#39;Anse, L.S., Mich.) 18??-current",The L&#39;Anse sentinel,"L&#39;Anse, L.S., Mich.",L'Anse,Michigan,title,titanic1912,46.7566,-88.45291,L'Anse,geonames:4998431,1934.0,Midwest
+sn96088088,"Polk County observer. (Monmouth, Polk County, Or.) 1888-1927",Polk County observer,"Monmouth, Polk County, Or.",Monmouth,Oregon,title,titanic1912,44.84845,-123.23399,Monmouth,geonames:5741227,10032.0,West
+sn96088246,"The times-herald. [volume] (Burns, Harney County, Or.) 1896-1929",The times-herald,"Burns, Harney County, Or.",Burns,Oregon,title,titanic1912,43.58626,-119.0541,Burns,geonames:5716833,2757.0,West
+sn96088281,"Rogue River courier. (Grants Pass, Or.) 1886-1927",Rogue River courier,"Grants Pass, Or.",Grants Pass,Oregon,title,titanic1912,42.438889,-123.328333,Grants Pass,wikidata:Q143405,39189.0,West
+sn96088356,"The Athena press. [volume] (Athena, Umatilla County, Or.) 18??-1942",The Athena press,"Athena, Umatilla County, Or.",Athena,Oregon,title,titanic1912,45.8118,-118.49053,Athena,geonames:5711861,1140.0,West
+sn96090217,"The Mellette County pioneer. [volume] (Wood, Mellette County, S.D.) 19??-1971",The Mellette County pioneer,"Wood, Mellette County, S.D.",Wood,South Dakota,title,titanic1912,43.498611,-100.48,Wood,wikidata:Q2218596,41.0,Midwest
+sn96090237,"The Kadoka press and Kadoka reporter. [volume] (Kadoka, S.D.) 1910-1923",The Kadoka press and Kadoka reporter,"Kadoka, S.D.",Kadoka,South Dakota,title,titanic1912,43.83388,-101.50987,Kadoka,geonames:5766162,707.0,Midwest
+sn96090259,"Hot Springs weekly star. (Hot Springs, S.D.) 1892-1917",Hot Springs weekly star,"Hot Springs, S.D.",Hot Springs,South Dakota,title,titanic1912,43.43165,-103.47436,Hot Springs,geonames:5765751,3532.0,Midwest
+sn96091104,"The Columbia herald. [volume] (Columbia, Tenn.) 18??-1935",The Columbia herald,"Columbia, Tenn.",Columbia,Tennessee,title,titanic1912,35.615022,-87.044464,Columbia,wikidata:Q5675279,41690.0,South
+sn96091618,"Maryville Republican. (Maryville, Tenn.) 187?-1877",Maryville Republican,"Maryville, Tenn.",Maryville,Tennessee,title,custer1876,35.74972,-83.97556,Maryville,wikidata:Q1094500,31907.0,South
+sn97063063,"East Saginaw courier. (East Saginaw, Mich.) 1859-18??",East Saginaw courier,"East Saginaw, Mich.",East Saginaw,Michigan,title,lincoln1865,43.419,-83.947,East Saginaw,wikidata:Q1277992,0.0,Midwest
+sn97063183,"The Ypsilanti daily press. (Ypsilanti, Mich.) 1928-1962",The Ypsilanti daily press,"Ypsilanti, Mich.",Ypsilanti,Michigan,title,pearl1941,42.2428,-83.6183,Ypsilanti,wikidata:Q1021681,20648.0,Midwest
+sn97063232,"The Wyandotte herald. (Wyandotte, Mich.) 1879-1943",The Wyandotte herald,"Wyandotte, Mich.",Wyandotte,Michigan,title,pearl1941,42.21421,-83.14992,Wyandotte,geonames:5015599,25156.0,Midwest
+sn97064597,The future outlook.,The future outlook,,,North Carolina,none,pearl1941,,,,,,South
+sn97065075,"Lawrence democrat. (Lawrenceburg, Tenn.) 1884-1925",Lawrence democrat,"Lawrenceburg, Tenn.",Lawrenceburg,Tennessee,title,titanic1912,35.243611,-87.334444,Lawrenceburg,wikidata:Q2472594,11633.0,South
+sn97065763,"Custer weekly chronicle. [volume] (Custer City, S.D.) 1890-1931",Custer weekly chronicle,"Custer City, S.D.",Custer City,South Dakota,title,titanic1912,43.76665,-103.59881,Custer,geonames:5763910,1952.0,Midwest
+sn97067613,"News and citizen. [volume] (Morrisville, Vt. ;) 1881-current",News and citizen,"Morrisville, Vt. ;",Morrisville,Vermont,title,titanic1912,44.56172,-72.59845,Morrisville,geonames:5238763,2040.0,Northeast
+sn97070614,"The Owosso times. (Owosso, Mich.) 1897-1926",The Owosso times,"Owosso, Mich.",Owosso,Michigan,title,titanic1912,42.997778,-84.176667,Owosso,wikidata:Q2307592,14714.0,Midwest
+sn97071038,"The gazette-times. [volume] (Heppner, Or.) 1912-1925",The gazette-times,"Heppner, Or.",Heppner,Oregon,title,titanic1912,45.35318,-119.5578,Heppner,geonames:5731035,1287.0,West
+sn97071110,"The Hood River glacier. (Hood River, Or.) 1889-1933",The Hood River glacier,"Hood River, Or.",Hood River,Oregon,title,titanic1912,45.706667,-121.521667,Hood River,wikidata:Q923815,8313.0,West
+sn98047754,"The ranch. [volume] (Seattle, Wash.) 1902-1914",The ranch,"Seattle, Wash.",Seattle,Washington,title,titanic1912,47.60621,-122.33207,Seattle,geonames:5809844,780995.0,West
+sn98060050,"Vermont ph\u00c5\u201cnix. [volume] (Brattleboro, Vt.) 1834-1955",Vermont ph\u00c5\u201cnix,"Brattleboro, Vt.",Brattleboro,Vermont,title,lincoln1865 custer1876 titanic1912,42.85092,-72.55787,Brattleboro,geonames:5234141,7414.0,Northeast
+sn98060264,Valdez daily prospector.,Valdez daily prospector,,Valdez,Alaska,name,titanic1912,61.130833,-146.348333,Valdez,wikidata:Q80037,3985.0,West
+sn98060266,"The Valley settler. (Palmer, Alaska) 1937-195?",The Valley settler,"Palmer, Alaska",Palmer,Alaska,title,pearl1941,61.59941,-149.11456,Palmer,geonames:5871146,6788.0,West
+sn98062890,"Pierre weekly free press. (Pierre, S.D.) 1889-19??",Pierre weekly free press,"Pierre, S.D.",Pierre,South Dakota,title,titanic1912,44.368361,-100.351139,Pierre,wikidata:Q40747,14091.0,Midwest
+sn98066406,"The Yale expositor. (Yale, St. Clair County, Mich.) 1894-current",The Yale expositor,"Yale, St. Clair County, Mich.",Yale,Michigan,title,titanic1912,43.13003,-82.79826,Yale,geonames:5015627,1905.0,Midwest
+sn98069043,"The Mobridge news. [volume] (Mobridge, Walworth Co., S.D.) 190?-1917",The Mobridge news,"Mobridge, Walworth Co., S.D.",Mobridge,South Dakota,title,titanic1912,45.53722,-100.42791,Mobridge,geonames:5767189,3466.0,Midwest
+sn98069091,"Deutscher herold. [volume] (Sioux Falls, Su\u00cc\u02c6d-Dakota) 1907-1918",Deutscher herold,"Sioux Falls, Su\u00cc\u02c6d-Dakota",Sioux Falls,South Dakota,title,titanic1912,43.546056,-96.731389,Sioux Falls,wikidata:Q131335,192517.0,Midwest
+sn99021999,Omaha daily bee.,Omaha daily bee,,Omaha,Nebraska,name,titanic1912,41.258611,-95.9375,Omaha,wikidata:Q43199,486051.0,Midwest
+sn99061556,"The farmer and mechanic. [volume] (Raleigh, N.C.) 18??-19??",The farmer and mechanic,"Raleigh, N.C.",Raleigh,North Carolina,title,titanic1912,35.7721,-78.63861,Raleigh,geonames:4487042,482295.0,South
+sn99062010,"The citizen-Republican. (Scotland, Bon Homme County, S.D.) 1???-19??",The citizen-Republican,"Scotland, Bon Homme County, S.D.",Scotland,South Dakota,title,titanic1912,43.14972,-97.71757,Scotland,geonames:5231735,820.0,Midwest
+sn99062017,"The Bon Homme County independent. [volume] (Tabor, S.D.) 1904-1913",The Bon Homme County independent,"Tabor, S.D.",Tabor,South Dakota,title,titanic1912,42.947778,-97.658056,Tabor,wikidata:Q374501,407.0,Midwest
+sn99062034,"The Madison daily leader. [volume] (Madison, S.D.) 1890-current",The Madison daily leader,"Madison, S.D.",Madison,South Dakota,title,titanic1912,44.00608,-97.11395,Madison,geonames:5229526,7258.0,Midwest
+sn99062049,"The Sisseton weekly standard. (Sisseton, Roberts County, S.D.) 1892-1929",The Sisseton weekly standard,"Sisseton, Roberts County, S.D.",Sisseton,South Dakota,title,titanic1912,45.663333,-97.049167,Sisseton,wikidata:Q1026188,2479.0,Midwest
+sn99062854,"Die Eureka post. (Eureka, McPherson Co., Su\u00cc\u02c6d=Dakota) 18??-19??",Die Eureka post,"Eureka, McPherson Co., Su\u00cc\u02c6d=Dakota",Eureka,South Dakota,title,titanic1912,45.76943,-99.61956,Eureka,geonames:5227665,844.0,Midwest
+sn99063812,"The evening herald. (Klamath Falls, Or.) 1906-1942",The evening herald,"Klamath Falls, Or.",Klamath Falls,Oregon,title,titanic1912,42.223333,-121.7775,Klamath Falls,wikidata:Q846146,21813.0,West
+sn99063957,"Daily capital journal. (Salem, Oregon) 1903-1919",Daily capital journal,"Salem, Oregon",Salem,Oregon,title,titanic1912,44.94,-123.038889,Salem,wikidata:Q43919,175535.0,West
+sn99066040,The weekly sun. (New York [N.Y.]) 1851-1869,The weekly sun,New York [N.Y.],New York,New York,title,lincoln1865,40.712778,-74.006111,New York City,wikidata:Q60,8804190.0,Northeast
+sn99068038,"The Wagner post. (Wagner, Charles Mix County, S.D.) 1912-current",The Wagner post,"Wagner, Charles Mix County, S.D.",Wagner,South Dakota,title,titanic1912,43.07972,-98.29313,Wagner,geonames:5232661,1589.0,Midwest
+sn99068116,"Reporter and farmer. [volume] (Webster, Day County, Dakota [S.D.]) 188?-1946",Reporter and farmer,"Webster, Day County, Dakota [S.D.]",Webster,South Dakota,title,titanic1912,45.33218,-97.52009,Webster,geonames:5232764,1802.0,Midwest

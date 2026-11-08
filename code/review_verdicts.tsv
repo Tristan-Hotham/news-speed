@@ -1,0 +1,291 @@
+# Hand review of the first matching page of each newspaper (read from the snippet). event, lccn, date, page, verdict (yes = reports the event), note
+lincoln1865	sn82015683	1865-04-15	3	yes	Daily State sentinel. [volume] (Indianap
+lincoln1865	sn83009653	1865-04-21	2	yes	Oxford Democrat. [volume] (Paris, Me.) 1
+lincoln1865	sn83016025	1865-04-15	2	yes	The Portland daily press.
+lincoln1865	sn83016368	1865-04-29	1	yes	The Baltimore County union. [volume] (To
+lincoln1865	sn83016483	1865-06-14	1	yes	The south-western. [volume] (Shreveport,
+lincoln1865	sn83016563	1865-04-15	4	no	The Black Republican.
+lincoln1865	sn83025718	1865-04-15	1	yes	The Nashville daily union. [volume] (Nas
+lincoln1865	sn83030272	1865-04-15	1	yes	The sun.
+lincoln1865	sn83030313	1865-04-15	1	yes	The New York herald. [volume] (New York 
+lincoln1865	sn83035143	1865-04-15	1	yes	Cleveland morning leader. [volume] (Clev
+lincoln1865	sn83045462	1865-04-15	1	yes	Evening star.
+lincoln1865	sn83045646	1865-04-15	1	yes	Daily Davenport Democrat. [volume] (Dave
+lincoln1865	sn84022046	1865-04-15	2	yes	Gold Hill daily news. [volume] (Gold Hil
+lincoln1865	sn84023246	1865-04-28	2	yes	The Vermont transcript. [volume] (St. Al
+lincoln1865	sn84024207	1865-04-20	2	yes	The Lancaster gazette. [volume] (Lancast
+lincoln1865	sn84026789	1865-04-19	2	yes	The West Virginia journal. [volume] (Cha
+lincoln1865	sn84026847	1865-04-17	1	yes	The Wheeling daily register. [volume] (W
+lincoln1865	sn84026922	1865-04-22	1	yes	The tri-weekly news. [volume] (Winnsboro
+lincoln1865	sn84027060	1865-04-22	2	yes	The Burlington weekly hawk-eye. [volume]
+lincoln1865	sn84031042	1865-04-15	4	no	Sioux City register. [volume] (Sioux Cit
+lincoln1865	sn84037526	1865-05-02	1	yes	
+lincoln1865	sn84038112	1865-04-18	2	yes	Delaware State journal and statesman.
+lincoln1865	sn84038628	1865-04-15	2	yes	The evening Argus. [volume] (Rock Island
+lincoln1865	sn85026002	1865-04-15	2	yes	Dayton daily empire. [volume] (Dayton [O
+lincoln1865	sn85034406	1865-04-19	2	yes	The Cadiz sentinel. [volume] (Cadiz, Ohi
+lincoln1865	sn85038121	1865-04-20	2	yes	Gallipolis journal. [volume] (Gallipolis
+lincoln1865	sn97063063	1865-04-19	3	yes	East Saginaw courier. (East Saginaw, Mic
+custer1876	sn78000873	1876-07-13	2	yes	The Republican journal. [volume] (Belfas
+custer1876	sn82003389	1876-07-12	2	yes	The Louisiana Democrat. [volume] (Alexan
+custer1876	sn82006687	1876-07-27	2	yes	Saint Mary&#39;s beacon. [volume] (Leona
+custer1876	sn82014805	1876-07-07	1	yes	The daily gazette.
+custer1876	sn82015854	1876-07-27	1	yes	Knoxville journal. [volume] (Knoxville, 
+custer1876	sn83021327	1876-07-13	1	yes	The weekly democratic statesman. [volume
+custer1876	sn83025309	1876-07-13	1	yes	Rocky Mountain husbandman. [volume] (Dia
+custer1876	sn83025667	1876-07-08	2	yes	The Middlebury register. [volume] (Middl
+custer1876	sn83025668	1876-07-13	2	yes	The Manchester journal. [volume] (Manche
+custer1876	sn83030313	1876-07-07	3	yes	The New York herald.
+custer1876	sn83032199	1876-07-19	2	yes	Clearfield Republican. [volume] (Clearfi
+custer1876	sn83040340	1876-07-15	1	yes	The Iola register. [volume] (Iola, Allen
+custer1876	sn84021912	1876-07-08	2	yes	The Arizona sentinel.
+custer1876	sn84022047	1876-07-15	2	yes	The White Pine news. [volume] (Treasure 
+custer1876	sn84022053	1876-07-19	2	yes	Lyon County times. [volume] (Silver City
+custer1876	sn84022149	1876-07-04	1	no	The Cheyenne daily leader. [volume] (Che
+custer1876	sn84022374	1876-07-13	2	yes	Ellsworth American.
+custer1876	sn84022473	1876-07-07	2	yes	The Rutland daily globe. [volume] (Rutla
+custer1876	sn84022549	1876-07-07	4	no	Bellows Falls times. [volume] (Bellows F
+custer1876	sn84022553	1876-07-08	2	yes	Bradford opinion. [volume] (Bradford, Vt
+custer1876	sn84022643	1876-07-14	2	yes	The Albany register. [volume] (Albany, O
+custer1876	sn84023017	1876-08-03	4	yes	The Russellville Democrat.
+custer1876	sn84023253	1876-07-14	1	yes	St. Johnsbury Caledonian. [volume] (St. 
+custer1876	sn84024738	1876-07-07	3	yes	The daily dispatch. [volume] (Richmond [
+custer1876	sn84026106	1876-08-10	2	yes	The post. [volume] (Middleburg, Snyder C
+custer1876	sn84026259	1876-07-20	1	yes	The Elk County advocate. [volume] (Ridgw
+custer1876	sn84026536	1876-07-14	1	yes	Wilmington journal.
+custer1876	sn84026853	1876-07-19	3	yes	The Abbeville press and banner. [volume]
+custer1876	sn84026965	1876-07-13	2	yes	The Anderson intelligencer. [volume] (An
+custer1876	sn84027691	1876-07-13	3	yes	The Leavenworth weekly times.
+custer1876	sn84036143	1876-07-20	1	yes	Helena weekly herald. [volume] (Helena, 
+custer1876	sn84037526	1876-07-26	1	yes	
+custer1876	sn84038123	1876-07-07	2	yes	Bozeman avant courier. [volume] (Bozeman
+custer1876	sn84038582	1876-07-08	4	yes	The Ottawa free trader. [volume] (Ottawa
+custer1876	sn85025202	1876-07-15	2	yes	Weekly Trinity journal.
+custer1876	sn85025350	1876-07-08	1	yes	Frostburg mining journal. [volume] (Fros
+custer1876	sn85025431	1876-07-13	1	yes	Mower County transcript. [volume] (Lansi
+custer1876	sn85025620	1876-07-13	2	yes	The Worthington advance.
+custer1876	sn85026034	1876-08-04	1	yes	The Findlay Jeffersonian. [volume] (Find
+custer1876	sn85033123	1876-07-06	5	yes	The Kenosha telegraph. [volume] (Kenosha
+custer1876	sn85034235	1876-07-13	3	yes	The Bossier banner. [volume] (Bellevue, 
+custer1876	sn85038115	1876-07-18	2	yes	The spirit of democracy. [volume] (Woods
+custer1876	sn85038180	1876-07-13	2	yes	The Jackson standard. [volume] (Jackson 
+custer1876	sn85038558	1876-07-15	2	yes	The People&#39;s vindicator. [volume] (N
+custer1876	sn85042623	1876-08-09	1	yes	The tribune. [volume] (Beaufort, S.C.) 1
+custer1876	sn86053573	1876-07-07	1	yes	National Republican.
+custer1876	sn86053634	1876-07-19	2	yes	Juniata sentinel and Republican. [volume
+custer1876	sn86079088	1876-07-15	1	yes	Richland beacon. [volume] (Rayville, La.
+custer1876	sn86086284	1876-07-09	1	yes	The morning star and Catholic messenger.
+custer1876	sn88064175	1876-07-15	2	yes	The Colfax chronicle. (Colfax, Grant Par
+custer1876	sn88064492	1876-07-15	1	yes	The weekly Thibodaux sentinel and journa
+custer1876	sn88078580	1876-07-28	2	yes	Ashtabula telegraph. (Ashtabula, Ohio) 1
+custer1876	sn89053987	1876-07-26	2	yes	The central Presbyterian. [volume] (Rich
+titanic1912	sn00065127	1912-05-03	2	yes	Dakota farmers&#39; leader. (Canton, S.D
+titanic1912	sn82007642	1912-05-02	1	yes	Watauga Democrat. [volume] (Boone, Watau
+titanic1912	sn82014086	1912-04-15	1	yes	Norwich bulletin.
+titanic1912	sn82014189	1912-04-16	1	yes	The daily Alaskan.
+titanic1912	sn82014248	1912-04-15	3	yes	Daily Kennebec journal. [microfilm reel]
+titanic1912	sn82015415	1912-04-15	2	yes	The Hawaiian star. [volume] (Honolulu [O
+titanic1912	sn82016014	1912-04-16	1	yes	The Topeka state journal. [volume] (Tope
+titanic1912	sn82016413	1912-04-15	1	yes	Evening bulletin. [volume] (Honolulu [Oa
+titanic1912	sn83002748	1912-04-25	1	yes	
+titanic1912	sn83016348	1912-04-20	1	yes	The Cecil Whig. [volume] (Elkton, Md.) 1
+titanic1912	sn83016589	1912-04-19	1	yes	The Mankato free press. [volume] (Mankat
+titanic1912	sn83016689	1912-04-15	1	yes	The Detroit times. [volume] (Detroit, Mi
+titanic1912	sn83016810	1912-04-20	1	yes	The Appeal. [volume] (Saint Paul, Minn. 
+titanic1912	sn83025020	1912-04-16	1	yes	The Vinita daily chieftain. [volume] (Vi
+titanic1912	sn83025121	1912-04-16	4	yes	The Hawaiian gazette.
+titanic1912	sn83025182	1912-04-16	1	yes	The daily Gate City. [volume] (Keokuk, I
+titanic1912	sn83025316	1912-04-15	1	yes	The Daily Missoulian. [volume] (Missoula
+titanic1912	sn83030193	1912-04-16	1	yes	The evening world.
+titanic1912	sn83030214	1912-04-15	1	yes	New-York tribune.
+titanic1912	sn83030272	1912-04-16	1	yes	The sun. [volume] (New York [N.Y.]) 1833
+titanic1912	sn83035565	1912-04-18	2	yes	The Greenville journal. [volume] (Greenv
+titanic1912	sn83045227	1912-04-16	1	yes	Freie Presse fu\u00cc\u02c6r Texas. [vol
+titanic1912	sn83045348	1912-04-17	1	yes	Pokrok za\u00cc\u0081padu. [volume] (Oma
+titanic1912	sn83045377	1912-05-14	1	yes	Proletarec. [volume] (Chicago, Ill.) 190
+titanic1912	sn83045396	1912-04-16	1	yes	The Salt Lake tribune. [volume] (Salt La
+titanic1912	sn83045433	1912-04-16	2	yes	The Washington herald.
+titanic1912	sn83045462	1912-04-15	1	yes	Evening star. [volume] (Washington, D.C.
+titanic1912	sn83045487	1912-04-15	1	yes	The day book. [volume] (Chicago, Ill.) 1
+titanic1912	sn84020355	1912-04-16	3	yes	Daily independent. [volume] (Elko, Nev.)
+titanic1912	sn84020558	1912-04-15	1	yes	Arizona republican.
+titanic1912	sn84020630	1912-04-15	1	yes	Santa Fe new Mexican. [volume] (Santa Fe
+titanic1912	sn84022137	1912-05-02	1	yes	Union County courier. [volume] (Elk Poin
+titanic1912	sn84022265	1912-04-18	4	yes	The Greeley tribune.
+titanic1912	sn84022374	1912-04-17	4	yes	Ellsworth American. [volume] (Ellsworth,
+titanic1912	sn84022472	1912-04-15	1	yes	The Bridgeport evening farmer.
+titanic1912	sn84022871	1912-04-17	1	yes	Orleans County monitor. [volume] (Barton
+titanic1912	sn84023963	1912-05-31	6	yes	The Jasper weekly courier. [volume] (Jas
+titanic1912	sn84024585	1912-05-30	1	yes	Narodni vestnik = National herald. [volu
+titanic1912	sn84024779	1912-04-18	1	yes	The Wahpeton times. [volume] (Wahpeton, 
+titanic1912	sn84024827	1912-04-16	1	yes	Bisbee daily review.
+titanic1912	sn84025811	1912-04-19	1	yes	The Seattle Republican.
+titanic1912	sn84026749	1912-04-16	1	yes	The Washington times.
+titanic1912	sn84026784	1912-04-18	4	yes	Virginia free press. (Charlestown, Va. [
+titanic1912	sn84026788	1912-04-16	2	yes	Spirit of Jefferson. [volume] (Charles T
+titanic1912	sn84026820	1912-04-20	2	yes	Middletown transcript.
+titanic1912	sn84026925	1912-04-16	2	yes	Yorkville enquirer. [volume] (Yorkville,
+titanic1912	sn84027621	1912-04-16	1	yes	The Ocala evening star. [volume] (Ocala,
+titanic1912	sn84029690	1912-04-27	4	yes	The Hays free press. [volume] (Hays, Kan
+titanic1912	sn84031081	1912-04-15	1	yes	Albuquerque morning journal. [volume] (A
+titanic1912	sn84036220	1912-04-16	1	yes	Fergus County Democrat. [volume] (Lewist
+titanic1912	sn84045523	1912-04-25	1	yes	El regidor. [volume] (San Antonio, Tex.)
+titanic1912	sn85025007	1912-04-15	1	yes	Alexandria gazette. [volume] (Alexandria
+titanic1912	sn85025407	1912-05-10	1	yes	Maryland independent. [volume] (Port Tob
+titanic1912	sn85025570	1912-04-16	9	yes	The Redwood gazette. [volume] (Redwood F
+titanic1912	sn85033000	1912-04-16	1	yes	The log cabin Democrat.
+titanic1912	sn85033139	1912-04-18	2	yes	The Manitowoc pilot. [volume] (Manitowoc
+titanic1912	sn85035720	1912-04-16	1	yes	Perth Amboy evening news. [volume] (Pert
+titanic1912	sn85035801	1912-04-23	3	yes	The Mount Holly news. [volume] (Mount Ho
+titanic1912	sn85038292	1912-04-19	1	yes	The Democratic advocate. [volume] (Westm
+titanic1912	sn85038485	1912-04-15	1	yes	The Birmingham age-herald.
+titanic1912	sn85038489	1912-04-16	1	yes	The leader-enterprise. [volume] (Fitzger
+titanic1912	sn85038615	1912-04-15	1	yes	The times dispatch. [volume] (Richmond, 
+titanic1912	sn85040245	1912-04-19	3	yes	Ladysmith news-budget. [volume] (Ladysmi
+titanic1912	sn85042224	1912-04-16	1	yes	The Fargo forum and daily republican. [v
+titanic1912	sn85042242	1912-04-15	1	yes	Bismarck daily tribune. [volume] (Bismar
+titanic1912	sn85042303	1912-04-15	1	yes	The Daily Ardmoreite. [volume] (Ardmore,
+titanic1912	sn85042344	1912-04-16	1	yes	Tulsa daily world. [volume] (Tulsa, Indi
+titanic1912	sn85042354	1912-04-15	1	yes	Evening journal.
+titanic1912	sn85042373	1912-04-15	1	yes	The evening times. [volume] (Grand Forks
+titanic1912	sn85042551	1912-04-16	1	yes	Amarillo daily news. [volume] (Amarillo,
+titanic1912	sn85049554	1912-04-15	1	yes	Evening times-Republican. [volume] (Mars
+titanic1912	sn85050913	1912-04-16	4	yes	Webster City freeman. [volume] (Webster 
+titanic1912	sn85052023	1912-04-16	2	yes	The interior journal. [volume] (Stanford
+titanic1912	sn85053292	1912-04-25	1	yes	The Libby herald. [volume] (Libby, Mont.
+titanic1912	sn85059585	1912-05-01	1	yes	Evening journal. [volume] (Martinsburg, 
+titanic1912	sn85059715	1912-04-15	1	yes	The daily telegram. [volume] (Clarksburg
+titanic1912	sn86058226	1912-04-15	1	yes	The Richmond palladium and sun-telegram.
+titanic1912	sn86058242	1912-04-15	1	yes	The Lake County times. [volume] (Hammond
+titanic1912	sn86061215	1912-04-16	1	yes	Ottumwa tri-weekly courier. [volume] (Ot
+titanic1912	sn86063381	1912-04-15	1	yes	The Bemidji daily pioneer.
+titanic1912	sn86063623	1912-04-26	5	yes	The Lexington intelligencer. [volume] (L
+titanic1912	sn86063730	1912-04-15	1	yes	Brownsville herald. [volume] (Brownsvill
+titanic1912	sn86063758	1912-04-16	2	yes	The herald and news. [volume] (Newberry 
+titanic1912	sn86063760	1912-04-24	1	yes	The Manning times. [volume] (Manning, Cl
+titanic1912	sn86063952	1912-04-15	1	yes	The Guthrie daily leader. [volume] (Guth
+titanic1912	sn86066870	1912-04-15	1	yes	The daily sentinel.
+titanic1912	sn86069162	1912-04-24	3	yes	The Richmond climax. (Richmond, Ky.) 189
+titanic1912	sn86069561	1912-04-19	2	yes	Mount Vernon signal. (Mt. Vernon, Ky.) 1
+titanic1912	sn86069873	1912-04-19	3	yes	The Bourbon news. [volume] (Paris, Ky.) 
+titanic1912	sn86071985	1912-04-18	2	yes	Virginia gazette. [volume] (Williamsburg
+titanic1912	sn86075094	1912-04-19	1	yes	The roundup record. [volume] (Roundup, M
+titanic1912	sn86076142	1912-04-16	1	yes	Tonopah daily bonanza. [volume] (Tonopah
+titanic1912	sn86076216	1912-04-20	2	yes	Yerington times. [volume] (Yerington, Ne
+titanic1912	sn86076241	1912-04-16	1	yes	Carson City daily appeal. [volume] (Cars
+titanic1912	sn86086633	1912-04-16	1	yes	The Calumet news. [volume] (Calumet, Mic
+titanic1912	sn86086852	1912-04-18	4	yes	Iowa County democrat. [volume] (Mineral 
+titanic1912	sn86088651	1912-04-15	1	yes	Bryan daily eagle and pilot. [volume] (B
+titanic1912	sn86090369	1912-04-16	2	yes	The Waxahachie daily light. [volume] (Wa
+titanic1912	sn86090528	1912-04-16	1	yes	The Chickasha daily express. (Chickasha,
+titanic1912	sn86091096	1912-04-26	4	yes	The Kendrick gazette. [volume] (Kendrick
+titanic1912	sn86091145	1912-04-25	3	yes	The Emmett index. [volume] (Emmett, Idah
+titanic1912	sn86091197	1912-04-19	4	yes	The Idaho Republican. [volume] (Blackfoo
+titanic1912	sn86092086	1912-04-18	2	yes	The Progressive West Virginian. [volume]
+titanic1912	sn86092536	1912-04-15	1	yes	The Wheeling intelligencer. [volume] (Wh
+titanic1912	sn86092557	1912-04-16	1	yes	The Fairmont West Virginian. (Fairmont, 
+titanic1912	sn87058235	1912-04-17	1	yes	Decorah public opinion. (Decorah, Winnes
+titanic1912	sn87058308	1912-04-18	1	yes	The Oskaloosa herald.
+titanic1912	sn87060004	1912-04-16	5	yes	The bee.
+titanic1912	sn87060032	1912-05-10	1	yes	Mountain advocate.
+titanic1912	sn87062011	1912-04-16	4	yes	The Nome daily nugget.
+titanic1912	sn87062224	1912-04-19	5	yes	Milford chronicle.
+titanic1912	sn87062268	1912-04-16	1	yes	The Pensacola journal. (Pensacola, Fla.)
+titanic1912	sn87065167	1912-04-15	1	yes	The Hattiesburg news. (Hattiesburg, Miss
+titanic1912	sn87065327	1912-04-19	8	yes	Greene County herald. (Leakesville, Miss
+titanic1912	sn87093039	1912-05-03	4	yes	The Leavenworth echo. [volume] (Leavenwo
+titanic1912	sn87093407	1912-04-16	1	yes	The Seattle star. [volume] (Seattle, Was
+titanic1912	sn88056038	1912-04-25	1	yes	The Owyhee nugget. ([Silver City], Idaho
+titanic1912	sn88056093	1912-04-19	1	yes	The Rathdrum tribune. (Rathdrum, Idaho) 
+titanic1912	sn88056165	1912-04-19	2	yes	Camas Prairie chronicle. [volume] (Cotto
+titanic1912	sn88061179	1912-04-17	3	yes	The Big Stone Gap post. [volume] (Big St
+titanic1912	sn88064250	1912-04-27	1	yes	St. Landry clarion. (Opelousas, La.) 189
+titanic1912	sn88064469	1912-04-16	1	yes	The Caucasian.
+titanic1912	sn88074815	1912-04-19	3	yes	The Ocala banner. (Ocala, Marion County,
+titanic1912	sn88076013	1912-04-20	1	yes	The Dickinson press.
+titanic1912	sn88076421	1912-04-18	9	yes	The Ward County independent. [volume] (M
+titanic1912	sn88078751	1912-04-19	1	yes	The Democratic banner. (Mt. Vernon, Ohio
+titanic1912	sn88084272	1912-04-17	1	yes	El Paso herald. (El Paso, Tex.) 1901-193
+titanic1912	sn88085187	1912-04-15	1	yes	The Tacoma times. [volume] (Tacoma, Wash
+titanic1912	sn88085523	1912-04-17	1	yes	The Yakima herald. [volume] (North Yakim
+titanic1912	sn88086023	1912-04-15	1	yes	East Oregonian : E.O. (Pendleton, OR) 18
+titanic1912	sn89051168	1912-04-16	1	yes	Pine Bluff daily graphic.
+titanic1912	sn89051294	1912-04-19	1	yes	The Green Forest tribune.
+titanic1912	sn89052328	1912-04-19	2	yes	Eastern Colorado times.
+titanic1912	sn89053204	1912-04-16	1	yes	Americus times-recorder. [volume] (Ameri
+titanic1912	sn89055001	1912-04-18	1	yes	The Parma herald. (Parma, Idaho) 1903-19
+titanic1912	sn89055128	1912-04-16	1	yes	The daily star-mirror. (Moscow, Idaho) 1
+titanic1912	sn89055184	1912-04-18	1	yes	Lincoln County times. (Jerome, Idaho) 19
+titanic1912	sn89058013	1912-05-03	2	yes	The Camden chronicle. (Camden, Tenn.) 18
+titanic1912	sn89058216	1912-04-25	1	yes	The Newport plain talk. (Newport, Tenn.)
+titanic1912	sn89060092	1912-04-19	4	yes	The citizen. (Frederick City, Md.) 1895-
+titanic1912	sn89064489	1912-04-25	2	yes	The Sauk Centre herald. (Sauk Centre, St
+titanic1912	sn89065008	1912-04-19	2	yes	The commonwealth. (Greenwood, Miss.) 189
+titanic1912	sn89066313	1912-04-21	1	yes	University Missourian. [volume] (Columbi
+titanic1912	sn89066996	1912-04-18	3	yes	The Farmington times. (Farmington, St. F
+titanic1912	sn89074986	1912-04-19	1	yes	The Lemmon herald. (Lemmon, Perkins Coun
+titanic1912	sn89081128	1912-04-17	3	yes	New Ulm review. (New Ulm, Brown County, 
+titanic1912	sn90051068	1912-04-20	8	yes	The Monte Vista journal.
+titanic1912	sn90051333	1912-04-18	1	yes	The Canon City record with which is cons
+titanic1912	sn90052005	1912-04-15	1	yes	The Richmond Virginian. (Richmond, Va.) 
+titanic1912	sn90052143	1912-04-16	1	yes	The Brunswick news. [volume] (Brunswick,
+titanic1912	sn90059182	1912-04-19	6	yes	The Ely miner. [volume] (Ely, Minn.) 189
+titanic1912	sn90060427	1912-04-20	1	yes	The Twin City star. [volume] (Minneapoli
+titanic1912	sn90060976	1912-05-04	4	yes	The Catholic bulletin. [volume] (St. Pau
+titanic1912	sn90061371	1912-04-17	1	yes	Potosi journal.
+titanic1912	sn91052311	1912-04-20	1	yes	Franklin's paper the statesman.
+titanic1912	sn91052444	1912-04-25	2	yes	The new era.
+titanic1912	sn91059394	1912-04-19	6	yes	Morris tribune.
+titanic1912	sn91064011	1912-04-15	1	yes	Newark evening star and Newark advertise
+titanic1912	sn91066782	1912-04-15	1	yes	The Barre daily times. (Barre, Vt.) 1897
+titanic1912	sn91099739	1912-04-18	4	yes	Boleti\u00cc\u0081n mercantil de Puerto 
+titanic1912	sn92053934	1912-04-15	1	yes	Rock Island Argus. (Rock Island, Ill.) 1
+titanic1912	sn92070146	1912-04-16	1	yes	Imperial Valley press.
+titanic1912	sn92070581	1912-04-16	2	yes	Albuquerque evening herald. [volume] (Al
+titanic1912	sn92073908	1912-04-25	2	yes	The commonwealth. (Scotland Neck, N.C.) 
+titanic1912	sn93055779	1912-04-15	1	yes	The Cairo bulletin.
+titanic1912	sn93067846	1912-04-17	5	yes	The watchman and southron. [volume] (Sum
+titanic1912	sn95047179	1912-04-19	1	yes	The enterprise-recorder.
+titanic1912	sn95047222	1912-04-15	1	yes	The Lakeland evening telegram. (Lakeland
+titanic1912	sn95066012	1912-04-15	1	yes	The Bennington evening banner. (Benningt
+titanic1912	sn95069780	1912-05-02	1	yes	Valentine Democrat. (Valentine, Neb.) 19
+titanic1912	sn95076625	1912-05-02	1	yes	Philip weekly review. [volume] (Philip, 
+titanic1912	sn95076628	1912-04-25	1	yes	The Bad River news. [volume] (Philip, St
+titanic1912	sn95076637	1912-04-26	4	yes	Dewey County advocate. [volume] (Timber 
+titanic1912	sn96075050	1912-04-18	1	yes	The independent-reporter. [volume] (Skow
+titanic1912	sn97065075	1912-04-24	5	yes	Lawrence democrat. (Lawrenceburg, Tenn.)
+titanic1912	sn97070614	1912-04-19	1	yes	The Owosso times. (Owosso, Mich.) 1897-1
+titanic1912	sn98060050	1912-04-19	1	yes	Vermont ph\u00c5\u201cnix. [volume] (Bra
+titanic1912	sn98060264	1912-04-16	1	yes	Valdez daily prospector.
+titanic1912	sn99021999	1912-04-16	6	yes	Omaha daily bee.
+titanic1912	sn99062034	1912-04-16	1	yes	The Madison daily leader. [volume] (Madi
+titanic1912	sn99063957	1912-04-15	5	yes	Daily capital journal. (Salem, Oregon) 1
+titanic1912	sn99068116	1912-04-18	1	yes	Reporter and farmer. [volume] (Webster, 
+pearl1941	sn78000090	1941-12-19	1	yes	The Southern Jewish weekly. [volume] (Ja
+pearl1941	sn78000533	1941-12-11	6	no	The potters herald. [volume] (East Liver
+pearl1941	sn82014085	1941-12-08	1	yes	The Waterbury Democrat.
+pearl1941	sn83045462	1941-12-08	2	yes	Evening star.
+pearl1941	sn83045499	1941-12-07	1	yes	The Daily Alaska empire.
+pearl1941	sn84020662	1941-12-08	1	yes	The Nome nugget.
+pearl1941	sn84024234	1941-12-26	1	no	The Dayton forum. [volume] (Dayton, Ohio
+pearl1941	sn84025694	1941-12-08	1	yes	
+pearl1941	sn86002403	1941-12-08	1	yes	La gaceta.
+pearl1941	sn86075229	1941-12-25	1	yes	The Hardin tribune-herald. [volume] (Har
+pearl1941	sn87075008	1941-12-11	1	no	Morgan County Democrat. (McConnelsville,
+pearl1941	sn88063294	1941-12-08	1	yes	Detroit evening times. (Detroit, Mich) 1
+pearl1941	sn91068401	1941-12-08	1	yes	Henderson daily dispatch.
+pearl1941	sn92070146	1941-12-07	5	no	Imperial Valley press.
+pearl1941	sn94050542	1941-12-12	1	yes	The Coolidge examiner.
+pearl1941	sn97063183	1941-12-08	1	yes	The Ypsilanti daily press. (Ypsilanti, M
+pearl1941	sn78000533	1941-12-18	4	yes	The potters herald
+pearl1941	sn87075008	1941-12-11	2	no	Morgan County Democrat (furlough note)
+pearl1941	sn92070146	1941-12-08	1	yes	Imperial Valley press
+pearl1941	sn87075008	1941-12-18	1	yes	Morgan County Democrat (wounded at Pearl Harbor)
+lincoln1865	sn83030213	1865-04-15	4	yes	New-York daily tribune. [volume] (New-Yo
+lincoln1865	sn84020071	1865-04-20	2	yes	Litchfield enquirer.
+custer1876	sn84022053	1876-07-12	2	yes	Lyon County times. [volume] (Silver City
+custer1876	sn84026259	1876-07-13	3	yes	The Elk County advocate. [volume] (Ridgw
+custer1876	sn85025007	1876-07-06	2	yes	Alexandria gazette. [volume] (Alexandria
+custer1876	sn85026955	1876-07-11	2	yes	Bristol news. [volume] (Bristol, Va. &am
+custer1876	sn85033395	1876-07-20	1	yes	Fayetteville observer. [volume] (Fayette
+custer1876	sn95068565	1876-07-13	1	yes	The home journal. (Winchester, Tenn.) 18
