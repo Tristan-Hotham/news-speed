@@ -1,0 +1,507 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>How fast did news travel?</title>
+<meta name="description" content="Lincoln's assassination, Custer's last stand, the Titanic and Pearl Harbor: how many days each American newspaper took to print the news, from 13,233 digitised issues of 936 papers.">
+<meta property="og:title" content="How fast did news travel?">
+<meta property="og:description" content="Day by day, the spread of four great news stories through 936 American newspapers, 1865 to 1941.">
+<meta property="og:image" content="https://maps.tristanhotham.com/news-speed/header.png">
+<meta property="og:url" content="https://maps.tristanhotham.com/news-speed/">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,800;9..144,900&family=IBM+Plex+Mono:wght@400;500&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=MedievalSharp&display=swap">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/maplibre-gl@4.7.1/dist/maplibre-gl.css">
+<style>
+:root{
+  --bg:#F6EED8; --panel:#EFE3C4; --fg:#2B2119; --muted:#6E604E; --rule:#E2D3AE; --card:#FBF5E4; --border:#D3C29A;
+  --hot:#A3261B; --cool:#3D6E9E;
+  --display:"Fraunces",Georgia,"Times New Roman",serif;
+  --body:"Source Serif 4",Georgia,"Times New Roman",serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
+  --hand:"MedievalSharp","Fraunces",Georgia,serif;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#1A1612; --panel:#241E18; --fg:#EFE6D4; --muted:#ADA08B; --rule:#3A3128; --card:#211B15; --border:#4D4234; --hot:#E07A6C; --cool:#8FB4DA; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#1A1612; --panel:#241E18; --fg:#EFE6D4; --muted:#ADA08B; --rule:#3A3128; --card:#211B15; --border:#4D4234; --hot:#E07A6C; --cool:#8FB4DA; color-scheme:dark}
+*,*::before,*::after{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--fg);font:400 18px/1.62 var(--body);
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));overflow-x:hidden}
+.wrap{max-width:720px;margin:0 auto;padding-block:28px 64px}
+a{color:inherit;text-decoration-color:var(--hot);text-underline-offset:3px}
+.kicker{font:500 12px/1 var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--muted);display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.kicker b{background:#A3261B;color:#fff;padding:5px 8px;font-weight:500}
+.byline{font:400 13px/1.4 var(--mono);color:var(--muted);margin-top:14px}
+h2{font:800 34px/1.04 var(--display);letter-spacing:-.01em;margin:54px 0 10px;text-wrap:balance}
+h2 .n{font:500 13px/1 var(--mono);color:var(--hot);display:block;letter-spacing:.1em;margin-bottom:10px}
+p{margin:0 0 16px}
+.lede::first-letter{font:400 76px/.8 var(--hand);float:left;margin:6px 10px 0 0;color:var(--hot)}
+.src{font:400 12px/1.45 var(--mono);color:var(--muted);margin-top:10px}
+ul.plain{padding-left:20px} ul.plain li{margin:4px 0}
+details{border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);padding:10px 0;margin:18px 0;font-size:16px}
+summary{font:500 13px/1.4 var(--mono);letter-spacing:.06em;text-transform:uppercase;cursor:pointer;color:var(--muted)}
+.cta{display:flex;flex-wrap:wrap;gap:10px;margin:30px 0 0}
+.cta a{font:500 13px/1 var(--mono);text-decoration:none;border:1px solid var(--fg);padding:11px 14px;border-radius:3px}
+.cta a.p{background:#A3261B;border-color:#A3261B;color:#fff}
+footer{border-top:6px double var(--fg);margin-top:56px;padding-top:16px;font:400 13px/1.55 var(--mono);color:var(--muted)}
+footer p{margin:0 0 10px}
+.theme{font:500 12px/1 var(--mono);background:var(--card);color:var(--fg);border:1px solid var(--border);border-radius:3px;padding:4px 8px;cursor:pointer;min-height:28px}
+.figure{margin:22px 0}
+.figure img{width:100%;display:block;border:1px solid var(--border)}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin:22px 0}
+.stat{border:1px solid var(--border);background:var(--card);padding:10px 12px}
+.stat b{display:block;font:800 30px/1 var(--display);color:var(--hot)}
+.stat span{font:400 12.5px/1.35 var(--mono);color:var(--muted)}
+table.words{border-collapse:collapse;width:100%;font:400 13px/1.35 var(--mono);margin:12px 0}
+table.words th,table.words td{border-bottom:1px solid var(--rule);padding:5px 6px;text-align:left;vertical-align:top}
+table.words th{font-weight:500;color:var(--muted)}
+.tw{overflow-x:auto}
+.sw{display:inline-block;width:11px;height:11px;border-radius:50%;border:1.2px solid #2B2119;vertical-align:-1px;margin-right:5px}
+
+/* ---- the map ---- */
+.topbar{height:40px;display:flex;align-items:center;gap:14px;margin:0 calc(-1 * max(16px,env(safe-area-inset-left,0px)));padding:0 max(14px,env(safe-area-inset-left,0px));border-bottom:3px double var(--fg);background:var(--bg);overflow:hidden;white-space:nowrap}
+.tb-name{font:400 19px/1 var(--hand);color:var(--hot);text-decoration:none;letter-spacing:.03em}
+.tb-k{font:500 11px/1 var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+.tb-links{margin-left:auto;display:flex;gap:16px;align-items:center;font:500 12px/1 var(--mono)}
+.tb-links a{text-decoration:none}.tb-links a:hover{text-decoration:underline}
+.mapband{width:100vw;margin-left:calc(50% - 50vw)}
+#map{position:relative;height:calc(100vh - 43px);height:calc(100svh - 43px);min-height:460px;border-bottom:1px solid #BCA676;background:#F3E5BF;overflow:hidden}
+#map::after{content:"";position:absolute;inset:0;pointer-events:none;z-index:2;box-shadow:inset 0 0 90px rgba(120,84,30,.22), inset 0 0 18px rgba(120,84,30,.18)}
+.cartouche{position:absolute;left:14px;top:14px;z-index:5;max-width:min(330px,calc(100% - 28px));background:rgba(251,243,220,.95);color:#2B2119;border:2px solid #2B2119;outline:1px solid #2B2119;outline-offset:-6px;padding:10px 14px;box-shadow:0 3px 14px rgba(60,40,10,.22)}
+.cartouche::before,.cartouche::after{content:"";position:absolute;width:9px;height:9px;background:#A3261B;border:1px solid #2B2119;border-radius:50%}
+.cartouche::before{left:-6px;top:-6px}.cartouche::after{right:-6px;bottom:-6px}
+.cartouche h1{font:900 clamp(21px,2.2vw,28px)/1.02 var(--display);letter-spacing:-.015em;margin:6px 0 0;color:#2B2119}
+.cartouche h1 .a{color:#A3261B;font-family:var(--hand);font-weight:400;letter-spacing:.03em}
+.cartouche .dek{font-size:13.5px;line-height:1.36;margin:6px 0 0;color:#2B2119}
+.cartouche .byline{font:400 11px/1.35 var(--mono);color:#6E604E;margin-top:6px}
+.cartouche .kicker{color:#6E604E}
+.ct-fold{position:absolute;right:6px;top:5px;width:26px;height:26px;border:0;background:none;color:#A3261B;font:400 18px/1 var(--hand);cursor:pointer;padding:0}
+.ct-toggle{display:none;font:400 17px/1 var(--hand);color:#A3261B;background:none;border:0;padding:2px 0;cursor:pointer;min-height:30px}
+.cartouche.folded .ct-body,.cartouche.folded .ct-fold{display:none}.cartouche.folded .ct-toggle{display:block}.cartouche.folded{padding:4px 11px}
+.ov{position:absolute;z-index:5;font:400 13px/1.3 var(--mono);color:#2B2119}
+.ov-top{right:54px;top:10px;max-width:calc(100% - 420px);display:flex;flex-direction:column;gap:6px;align-items:flex-end;pointer-events:none}
+.ov-top>*{pointer-events:auto}
+.srch{position:relative;width:min(340px,100%)}
+.srch input{width:100%;font:400 15px/1 var(--mono);background:rgba(251,245,228,.96);color:#2B2119;border:1px solid #9C8656;border-radius:3px;padding:9px 10px;min-height:40px;box-shadow:0 1px 4px rgba(60,40,10,.18)}
+.srch input:focus-visible,.chip:focus-visible,.lp label:focus-within,.lp select:focus-visible{outline:2px solid #A3261B;outline-offset:2px}
+.sug{position:absolute;left:0;right:0;top:100%;margin:2px 0 0;padding:0;list-style:none;background:#FBF5E4;border:1px solid #9C8656;max-height:300px;overflow:auto;display:none;box-shadow:0 3px 10px rgba(60,40,10,.2);z-index:12}
+.sug li{padding:8px 10px;cursor:pointer;border-bottom:1px solid #E7D9B6}
+.sug li span{color:#7A6A52;font-size:12px}
+.sug li[aria-selected="true"],.sug li:hover{background:#EFE1BC}
+.chips{display:flex;gap:6px;overflow-x:auto;max-width:100%;scrollbar-width:none;padding-bottom:2px;justify-content:flex-end;flex-wrap:wrap}
+.chips::-webkit-scrollbar{display:none}
+.chip{flex:0 0 auto;font:500 12px/1 var(--mono);background:rgba(251,245,228,.94);color:#2B2119;border:1px solid #9C8656;border-radius:999px;padding:7px 10px;cursor:pointer;min-height:32px;white-space:nowrap;box-shadow:0 1px 3px rgba(60,40,10,.14);display:inline-flex;align-items:center;gap:6px}
+.chip:hover{background:#EFE1BC}
+.chip.lyr{background:#2B2119;color:#F6EED8;border-color:#2B2119}
+.chip.off{opacity:.42;text-decoration:line-through}
+.chip i{display:inline-block;width:12px;height:12px;border-radius:50%;border:1.3px solid #2B2119}
+.lp{position:absolute;right:54px;top:118px;z-index:9;background:rgba(251,245,228,.98);border:1px solid #9C8656;border-radius:4px;padding:10px 12px 8px;font:400 13px/1.3 var(--mono);color:#2B2119;box-shadow:0 3px 12px rgba(60,40,10,.25);display:none;width:270px;max-height:calc(100% - 132px);overflow:auto}
+.lp.open{display:block}
+.lp h4{margin:0 0 6px;font:500 11px/1 var(--mono);letter-spacing:.1em;text-transform:uppercase;color:#7A6A52}
+.lp h5{margin:9px 0 1px;padding-top:7px;border-top:1px solid #E2D3AE;font:600 10.5px/1 var(--mono);letter-spacing:.12em;text-transform:uppercase;color:#A3261B}
+.lp label{display:flex;gap:8px;align-items:center;padding:4px 0;cursor:pointer;min-height:30px}
+.lp input{accent-color:#A3261B;width:16px;height:16px;flex:none}
+.lp select{width:100%;font:400 13px/1 var(--mono);padding:6px;border:1px solid #9C8656;border-radius:3px;background:#fff;color:#2B2119;min-height:34px;margin:3px 0 6px}
+.lp .note{font-size:11.5px;color:#6E604E;margin:2px 0 4px}
+.lgd{position:absolute;left:12px;bottom:42px;z-index:4;background:rgba(251,245,228,.94);border:1px solid #9C8656;border-radius:3px;padding:7px 9px;font:400 11.5px/1.3 var(--mono);color:#2B2119;max-width:250px;display:none}
+.lgd.on{display:block}
+.lgd .bar{display:flex;height:10px;margin:4px 0 2px;border:1px solid #2B2119}
+.lgd .bar span{flex:1}
+.lgd .ends{display:flex;justify-content:space-between;color:#6E604E}
+.ov-br{position:absolute;left:12px;bottom:12px;z-index:4;font:400 11px/1.2 var(--mono);color:#6E604E;background:rgba(251,245,228,.85);padding:5px 7px;border-radius:3px;border:1px solid #D3C29A}
+.maplibregl-popup-content{background:#FBF5E4;color:#2B2119;font:400 13px/1.45 var(--mono);border:1px solid #9C8656;border-radius:4px;padding:10px 12px;box-shadow:0 3px 12px rgba(60,40,10,.25);max-width:290px}
+.maplibregl-popup-content b.t{display:block;font:400 19px/1.15 var(--hand);color:#A3261B;margin-bottom:3px}
+.maplibregl-popup-content .m{color:#6E604E}
+.maplibregl-popup-content a{color:#A3261B}
+.maplibregl-popup-content .cb{display:flex;height:9px;margin:6px 0 3px;border:1px solid #2B2119}
+.maplibregl-popup-tip{border-top-color:#9C8656!important;border-bottom-color:#9C8656!important}
+.maplibregl-ctrl-attrib{font:400 11px/1.3 var(--mono)!important;background:rgba(251,245,228,.85)!important}
+.maplibregl-ctrl-group{background:#FBF5E4!important;border:1px solid #9C8656}
+.nojs{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;font:400 14px var(--mono);color:#6E604E;padding:20px;text-align:center}
+@media (max-width:1000px){.ov-top{left:10px;right:54px;max-width:none;align-items:flex-start}.chips{justify-content:flex-start}.lp{left:10px;right:auto}.cartouche{top:auto;bottom:44px}}
+@media (max-width:600px){
+  #map{height:calc(100svh - 43px - 64px);min-height:440px}
+  .tb-k,.tb-links a:not(:first-of-type){display:none}
+  .ov-top{left:8px;top:8px}
+  .chips{flex-wrap:nowrap;overflow-x:auto}
+  .lp{top:96px;left:8px;right:8px;width:auto}
+  .cartouche{left:8px;bottom:36px;max-width:calc(100% - 60px);padding:8px 11px}
+  .cartouche h1{font-size:21px}.cartouche .dek{display:none}
+  .ct-toggle{display:block}.ct-fold{display:none}
+  .lgd{bottom:auto;top:96px;max-width:calc(100% - 70px)}
+  .ov-br{display:none}
+  h2{font-size:28px}
+}
+
+.tl{position:absolute;left:50%;transform:translateX(-50%);bottom:14px;z-index:6;width:min(560px,calc(100% - 28px));background:rgba(251,245,228,.96);border:1px solid #9C8656;border-radius:4px;padding:8px 12px 6px;box-shadow:0 2px 10px rgba(60,40,10,.2);font:400 12.5px/1.3 var(--mono);color:#2B2119}
+.tl-row{display:flex;align-items:center;gap:10px}
+.tl button.play{flex:none;width:36px;height:36px;border-radius:50%;border:1px solid #2B2119;background:#A3261B;color:#fff;font:500 15px/1 var(--mono);cursor:pointer}
+.tl input[type=range]{flex:1;accent-color:#A3261B;min-height:30px}
+.tl .day{font:400 18px/1.1 var(--hand);color:#A3261B}
+.tl .cnt{color:#6E604E}
+.evs{display:flex;gap:6px;flex-wrap:wrap;justify-content:flex-end}
+.chip.on{background:#2B2119;color:#F6EED8;border-color:#2B2119}
+.lgd2{position:absolute;left:12px;bottom:96px;z-index:4;background:rgba(251,245,228,.94);border:1px solid #9C8656;border-radius:3px;padding:7px 9px;font:400 11.5px/1.45 var(--mono);color:#2B2119;max-width:230px}
+.lgd2 i{display:inline-block;width:11px;height:11px;border-radius:50%;border:1px solid #2B2119;vertical-align:-1px;margin-right:6px}
+.maplibregl-popup-content q{display:block;font:italic 400 13px/1.4 var(--body);margin:6px 0;color:#3B2F25}
+@media (max-width:1000px){.lgd2{bottom:auto;top:140px}}
+@media (max-width:600px){.lgd2{display:none}#map .cartouche{bottom:104px}#map .maplibregl-ctrl-bottom-right{bottom:92px}#map .maplibregl-ctrl-bottom-left{bottom:92px}.tl{bottom:8px;padding:6px 9px}.evs{justify-content:flex-start;flex-wrap:nowrap;overflow-x:auto}.tl .cnt{font-size:11px}}
+</style>
+</head>
+<body>
+<div class="topbar">
+  <a class="tb-name" href="#map">News speed</a>
+  <span class="tb-k">Data study · 2026</span>
+  <nav class="tb-links"><a href="#essay">About</a><button class="theme" id="theme" aria-label="Toggle dark mode">◐</button><a href="https://doi.org/10.5281/zenodo.24052721">Paper</a><a href="https://github.com/Tristan-Hotham/news-speed">Data and code</a></nav>
+</div>
+
+<div class="mapband">
+  <div id="map" data-fullscreen-map role="application" aria-label="Map of American newspapers coloured by how many days they took to print four great news stories">
+    <div class="nojs" id="nojs">Loading the map. It needs JavaScript and WebGL.</div>
+    <div class="cartouche" id="cartouche">
+      <button class="ct-toggle" id="ctToggle" aria-expanded="true" title="Show the title">How fast did news travel? ▾</button>
+      <button class="ct-fold" id="ctFold" title="Fold the title" aria-label="Fold the title">▴</button>
+      <div class="ct-body">
+        <div class="kicker"><b>Data study</b><span>2026</span></div>
+        <h1>How fast did <span class="a">news</span> travel?</h1>
+        <p class="dek">Four great stories and 936 American newspapers. Pick an event, press play and watch the news spread, day by day. Each dot is a paper; it fills in on the day its first report was printed. Tap one to read it.</p>
+        <div class="byline">Dr Tristan Hotham · Independent researcher · 2026</div>
+      </div>
+    </div>
+    <div class="ov ov-top">
+      <div class="srch"><input type="search" id="q" placeholder="Find a newspaper or town" aria-label="Find a newspaper or town" autocomplete="off"><ul class="sug" id="sug" role="listbox"></ul></div>
+      <div class="evs" id="evs"></div>
+      <div class="chips"><button class="chip lyr" id="lyrBtn" aria-expanded="false" aria-controls="lp">Layers</button></div>
+    </div>
+    <div class="lp" id="lp" role="dialog" aria-label="Map layers">
+      <h4>Newspapers</h4>
+      <label><input type="checkbox" id="ptsBox" checked> A dot for every newspaper</label>
+      <label><input type="checkbox" id="dailyBox"> Only daily papers</label>
+      <label><input type="checkbox" id="siteBox" checked> Where it happened, and the news hub</label>
+      <label><input type="checkbox" id="labBox" checked> Newspaper names when zoomed in</label>
+      <h5>The inked map</h5>
+      <label><input type="checkbox" data-g="mountains" checked> Ink mountains and hills</label>
+      <label><input type="checkbox" data-g="forests" checked> Forests, marsh and moor</label>
+      <label><input type="checkbox" data-g="biomes" checked> Deserts, grassland and ice</label>
+      <label><input type="checkbox" data-g="rivers" checked> Rivers and lakes</label>
+      <label><input type="checkbox" data-g="sea" checked> Sea shading and ripples</label>
+      <label><input type="checkbox" data-g="names" checked> Place names</label>
+      <label><input type="checkbox" data-g="borders" checked> Borders</label>
+      <label><input type="checkbox" data-g="roads"> Roads and tracks</label>
+      <label><input type="checkbox" data-g="tint" checked> Watercolour tints</label>
+      <label><input type="checkbox" data-g="hillshade"> Hill shading</label>
+      <label><input type="checkbox" id="modern"> Plain modern map, for finding your way</label>
+      <div class="note">Today's towns and borders, for orientation; the papers are placed at their town.</div>
+    </div>
+    <div class="lgd2" id="lgd"><b>Days to the first report</b><br><i style="background:#7A1D12"></i>next day or sooner<br><i style="background:#B0301F"></i>2 to 3 days<br><i style="background:#D9772B"></i>4 to 7 days<br><i style="background:#D9A21E"></i>8 to 14 days<br><i style="background:#8DA66B"></i>15 to 21 days<br><i style="background:#3D6E9E"></i>22 days or more<br><i style="background:#FFFDF6;border-color:#8C7B62"></i>not yet, or never found</div>
+    <div class="tl" id="tl">
+      <div class="tl-row"><button class="play" id="play" aria-label="Play the days">▶</button><input type="range" id="day" min="0" max="45" value="45" aria-label="Days after the event"></div>
+      <div class="tl-row" style="justify-content:space-between"><span class="day" id="dayLab"></span><span class="cnt" id="cnt" aria-live="polite"></span></div>
+    </div>
+  </div>
+</div>
+
+<div class="wrap" id="essay">
+<p class="lede" style="margin-top:26px">On the evening of 14 April 1865 Abraham Lincoln was shot at Ford's Theatre. By the next morning the news was in print in Cleveland, Nashville and New York, and the same day in Gold Hill, Nevada, 3,643 km away. But in Texas it took weeks. How fast did news really travel, and what slowed it down? I took four great American stories, from the telegraph age to the radio age, and checked 13,233 digitised issues of 936 newspapers for the first day each paper printed the news.</p>
+<p>The four are Lincoln's assassination (1865), Custer's defeat at the Little Bighorn (1876), the sinking of the Titanic (1912) and the attack on Pearl Harbor (1941). The pages come from Chronicling America, the Library of Congress's archive of digitised newspapers, as turned into searchable text by the American Stories project at Harvard. The map above plays each story day by day.</p>
+<div class="byline">Dr Tristan Hotham · Independent researcher · 2026 · Data: American Stories (CC BY 4.0) from Chronicling America (Library of Congress); places: Wikidata (CC0) and GeoNames (CC BY 4.0); map: OpenStreetMap via OpenFreeMap</div>
+
+<div class="stats">
+  <div class="stat"><b>1 day</b><span>median wait for a daily paper to print Lincoln's death, 1865</span></div>
+  <div class="stat"><b>11 days</b><span>before any paper in the sample had Custer's defeat</span></div>
+  <div class="stat"><b>41</b><span>papers in 27 states printed the Titanic news on the day she sank</span></div>
+  <div class="stat"><b>5 days</b><span>median wait for a weekly to print Pearl Harbor</span></div>
+</div>
+
+<h2><span class="n">01 · The answer</span>The telegraph had already won by 1865</h2>
+<p>The surprise is how little changed. A daily paper that printed Lincoln's death waited a median of 1 day; so did a daily printing the Titanic in 1912 (1) and Pearl Harbor in 1941 (1). Once a story reached a telegraph office, it was in every connected city by the next edition, whether that city was in Ohio or Nevada. What took time was the last step: most American papers were weeklies, and a weekly printed the news when its press day came round. Weeklies took a median of 7 days for Lincoln, 4 for the Titanic and 5 for Pearl Harbor.</p>
+<div class="figure"><img src="img/cadence.png" alt="Dot chart of median days to first report for daily and weekly newspapers for each of the four events" loading="lazy"><p class="src">Median days from the event to the first report, for daily papers (filled) and weekly papers (open).</p></div>
+<p>So for most papers, the news missed no issue at all: 62% of the papers that reported Lincoln's death did so in their first issue after it, and 65% for the Titanic. The curves below climb in steps, each step a press day.</p>
+<div class="figure"><img src="img/curves.png" alt="Cumulative curves of the share of newspapers that had printed each story, by day" loading="lazy"><p class="src">Share of the papers with an issue in the first fortnight that had printed the story, by days after the event.</p></div>
+
+<h2><span class="n">02 · 1865</span>A country split by war</h2>
+<p>Lincoln died as the Civil War ended, and much of the South's telegraph and railway was wrecked. Papers in the states of the former Confederacy took a median of 11 days to print his death, against 6 days elsewhere. In South Carolina, where Sherman's army had passed weeks before, it was 10.5 days. The Texas papers in the sample took three to four weeks, and in Honolulu, then capital of an independent kingdom reached only by ship, The Pacific Commercial Advertiser printed it after 29 days. Yet Gold Hill in Nevada, on the transcontinental line, had it the day after the shooting.</p>
+<div class="figure"><img src="img/lincoln.png" alt="Strip plot of days to report Lincoln's death by state, with former Confederate states in red" loading="lazy"><p class="src">Each dot is a newspaper's first report of Lincoln's death; red marks the states of the former Confederacy.</p></div>
+
+<h2><span class="n">03 · 1876</span>Custer: the slowest mile</h2>
+<p>The Little Bighorn shows where the real delay lay. The battle was fought on 25 June 1876 in Montana Territory, days from the nearest telegraph. No paper in the sample printed it for 11 days. Then, on 6 July, it was everywhere at once: 12 papers in 9 states and territories printed it that day, from New York and Washington to Cheyenne and Nevada. Distance from the battlefield made no difference after that; the wire did not care. The Montana weeklies in the sample show it late, but their surviving pages are few, so that says more about the archive than about Montana.</p>
+<div class="figure"><img src="img/custer.png" alt="Bar chart of first reports of the Little Bighorn by date, coloured by region" loading="lazy"><p class="src">Newspapers printing Custer's defeat for the first time, by date and region.</p></div>
+
+<h2><span class="n">04 · Distance</span>Far did not mean late</h2>
+<p>Plot each paper's delay against its distance from where the news entered the wires and there is almost no pattern among the dailies. In 1912 the two Honolulu dailies printed the Titanic news on 15 April, the day she sank, 7,982 km from New York; in 1941 the Daily Alaska Empire in Juneau had Pearl Harbor the same day. The spread in each panel comes from how often the paper was printed, not where it was.</p>
+<div class="figure"><img src="img/distance.png" alt="Four scatter plots of days to first report against distance in kilometres" loading="lazy"><p class="src">Days to the first report against great-circle distance from Washington (1865, 1941), the battlefield (1876) or New York (1912).</p></div>
+
+<h2><span class="n">05 · Method</span>How I did this</h2>
+<p>For each event the dataset holds every digitised page in a window of six to ten weeks afterwards, with a flag where the page text matched the event's name (Lincoln, Custer, Titanic, Pearl Harbor) and a short snippet round the match. A name is not a story: Lincoln County and Custer City were always in the news. So a page counts as reporting the event only if it is dated on or after the first day the news could have been printed and its snippet contains a word about the event itself (assassination, massacre, iceberg, attack, and so on). I read the first report of every paper that was early, short of a clear word, or might be about something else (290 snippets) and threw out 9; in a random check of 60 others, 59 were plainly about the event and 1 was unclear.</p>
+<p>For each paper I then took the first issue after the news could have arrived and the first issue that reports it, counting days from the event and the issues in between. A paper counts if it has a digitised issue in the first fortnight (145 papers for Lincoln, 216 for Custer, 566 for the Titanic, 69 for Pearl Harbor). A paper came out daily if its issues were at most two days apart, weekly if five or more. Each paper is placed at the town in its Library of Congress title, matched to Wikidata and GeoNames (850 of 936 placed).</p>
+<details><summary>Caveats</summary>
+<ul class="plain">
+<li>The digitised papers are a sample: what libraries chose to scan, with many more small-town weeklies than big-city dailies, and few papers for 1941.</li>
+<li>OCR misses words, and the dataset keeps only text it could lay out as articles, so a paper may have printed the news an issue before the first page found here. Delays are upper bounds.</li>
+<li>Only the snippet round the first name match on each page is checked. A page that reports the event further down, after an unrelated mention, may be missed.</li>
+<li>Pearl Harbor was often reported as "Hawaii" or simply "the war", which the name match cannot see; that is one reason only 62% of papers show it.</li>
+<li>Dates are the issue dates printed on the paper. Weeklies were often printed a day or two before their date.</li>
+</ul></details>
+
+<details><summary>Sources and licences</summary>
+<ul class="plain">
+<li>Dell, M. et al. (2023) American Stories: a large-scale structured text dataset of historical US newspapers. arXiv:2308.12477. Dataset CC BY 4.0.</li>
+<li>Chronicling America, Library of Congress: the page scans and OCR behind American Stories.</li>
+<li>Places: Wikidata (CC0) and GeoNames cities500 (CC BY 4.0). State outlines: Natural Earth (public domain).</li>
+<li>Map: OpenStreetMap contributors (ODbL), vector tiles by OpenFreeMap; the Inked World map style from the ink-map study; elevation from AWS Terrain Tiles. MapLibre GL JS 4.7.1 (BSD 3-Clause).</li>
+</ul></details>
+
+<div class="cta"><a class="p" href="https://doi.org/10.5281/zenodo.24052721">Read the paper</a><a href="https://github.com/Tristan-Hotham/news-speed">Data and code</a><a href="https://blog.tristanhotham.com/2026/10/31/news-speed/">Blog post</a></div>
+
+<footer>
+<p>Dr Tristan Hotham, Independent researcher. ORCID <a href="https://orcid.org/0000-0003-4931-9349">0000-0003-4931-9349</a>.</p>
+<p>Cite as: Hotham, T. (2026) How fast did news travel? Four American stories in digitised newspapers, 1865 to 1941. Zenodo. <a href="https://doi.org/10.5281/zenodo.24052721">10.5281/zenodo.24052721</a></p>
+<p>Code: <a href="https://github.com/Tristan-Hotham/news-speed">github.com/Tristan-Hotham/news-speed</a> (MIT). Text, figures and derived data CC BY 4.0. Newspaper text from American Stories (CC BY 4.0); places from Wikidata (CC0) and GeoNames (CC BY 4.0); map data © OpenStreetMap contributors (ODbL).</p>
+<p>I wrote the text, with drafting and editing assistance from Claude (Anthropic), which also helped prepare the analysis code. I reviewed and checked all text and results.</p>
+</footer>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+<script src="js/curated.js?v=1"></script>
+<script src="js/ink-palette.js?v=1"></script>
+<script src="js/ink-icons.js?v=1"></script>
+<script src="js/ink-houses.js?v=1"></script>
+<script src="js/ink-map.js?v=1"></script>
+<script src="js/ink-extras.js?v=1"></script>
+<script>
+(function () {
+  const qs = new URLSearchParams(location.search);
+  const phone = matchMedia('(max-width:600px)').matches;
+  const opts = { workerConfig: { heritage: '', hills: '', places: '' } };
+  opts.mapOptions = { center: [-96, 38.5], zoom: phone ? 2.35 : 3.55 };
+  const $ = id => document.getElementById(id);
+  const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+  const COLS = ['#7A1D12', '#B0301F', '#D9772B', '#D9A21E', '#8DA66B', '#3D6E9E'];
+  const MAXD = { lincoln1865: 45, custer1876: 50, titanic1912: 45, pearl1941: 24 };
+  const HUBS = { lincoln1865: [[-77.0257, 38.8967, "Ford's Theatre"]], custer1876: [[-107.4276, 45.5703, 'Little Bighorn'], [-111.0429, 45.677, 'Bozeman, first word 3 July'], [-111.891, 40.7608, 'Salt Lake City relay']],
+                 titanic1912: [[-49.9469, 41.7325, 'Titanic sank here'], [-74.006, 40.7128, 'New York']], pearl1941: [[-157.9507, 21.3649, 'Pearl Harbor'], [-77.0364, 38.8951, 'Washington']] };
+  let D = null, map = null, cur = qs.get('ev') || 'lincoln1865', day = 45, timer = null, dailyOnly = false;
+  const ct = $('cartouche');
+  const fold = f => { ct.classList.toggle('folded', f); $('ctToggle').setAttribute('aria-expanded', String(!f)); };
+  if (phone) fold(true);
+  $('ctToggle').addEventListener('click', () => fold(!ct.classList.contains('folded')));
+  $('ctFold').addEventListener('click', () => fold(true));
+  document.addEventListener('fullscreenchange', () => { if (document.fullscreenElement) fold(true); });
+
+  const dataP = fetch('data/points.json').then(r => r.json());
+  InkMap.create('map', opts).then(m => {
+    map = window.__map = m; window.__popup = (i, ll) => popup(i, ll);
+    $('nojs').remove();
+    const foldAttr = () => { const at = document.querySelector('.maplibregl-ctrl-attrib.maplibregl-compact'); if (at) { at.classList.remove('maplibregl-compact-show'); at.removeAttribute('open'); } };
+    map.once('idle', foldAttr); foldAttr();
+    map.addControl(new maplibregl.NavigationControl({ showCompass: false }), 'bottom-right');
+    if (InkMap.setWinter) InkMap.setWinter(map, false);
+    ['heritage', 'flight', 'animals', 'farms', 'towns', 'roads'].forEach(g => InkMap.setGroup(map, g, false));
+    const isDark = () => { const r = document.documentElement; return r.dataset.theme ? r.dataset.theme === 'dark' : matchMedia('(prefers-color-scheme: dark)').matches; };
+    const tone = () => InkMap.setSeaTone && InkMap.setSeaTone(map, isDark());
+    tone(); new MutationObserver(tone).observe(document.documentElement, { attributes: true, attributeFilter: ['data-theme'] });
+    dataP.then(d => { D = d; addLayers(); buildUI(); setEvent(cur, true); }).catch(e => console.error('points', e));
+    setupLayers();
+  }).catch(e => { console.error(e); const n = $('nojs'); if (n) n.textContent = 'The map could not load: ' + e.message; });
+
+  function firstSymbol() { const ls = map.getStyle().layers; const l = ls.find(x => x.metadata && x.metadata.group === 'names'); return l ? l.id : undefined; }
+  function addLayers() {
+    const feats = D.p.map((r, i) => ({ type: 'Feature', id: i, geometry: { type: 'Point', coordinates: [r[0], r[1]] }, properties: { e: D.ev[r[2]], d: r[3], c: r[8] === 'daily' ? 1 : 0, n: r[5] } }));
+    map.addSource('pts', { type: 'geojson', data: { type: 'FeatureCollection', features: feats }, attribution: 'Newspapers: <a href="https://chroniclingamerica.loc.gov/" target="_blank">Chronicling America</a> via American Stories (CC BY 4.0)' });
+    const col = ['step', ['get', 'd'], COLS[0], 2, COLS[1], 4, COLS[2], 8, COLS[3], 15, COLS[4], 22, COLS[5]];
+    const rad = ['interpolate', ['linear'], ['zoom'], 2, 3.2, 5, 5.5, 9, 9];
+    map.addLayer({ id: 'pts-wait', type: 'circle', source: 'pts', paint: { 'circle-color': '#FFFDF6', 'circle-stroke-color': '#8C7B62', 'circle-stroke-width': 1.1, 'circle-radius': ['interpolate', ['linear'], ['zoom'], 2, 2.6, 5, 4.5, 9, 7.5], 'circle-opacity': 0.9 } });
+    map.addLayer({ id: 'pts-done', type: 'circle', source: 'pts', paint: { 'circle-color': col, 'circle-stroke-color': '#2B2119', 'circle-stroke-width': 0.8, 'circle-radius': rad } });
+    map.addLayer({ id: 'pts-names', type: 'symbol', source: 'pts', minzoom: 7, layout: { 'text-field': ['get', 'n'], 'text-font': ['Ink Italic'], 'text-size': 12, 'text-variable-anchor': ['left', 'right', 'top'], 'text-radial-offset': 0.8, 'text-max-width': 10 },
+      paint: { 'text-color': '#2B2119', 'text-halo-color': 'rgba(246,238,216,0.92)', 'text-halo-width': 1.4 } });
+    const sites = []; Object.entries(HUBS).forEach(([e, hs]) => hs.forEach((h, k) => sites.push({ type: 'Feature', geometry: { type: 'Point', coordinates: [h[0], h[1]] }, properties: { e, n: h[2], k } })));
+    map.addSource('sites', { type: 'geojson', data: { type: 'FeatureCollection', features: sites } });
+    map.addLayer({ id: 'sites', type: 'circle', source: 'sites', paint: { 'circle-radius': ['case', ['==', ['get', 'k'], 0], 9, 6], 'circle-color': ['case', ['==', ['get', 'k'], 0], '#A3261B', '#FFFDF6'], 'circle-stroke-color': '#2B2119', 'circle-stroke-width': 2 } });
+    map.addLayer({ id: 'sites-lab', type: 'symbol', source: 'sites', layout: { 'text-field': ['get', 'n'], 'text-font': ['Ink Italic'], 'text-size': 15, 'text-anchor': 'top', 'text-offset': [0, 0.9] },
+      paint: { 'text-color': '#A3261B', 'text-halo-color': 'rgba(246,238,216,0.95)', 'text-halo-width': 1.8 } });
+    ['pts-wait', 'pts-done'].forEach(l => {
+      map.on('click', l, e => popup(e.features[0].id, e.lngLat));
+      map.on('mouseenter', l, () => map.getCanvas().style.cursor = 'pointer');
+      map.on('mouseleave', l, () => map.getCanvas().style.cursor = '');
+    });
+  }
+  function fdate(s) { if (!s) return ''; const d = new Date(s + 'T12:00:00Z'); return d.toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' }); }
+  function popup(i, ll) {
+    const r = D.p[i], ev = D.ev[r[2]], M = D.meta[ev];
+    const ca = 'https://chroniclingamerica.loc.gov/lccn/' + r[11] + '/';
+    let h = '<b class="t">' + esc(r[5] || 'Untitled paper') + '</b><div class="m">' + esc([r[6], r[7]].filter(Boolean).join(', ')) + ' · ' + esc(r[8] === 'unknown' ? 'publication rhythm unknown' : r[8]) + (r[16] ? ' · placed from its name' : '') + '</div>';
+    if (r[3] >= 0) {
+      h += '<div style="margin-top:5px"><b>' + r[3] + ' day' + (r[3] === 1 ? '' : 's') + '</b> after the event: first report on ' + fdate(r[10]) + (r[4] > 0 ? ', after ' + r[4] + ' issue' + (r[4] > 1 ? 's' : '') + ' without it' : ', in its first issue after the news broke') + '.</div>';
+      if (r[13]) h += '<q>…' + esc(r[13]) + '…</q>';
+      h += '<div><a href="' + ca + r[10] + '/ed-1/seq-' + r[12] + '/" target="_blank" rel="noopener">See the page</a> · <a href="' + ca + '" target="_blank" rel="noopener">The paper</a></div>';
+    } else {
+      h += '<div style="margin-top:5px">No report found in the digitised pages of its issues in the window' + (r[15] ? '' : ' (its first issue after the news is more than a fortnight later)') + '.</div><div><a href="' + ca + '" target="_blank" rel="noopener">The paper at Chronicling America</a></div>';
+    }
+    h += '<div class="m" style="margin-top:4px">' + Math.round(r[14]).toLocaleString('en-GB') + ' km from ' + esc(M.hub) + '</div>';
+    const pop = new maplibregl.Popup({ maxWidth: '300px' }).setLngLat(ll || [r[0], r[1]]).setHTML(h).addTo(map);
+    // keep the popup clear of the title card and the top edge: pan the map until it is
+    requestAnimationFrame(() => {
+      const el = pop.getElement(); if (!el) return;
+      const p = el.getBoundingClientRect(), mr = map.getContainer().getBoundingClientRect();
+      let dx = 0, dy = 0;
+      if (!ct.classList.contains('folded')) {
+        const c = ct.getBoundingClientRect();
+        if (p.left < c.right + 10 && p.right > c.left && p.top < c.bottom + 10 && p.bottom > c.top) {
+          const right = c.right + 12 - p.left, down = c.bottom + 12 - p.top;
+          if (right <= down || p.right + right < mr.right) dx = right; else dy = down;
+        }
+      }
+      // and clear of the search box, event chips and layers button at the top of the map
+      let top = mr.top + 8;
+      document.querySelectorAll('.srch, #evs, #lyrBtn').forEach(o => { const q = o.getBoundingClientRect(); if (q.width && q.left < p.right + dx && q.right > p.left + dx && q.top < p.top + dy + 40) top = Math.max(top, q.bottom + 8); });
+      if (p.top + dy < top) dy = top - p.top;
+      if (dx || dy) map.panBy([-dx, -dy], { duration: 300 });
+    });
+  }
+  function applyFilter() {
+    if (!map || !map.getLayer('pts-done')) return;
+    const base = ['all', ['==', ['get', 'e'], cur]]; if (dailyOnly) base.push(['==', ['get', 'c'], 1]);
+    map.setFilter('pts-done', [...base, ['>=', ['get', 'd'], 0], ['<=', ['get', 'd'], day]]);
+    map.setFilter('pts-wait', [...base, ['any', ['<', ['get', 'd'], 0], ['>', ['get', 'd'], day]]]);
+    map.setFilter('pts-names', base);
+    map.setFilter('sites', ['==', ['get', 'e'], cur]); map.setFilter('sites-lab', ['==', ['get', 'e'], cur]);
+    const M = D.meta[cur];
+    let n = 0, got = 0;
+    D.p.forEach(r => { if (D.ev[r[2]] !== cur || !r[15] || (dailyOnly && r[8] !== 'daily')) return; n++; if (r[3] >= 0 && r[3] <= day) got++; });
+    const d0 = new Date(M.day0 + 'T12:00:00Z'); d0.setUTCDate(d0.getUTCDate() + day);
+    $('dayLab').textContent = 'Day ' + day + ' · ' + d0.toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric', timeZone: 'UTC' });
+    $('cnt').textContent = got + ' of ' + n + ' papers on the map have printed it';
+  }
+  function setEvent(ev, init) {
+    cur = ev; stop();
+    const sl = $('day'); sl.max = MAXD[ev]; day = MAXD[ev]; sl.value = day;
+    document.querySelectorAll('#evs .chip').forEach(b => { const on = b.dataset.ev === ev; b.classList.toggle('on', on); b.setAttribute('aria-pressed', String(on)); });
+    applyFilter();
+  }
+  function stop() { if (timer) { clearInterval(timer); timer = null; } $('play').textContent = '▶'; $('play').setAttribute('aria-label', 'Play the days'); }
+  function play() {
+    if (timer) { stop(); return; }
+    if (day >= +$('day').max) day = 0;
+    $('play').textContent = '❚❚'; $('play').setAttribute('aria-label', 'Pause');
+    applyFilter(); $('day').value = day;
+    timer = setInterval(() => { day++; $('day').value = day; applyFilter(); if (day >= +$('day').max) stop(); }, 520);
+  }
+  function buildUI() {
+    const evs = $('evs');
+    D.ev.forEach(ev => { const b = document.createElement('button'); b.className = 'chip'; b.dataset.ev = ev; b.textContent = D.meta[ev].short + ' ' + D.meta[ev].year; b.title = D.meta[ev].what; b.addEventListener('click', () => setEvent(ev)); evs.appendChild(b); });
+    $('day').addEventListener('input', e => { stop(); day = +e.target.value; applyFilter(); });
+    $('play').addEventListener('click', play);
+    $('dailyBox').addEventListener('change', e => { dailyOnly = e.target.checked; applyFilter(); });
+    $('ptsBox').addEventListener('change', e => ['pts-done', 'pts-wait'].forEach(l => map.setLayoutProperty(l, 'visibility', e.target.checked ? 'visible' : 'none')));
+    $('siteBox').addEventListener('change', e => ['sites', 'sites-lab'].forEach(l => map.setLayoutProperty(l, 'visibility', e.target.checked ? 'visible' : 'none')));
+    $('labBox').addEventListener('change', e => map.setLayoutProperty('pts-names', 'visibility', e.target.checked ? 'visible' : 'none'));
+    setupSearch();
+  }
+  function setupLayers() {
+    const lp = $('lp'), btn = $('lyrBtn');
+    btn.addEventListener('click', e => { e.stopPropagation(); const o = lp.classList.toggle('open'); btn.setAttribute('aria-expanded', o); });
+    document.addEventListener('click', e => { if (!lp.contains(e.target) && e.target !== btn) { lp.classList.remove('open'); btn.setAttribute('aria-expanded', false); } });
+    const boxes = [...lp.querySelectorAll('input[data-g]')], modern = $('modern');
+    const NAME_LAYERS = map.getStyle().layers.filter(l => l.type === 'symbol' && l.metadata && ['names', 'rivers'].includes(l.metadata.group)).map(l => l.id);
+    const saved = {}; NAME_LAYERS.forEach(id => saved[id] = { c: map.getPaintProperty(id, 'text-color'), h: map.getPaintProperty(id, 'text-halo-color') });
+    function apply() {
+      const m = modern.checked;
+      boxes.forEach(b => { const g = b.dataset.g; const inkOnly = ['mountains', 'forests', 'biomes', 'sea', 'tint'].includes(g); InkMap.setGroup(map, g, b.checked && !(m && inkOnly)); });
+      InkMap.setGroup(map, 'paper', !m); InkMap.setGroup(map, 'modern', m); InkMap.setGroup(map, 'coast', !m);
+      NAME_LAYERS.forEach(id => { map.setPaintProperty(id, 'text-color', m ? '#333333' : saved[id].c); map.setPaintProperty(id, 'text-halo-color', m ? 'rgba(255,255,255,0.9)' : saved[id].h); });
+    }
+    boxes.forEach(b => b.addEventListener('change', apply)); modern.addEventListener('change', apply);
+  }
+  function setupSearch() {
+    const q = $('q'), sug = $('sug');
+    const norm = s => String(s).normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+    let sel = -1, items = [];
+    function show(list) {
+      items = list; sel = -1;
+      sug.innerHTML = list.map((it, k) => '<li role="option" data-k="' + k + '">' + esc(it.t) + ' <span>' + esc(it.s) + '</span></li>').join('');
+      sug.style.display = list.length ? 'block' : 'none';
+    }
+    function go(it) {
+      sug.style.display = 'none'; q.value = it.t;
+      const r = D.p[it.i]; if (D.ev[r[2]] !== cur) setEvent(D.ev[r[2]]);
+      map.flyTo({ center: [r[0], r[1]], zoom: Math.max(map.getZoom(), 8), duration: 1600 }); map.once('moveend', () => popup(it.i));
+    }
+    q.addEventListener('input', () => {
+      const v = norm(q.value.trim()); if (v.length < 2) { show([]); return; }
+      const out = [];
+      D.p.forEach((r, i) => { if (out.length >= 12) return; if (D.ev[r[2]] !== cur) return; if (norm(r[5]).includes(v) || norm(r[6]).startsWith(v)) out.push({ t: r[5] || r[6], s: r[6] + ', ' + r[7], i }); });
+      if (out.length < 4) D.p.forEach((r, i) => { if (out.length >= 12 || D.ev[r[2]] === cur) return; if (norm(r[5]).includes(v) || norm(r[6]).startsWith(v)) out.push({ t: r[5] || r[6], s: r[6] + ', ' + r[7] + ' · ' + D.meta[D.ev[r[2]]].short, i }); });
+      show(out);
+    });
+    q.addEventListener('keydown', e => {
+      const lis = [...sug.children];
+      if (e.key === 'ArrowDown' || e.key === 'ArrowUp') { e.preventDefault(); sel = Math.max(0, Math.min(lis.length - 1, sel + (e.key === 'ArrowDown' ? 1 : -1))); lis.forEach((l, k) => l.setAttribute('aria-selected', k === sel)); }
+      else if (e.key === 'Enter' && items.length) { e.preventDefault(); go(items[Math.max(sel, 0)]); }
+      else if (e.key === 'Escape') sug.style.display = 'none';
+    });
+    sug.addEventListener('click', e => { const li = e.target.closest('li'); if (li) go(items[+li.dataset.k]); });
+  }
+  $('theme').addEventListener('click', () => { const r = document.documentElement; const dark = r.dataset.theme ? r.dataset.theme === 'dark' : matchMedia('(prefers-color-scheme: dark)').matches; r.dataset.theme = dark ? 'light' : 'dark'; });
+})();
+</script>
+<!-- map-fullscreen v1 -->
+<style id="mfs-style">
+.mfs-btn{position:absolute;top:10px;right:10px;z-index:1001;width:34px;height:34px;border:2px solid rgba(0,0,0,.25);border-radius:4px;background:#fff;color:#222;cursor:pointer;display:flex;align-items:center;justify-content:center;padding:0;box-shadow:0 1px 4px rgba(0,0,0,.2)}
+.mfs-btn:hover{background:#f2f2f2}
+.mfs-btn svg{width:18px;height:18px}
+.mfs-host.mfs-btn-left .mfs-btn{right:auto;left:54px}
+.mfs-fake{position:fixed!important;inset:0!important;width:100vw!important;height:100vh!important;height:100dvh!important;max-width:none!important;max-height:none!important;margin:0!important;z-index:100000!important;border-radius:0!important}
+html.mfs-lock,html.mfs-lock body{overflow:hidden!important}
+:fullscreen.mfs-host{width:100vw!important;height:100vh!important;max-width:none!important;max-height:none!important;margin:0!important;border-radius:0!important}
+</style>
+<script id="mfs-script">
+(function(){
+  var ICON_OPEN='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/></svg>';
+  var ICON_CLOSE='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M9 4v5H4M15 4v5h5M9 20v-5H4M15 20v-5h5"/></svg>';
+  function poke(){setTimeout(function(){window.dispatchEvent(new Event('resize'));},60);setTimeout(function(){window.dispatchEvent(new Event('resize'));},400);}
+  function realFS(){return document.fullscreenElement||document.webkitFullscreenElement;}
+  function add(el){
+    if(el.__mfs)return; el.__mfs=1;
+    var cs=getComputedStyle(el); if(cs.position==='static')el.style.position='relative';
+    el.classList.add('mfs-host');
+    // avoid clashing with a top-right Leaflet control (e.g. "Map layers")
+    var tr=el.querySelector('.leaflet-top.leaflet-right');
+    if(tr&&tr.children.length){ el.classList.add('mfs-btn-left'); }
+    var b=document.createElement('button'); b.type='button'; b.className='mfs-btn';
+    b.title='Full screen map'; b.setAttribute('aria-label','Full screen map'); b.innerHTML=ICON_OPEN;
+    ['click','dblclick','mousedown','touchstart','wheel'].forEach(function(t){b.addEventListener(t,function(e){e.stopPropagation();},{passive:t!=='click'});});
+    function setIcon(on){b.innerHTML=on?ICON_CLOSE:ICON_OPEN;b.title=on?'Exit full screen':'Full screen map';b.setAttribute('aria-label',b.title);}
+    function exitFake(){el.classList.remove('mfs-fake');document.documentElement.classList.remove('mfs-lock');setIcon(false);poke();}
+    b.addEventListener('click',function(e){
+      e.preventDefault();
+      if(el.classList.contains('mfs-fake')){exitFake();return;}
+      if(realFS()){(document.exitFullscreen||document.webkitExitFullscreen).call(document);return;}
+      var req=el.requestFullscreen||el.webkitRequestFullscreen;
+      if(req){ try{ var p=req.call(el); if(p&&p.catch)p.catch(function(){el.classList.add('mfs-fake');document.documentElement.classList.add('mfs-lock');setIcon(true);poke();}); }catch(err){el.classList.add('mfs-fake');document.documentElement.classList.add('mfs-lock');setIcon(true);poke();} }
+      else { el.classList.add('mfs-fake');document.documentElement.classList.add('mfs-lock');setIcon(true);poke(); }
+    });
+    document.addEventListener('keydown',function(e){if(e.key==='Escape'&&el.classList.contains('mfs-fake'))exitFake();});
+    ['fullscreenchange','webkitfullscreenchange'].forEach(function(t){document.addEventListener(t,function(){setIcon(realFS()===el);poke();});});
+    el.appendChild(b);
+  }
+  function scan(){
+    var els=document.querySelectorAll('[data-fullscreen-map], .leaflet-container, .maplibregl-map, .mapboxgl-map');
+    els.forEach(function(el){
+      if(el.closest('.mfs-host')&&!el.classList.contains('mfs-host'))return;
+      var r=el.getBoundingClientRect(); if(r.width<200||r.height<150)return;
+      add(el);
+    });
+  }
+  function start(){scan(); var n=0; var t=setInterval(function(){scan(); if(++n>20)clearInterval(t);},500);}
+  if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',start); else start();
+})();
+</script>
+<!-- /map-fullscreen -->
+
+<script src="https://maps.tristanhotham.com/assets/site-nav.js" defer></script>
+</body>
+</html>

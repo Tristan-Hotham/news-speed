@@ -1,0 +1,469 @@
+{
+ "events": {
+  "lincoln1865": {
+   "papers": 159,
+   "eligible": 145,
+   "reported": 135,
+   "reported_pct": 93.10344827586206,
+   "issues": 2215,
+   "pages": 4436,
+   "hits": 2295,
+   "event_pages": 2027,
+   "median_days": 7.0,
+   "p25": 5.0,
+   "p75": 8.0,
+   "first_any": "1865-04-15",
+   "first_any_days": 1,
+   "daily_n": 24,
+   "weekly_n": 115,
+   "daily_median": 1.0,
+   "weekly_median": 7.0,
+   "first_issue_pct": 62.22222222222222,
+   "daily_first_issue_pct": 56.52173913043478,
+   "missed_median": 0.0,
+   "missed_since_median": 0.0,
+   "weekly_missed_since_median": 0.0,
+   "daily_missed_since_median": 0.0,
+   "wait_median": 0.0,
+   "loose_median": 6.0,
+   "by0": 0.0,
+   "by1": 8.275862068965518,
+   "by2": 8.275862068965518,
+   "by3": 13.10344827586207,
+   "by5": 28.96551724137931,
+   "by7": 58.62068965517241,
+   "by10": 73.10344827586206,
+   "by14": 83.44827586206897,
+   "by21": 88.96551724137932,
+   "geo_n": 126,
+   "rho": 0.3233801629266274,
+   "rho_p": 0.0002211818005740785,
+   "rho_daily": -0.16482454653423426,
+   "rho_daily_p": 0.45232052415228263,
+   "geo_daily_n": 23,
+   "bands": {
+    "0-500": {
+     "n": 40,
+     "median": 6.0
+    },
+    "500-1000": {
+     "n": 49,
+     "median": 7.0
+    },
+    "1000-2000": {
+     "n": 27,
+     "median": 7.0
+    },
+    "2000-3500": {
+     "n": 3,
+     "median": 15.0
+    },
+    "3500-99999": {
+     "n": 7,
+     "median": 8.0
+    }
+   },
+   "regions": {
+    "Northeast": {
+     "n": 33,
+     "median": 6.0
+    },
+    "South": {
+     "n": 33,
+     "median": 8.0
+    },
+    "Midwest": {
+     "n": 56,
+     "median": 6.0
+    },
+    "West": {
+     "n": 12,
+     "median": 8.0
+    }
+   },
+   "hub": "Washington",
+   "year": 1865
+  },
+  "custer1876": {
+   "papers": 231,
+   "eligible": 216,
+   "reported": 185,
+   "reported_pct": 85.64814814814815,
+   "issues": 3567,
+   "pages": 4970,
+   "hits": 1455,
+   "event_pages": 1347,
+   "median_days": 18.0,
+   "p25": 13.0,
+   "p75": 20.0,
+   "first_any": "1876-07-06",
+   "first_any_days": 11,
+   "daily_n": 35,
+   "weekly_n": 173,
+   "daily_median": 12.0,
+   "weekly_median": 18.0,
+   "first_issue_pct": 22.162162162162165,
+   "daily_first_issue_pct": 0.0,
+   "missed_median": 1.0,
+   "missed_since_median": 2.0,
+   "weekly_missed_since_median": 2.0,
+   "daily_missed_since_median": 8.5,
+   "wait_median": 7.0,
+   "loose_median": 18.0,
+   "by0": 0.0,
+   "by1": 0.0,
+   "by2": 0.0,
+   "by3": 0.0,
+   "by5": 0.0,
+   "by7": 0.0,
+   "by10": 0.0,
+   "by14": 27.314814814814813,
+   "by21": 66.20370370370371,
+   "geo_n": 179,
+   "rho": 0.07449561743127601,
+   "rho_p": 0.3216471185911664,
+   "rho_daily": -0.18976499529833124,
+   "rho_daily_p": 0.315193150311854,
+   "geo_daily_n": 30,
+   "bands": {
+    "0-500": {
+     "n": 4,
+     "median": 29.0
+    },
+    "500-1000": {
+     "n": 8,
+     "median": 15.0
+    },
+    "1000-2000": {
+     "n": 69,
+     "median": 18.0
+    },
+    "2000-3500": {
+     "n": 97,
+     "median": 18.0
+    },
+    "3500-99999": {
+     "n": 1,
+     "median": 38.0
+    }
+   },
+   "regions": {
+    "Northeast": {
+     "n": 33,
+     "median": 19.0
+    },
+    "South": {
+     "n": 72,
+     "median": 18.0
+    },
+    "Midwest": {
+     "n": 55,
+     "median": 18.0
+    },
+    "West": {
+     "n": 24,
+     "median": 13.5
+    }
+   },
+   "hub": "the battlefield",
+   "year": 1876
+  },
+  "titanic1912": {
+   "papers": 589,
+   "eligible": 566,
+   "reported": 497,
+   "reported_pct": 87.80918727915194,
+   "issues": 7046,
+   "pages": 17355,
+   "hits": 10568,
+   "event_pages": 8089,
+   "median_days": 4.0,
+   "p25": 3.0,
+   "p75": 9.0,
+   "first_any": "1912-04-15",
+   "first_any_days": 0,
+   "daily_n": 94,
+   "weekly_n": 450,
+   "daily_median": 1.0,
+   "weekly_median": 4.0,
+   "first_issue_pct": 64.58752515090544,
+   "daily_first_issue_pct": 58.24175824175825,
+   "missed_median": 0.0,
+   "missed_since_median": 0.0,
+   "weekly_missed_since_median": 0.0,
+   "daily_missed_since_median": 0.0,
+   "wait_median": 0.0,
+   "loose_median": 4.0,
+   "by0": 7.243816254416961,
+   "by1": 15.724381625441696,
+   "by2": 21.908127208480565,
+   "by3": 37.63250883392226,
+   "by5": 63.60424028268551,
+   "by7": 64.13427561837456,
+   "by10": 74.5583038869258,
+   "by14": 79.50530035335689,
+   "by21": 84.09893992932862,
+   "geo_n": 458,
+   "rho": 0.06606906376216139,
+   "rho_p": 0.15806230215484968,
+   "rho_daily": 0.19409316531056994,
+   "rho_daily_p": 0.07508849859672158,
+   "geo_daily_n": 85,
+   "bands": {
+    "0-500": {
+     "n": 58,
+     "median": 4.0
+    },
+    "500-1000": {
+     "n": 54,
+     "median": 4.0
+    },
+    "1000-2000": {
+     "n": 177,
+     "median": 4.0
+    },
+    "2000-3500": {
+     "n": 123,
+     "median": 4.0
+    },
+    "3500-99999": {
+     "n": 46,
+     "median": 4.0
+    }
+   },
+   "regions": {
+    "Northeast": {
+     "n": 37,
+     "median": 3.0
+    },
+    "South": {
+     "n": 168,
+     "median": 4.0
+    },
+    "Midwest": {
+     "n": 148,
+     "median": 4.0
+    },
+    "West": {
+     "n": 141,
+     "median": 4.0
+    }
+   },
+   "hub": "New York",
+   "year": 1912
+  },
+  "pearl1941": {
+   "papers": 71,
+   "eligible": 69,
+   "reported": 43,
+   "reported_pct": 62.31884057971015,
+   "issues": 405,
+   "pages": 1028,
+   "hits": 623,
+   "event_pages": 512,
+   "median_days": 4.0,
+   "p25": 3.0,
+   "p75": 8.5,
+   "first_any": "1941-12-07",
+   "first_any_days": 0,
+   "daily_n": 12,
+   "weekly_n": 52,
+   "daily_median": 1.0,
+   "weekly_median": 5.0,
+   "first_issue_pct": 65.11627906976744,
+   "daily_first_issue_pct": 54.54545454545454,
+   "missed_median": 0.0,
+   "missed_since_median": 0.0,
+   "weekly_missed_since_median": 0.0,
+   "daily_missed_since_median": 0.0,
+   "wait_median": 0.0,
+   "loose_median": 4.0,
+   "by0": 1.4492753623188406,
+   "by1": 14.492753623188406,
+   "by2": 14.492753623188406,
+   "by3": 17.391304347826086,
+   "by5": 42.028985507246375,
+   "by7": 46.3768115942029,
+   "by10": 46.3768115942029,
+   "by14": 59.42028985507246,
+   "by21": 62.31884057971015,
+   "geo_n": 41,
+   "rho": -0.21882320625771706,
+   "rho_p": 0.16927224161881652,
+   "rho_daily": 0.007456667517348202,
+   "rho_daily_p": 0.9836894467235675,
+   "geo_daily_n": 10,
+   "bands": {
+    "0-500": {
+     "n": 17,
+     "median": 5.0
+    },
+    "500-1000": {
+     "n": 4,
+     "median": 2.5
+    },
+    "1000-2000": {
+     "n": 6,
+     "median": 5.0
+    },
+    "2000-3500": {
+     "n": 7,
+     "median": 5.0
+    },
+    "3500-99999": {
+     "n": 7,
+     "median": 4.0
+    }
+   },
+   "regions": {
+    "Northeast": {
+     "n": 2,
+     "median": 2.5
+    },
+    "South": {
+     "n": 16,
+     "median": 5.0
+    },
+    "Midwest": {
+     "n": 10,
+     "median": 7.5
+    },
+    "West": {
+     "n": 14,
+     "median": 4.5
+    }
+   },
+   "hub": "Washington",
+   "year": 1941
+  }
+ },
+ "source": {
+  "papers": 936,
+  "pages": 27789,
+  "hits": 14941,
+  "issues": 13233,
+  "geocoded": 850,
+  "geocoded_pct": 90.8119658119658,
+  "geo_title": 772,
+  "geo_name": 78,
+  "geo_none": 86,
+  "states": 50
+ },
+ "review": {
+  "reviewed": 290,
+  "rejected": 9,
+  "sample": 60,
+  "sample_ok": 59,
+  "sample_ambiguous": 1
+ },
+ "ex": {
+  "gold_hill": {
+   "name": "Gold Hill daily news",
+   "city": "Gold Hill",
+   "state": "Nevada",
+   "days": 1,
+   "date": "1865-04-15",
+   "dist": 3643,
+   "cadence": "daily"
+  },
+  "honolulu_titanic": {
+   "name": "The Hawaiian star",
+   "city": "Honolulu",
+   "state": "Hawaii",
+   "days": 0,
+   "date": "1912-04-15",
+   "dist": 7982,
+   "cadence": "daily"
+  },
+  "juneau": {
+   "name": "The Daily Alaska empire",
+   "city": "Juneau",
+   "state": "Alaska",
+   "days": 0,
+   "date": "1941-12-07",
+   "dist": 4559,
+   "cadence": "daily"
+  },
+  "benton": {
+   "name": "The Benton record",
+   "city": "Benton",
+   "state": "Montana",
+   "days": 40,
+   "date": "1876-08-04",
+   "dist": 351,
+   "cadence": "weekly"
+  },
+  "helena": {
+   "name": "Helena weekly herald",
+   "city": "Helena",
+   "state": "Montana",
+   "days": 25,
+   "date": "1876-07-20",
+   "dist": 373,
+   "cadence": "weekly"
+  },
+  "bozeman": {
+   "name": "Bozeman avant courier",
+   "city": "Bozeman",
+   "state": "Montana",
+   "days": 12,
+   "date": "1876-07-07",
+   "dist": 281,
+   "cadence": "weekly"
+  },
+  "ny_sun_custer": {
+   "name": "The sun",
+   "city": "New York",
+   "state": "New York",
+   "days": 11,
+   "date": "1876-07-06",
+   "dist": 2744,
+   "cadence": "daily"
+  },
+  "marshall_tx": null,
+  "honolulu_lincoln": {
+   "name": "The Pacific commercial advertiser",
+   "city": "Honolulu",
+   "state": "Hawaii",
+   "days": 29,
+   "date": "1865-05-13",
+   "dist": 7772,
+   "cadence": "weekly"
+  }
+ },
+ "lincoln_conf": {
+  "n": 20,
+  "median": 11.0,
+  "other_n": 115,
+  "other_median": 6.0,
+  "sc_n": 8,
+  "sc_median": 10.5
+ },
+ "custer": {
+  "first_day_n": 12,
+  "first_day_east": 10,
+  "first_day_states": 9,
+  "montana_n": 5,
+  "montana_median": 25.0,
+  "ny_days": 11
+ },
+ "titanic": {
+  "day0_n": 41,
+  "day0_states": 27,
+  "west_day0": 10
+ },
+ "weekly_median": {
+  "lincoln1865": 7.0,
+  "custer1876": 18.0,
+  "titanic1912": 4.0,
+  "pearl1941": 5.0
+ },
+ "daily_median": {
+  "lincoln1865": 1.0,
+  "custer1876": 12.0,
+  "titanic1912": 1.0,
+  "pearl1941": 1.0
+ },
+ "total_reported": 860,
+ "total_eligible": 996
+}
