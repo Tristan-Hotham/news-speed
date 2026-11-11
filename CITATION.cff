@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this data or code, please cite it as below."
+title: "How Fast Did News Travel? Four American Stories in Digitised Newspapers, 1865 to 1941"
+type: dataset
+authors:
+  - family-names: Hotham
+    given-names: Tristan
+    orcid: "https://orcid.org/0000-0003-4931-9349"
+    affiliation: "Independent researcher"
+doi: "10.5281/zenodo.24052721"
+url: "https://maps.tristanhotham.com/news-speed/"
+repository-code: "https://github.com/Tristan-Hotham/news-speed"
+license: CC-BY-4.0
+keywords:
+  - "history of news"
+  - "telegraph"
+  - "newspapers"
+  - "Chronicling America"
+  - "American Stories"
+  - "diffusion of information"
+  - "digital history"
+  - "maps"
